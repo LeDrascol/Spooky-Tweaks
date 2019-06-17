@@ -1,0 +1,74 @@
+[
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/3",
+    "value": [
+      2,
+      0.86
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/4",
+    "value": [
+      3,
+      0.72
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/5",
+    "value": [
+      4,
+      0.58
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/6",
+    "value": [
+      5,
+      0.44
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/7",
+    "value": [
+      6,
+      0.3
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/8",
+    "value": [
+      7,
+      0.16
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/9",
+    "value": [
+      8,
+      0.02
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/10",
+    "value": [
+      9,
+      0
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/mechBodyEnergyDrain/11",
+    "value": [
+      10,
+      0
+    ]
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/0",
+    "value": "A strange ^#949493;moon^white; with ^red;no breathable atmosphere^white;. The sky is open to the stars, and there is mystery below the ground. Likelihood of getting ^#823bbb;spooked^white;: 92%."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/1",
+    "value": "This ^#949493;moon^white; supports lots of ^#823bbb;spooking^white; and has ^red;no atmosphere^white;. Fuel is abundant here - however, scans indicate that it may be ^#823bbb;2spooky4u^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/moon/2",
+    "value": "This ^#823bbb;spooky^white; ^#949493;moon^white; has ^red;no breathable atmosphere^white;, but there are caverns that contain vast spookium deposits. Useful, but also ^#823bbb;spooky^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/visitableTypeDescription/ancientgateway/0",
+    "value": "An ^#571cff;Ancient Gateway^white; of known provenance; but probably not known to you."
+  },
+  {
+    "op": "replace",
+    "path": "/displayOres/erchius/displayName",
+    "value": "Crystal Spookium"
+  }
+]

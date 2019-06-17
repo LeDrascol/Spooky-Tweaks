@@ -1,0 +1,212 @@
+[
+  {
+    "op": "replace",
+    "path": "/sellFactor",
+    "value": 1
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "coalore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "copperore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "silverore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "goldore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "ironore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "tungstenore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "titaniumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "durasteelore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "aegisaltore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "feroziumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "violiumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "solariumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "ironbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "tungstenbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "titaniumbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "durasteelbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "refinedaegisalt"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "refinedferozium"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "refinedviolium"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "solariumstar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "diamond"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "prisiliteore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "corefragmentore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "supermatter"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "solidfuel"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "liquidfuel"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "moonstoneore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "platinumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "plutoniumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "triangliumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "uraniumore"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "uraniumrod"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "lead"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "sulphur"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "perfectlygenericitem"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "rottenfood"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "copperbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "silverbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "goldbar"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "plantmatter"
+  },
+  {
+    "op": "add",
+    "path": "/acceptItems/-",
+    "value": "plantfibre"
+  }
+]

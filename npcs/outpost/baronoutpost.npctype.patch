@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Excited. Esther has been showing me how to ^orange;mend broken Protectorate weapons^white;. You wouldn't happen to have one would you?"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "Satisfied. The comforts of a castle are nothing compared to standing in an old ruin."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "Curious. Can I escape without Esther noticing I'm gone?"
+  }
+]

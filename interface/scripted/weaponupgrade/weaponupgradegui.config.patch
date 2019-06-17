@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/title",
+    "value": " Ancient Upgrade Anvil"
+  },
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": " Upgrade your items here!"
+  }
+]

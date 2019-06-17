@@ -1,0 +1,40 @@
+[
+  {
+    "op": "replace",
+    "path": "/panels/0/startTime",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/panels/1",
+    "value": {
+      "drawables": [
+        {
+          "image": "/cinematics/chuckles.png:<frame>"
+        }
+      ],
+      "animationFrames": 0,
+      "keyframes": [
+        {
+          "timecode": 0,
+          "zoom": 0,
+          "alpha": 0,
+          "frame": 0,
+          "position": [
+            480,
+            270
+          ],
+          "complete": true
+        }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/audio/0",
+    "value": {
+      "timecode": 0,
+      "resource": "/assetmissing.wav"
+    }
+  }
+]

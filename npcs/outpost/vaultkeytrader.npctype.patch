@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/unavailable/default/default/0",
+    "value": "The time will come for you, <entityname>. You are not yet ready."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/unavailable/default/default/-",
+    "value": "A greater challenge still awaits you, <entityname>."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/unavailable/default/default/-",
+    "value": "Patience, <entityname>."
+  }
+]

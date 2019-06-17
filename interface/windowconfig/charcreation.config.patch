@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelCasualMode/value",
+    "value": "NORMAL"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelSurvivalMode/value",
+    "value": "EXPERT"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/0/data",
+    "value": { "description": "Enjoy the game and have fun." }
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/1/data",
+    "value": { "description": "Starvation, loss on death, beam limitations." }
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/2/data",
+    "value": { "description": "Like expert, but you die forever!" }
+  }
+]

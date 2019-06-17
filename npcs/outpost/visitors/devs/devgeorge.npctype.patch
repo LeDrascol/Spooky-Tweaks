@@ -1,0 +1,36 @@
+[
+  {
+    "op": "replace",
+    "path": "/items/override/0",
+    "value": [
+      0,
+      [
+        {
+          "head": [
+            {
+              "name": "georgedevhead",
+              "parameters": {
+                "colorIndex": 0
+              }
+            }
+          ],
+          "chest": [
+            {
+              "name": "moneybagschest"
+            }
+          ],
+          "legs": [
+            {
+              "name": "moneybagspants"
+            }
+          ],
+          "back": [
+            {
+              "name": "moneybagsback"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

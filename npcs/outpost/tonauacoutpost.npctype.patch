@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/behaviorConfig/blessings/0",
+    "value": "regeneration3"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/behaviorConfig/blessings/-",
+    "value": "lowgrav"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/behaviorConfig/blessings/-",
+    "value": "swimboost"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/behaviorConfig/blessings/-",
+    "value": "electricaura"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/behaviorConfig/blessings/-",
+    "value": "liquidimmunity"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/behaviorConfig/blessings/-",
+    "value": "fireblock"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/behaviorConfig/rotationTime",
+    "value": 1800
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "Such grand ancient ruins... I will rewrite history to say that Kluex made these!"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/bless/default/default/0",
+    "value": "And Kluex said, 'Let there be boons upon just anyone who walks by!'"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/bless/default/default/3",
+    "value": "You get a blessing, and you get a blessing, and you get a blessing! Everyone gets a blessing!"
+  }
+]

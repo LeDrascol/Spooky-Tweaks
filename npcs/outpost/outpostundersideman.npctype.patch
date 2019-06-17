@@ -1,0 +1,69 @@
+[
+  {
+    "op": "replace",
+    "path": "/baseType",
+    "value": "merchant"
+  },
+  {
+    "op": "remove",
+    "path": "/scriptConfig/behavior"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/merchant",
+    "value": {
+      "waitTime": 40,
+      "storeRadius": 8,
+      "poolsFile": "/npcs/merchantpools.config",
+      "categories": {
+        "override": [
+          "undersidemerchant"
+        ]
+      },
+      "buyFactorRange": [
+        1,
+        1
+      ],
+      "sellFactorRange": [
+        0.7,
+        0.9
+      ],
+      "numItems": 50,
+      "behaviorConfig": {
+        "sleep": false
+      },
+      "paneLayoutOverride": {
+        "windowtitle": {
+          "title": " Unapparent Apparel",
+          "subtitle": " Hats you wouldn't suspect!"
+        }
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/items/override/0",
+    "value": [
+      0,
+      [
+        {
+          "head": [
+            {
+              "name": "insidioushead"
+            }
+          ],
+          "chest": [
+            {
+              "name": "moneybagschest"
+            }
+          ],
+          "legs": [
+            {
+              "name": "moneybagspants"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "This place is fascinating. I have so much research I could be doing myself!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "I love having someone to do all my work for me."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "Curating is easy when you can have the items delivered to you."
+  }
+]

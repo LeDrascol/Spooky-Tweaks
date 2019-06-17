@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/gui/windowtitle/subtitle",
+    "value": "Spooky fuel repository"
+  }
+]

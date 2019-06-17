@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/apex/human/0",
+    "value": "Ah, unfortunate to see humans in our midst."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/human/0",
+    "value": "Oh, a smoothskin."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/human/0",
+    "value": "Oh... a human."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/default/0",
+    "value": "You're not a human. I don't like you."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/human/1",
+    "value": "Hey, great to see another of the one true race."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/apex/0",
+    "value": "A talking monkey. Did you escape the circus?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/avian/0",
+    "value": "Hey, it's a big bird! What a dumb creature."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/floran/0",
+    "value": "A triffid! I thought my kind deforested you all."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/glitch/0",
+    "value": "Whoa, nice, a servant! I need to buy one of you."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/human/hylotl/0",
+    "value": "Oh hey, a fish monster! It's like an old movie!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/human/0",
+    "value": "Meatsack!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/glitch/0",
+    "value": "Disgusted. A degenerate race approaches."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/rotationTime",
+    "value": 1800
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/numItems",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/paneLayoutOverride/windowtitle/subtitle",
+    "value": "  Acquires assorted augments"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/start/default/default/0",
+    "value": "Hello, <entityname>. I've acquired a shipment of Augments. Are these of any use to you?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/welcome/default/default/0",
+    "value": "Hello, <entityname>. I've acquired a shipment of Augments. Are these of any use to you?"
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/0",
+    "value": "I'll have a new shipment later, come back when you need to."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/end/default/default/1",
+    "value": "Come back later, <entityname> - I'll have a new shipment by then."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/merchant/tout/default/default/1",
+    "value": "<entityname> - the rebels have shipped me a new batch of Augments."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/buyFactorRange/0",
+    "value": 0.6
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/buyFactorRange/1",
+    "value": 1.4
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/sellFactorRange/0",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/merchant/sellFactorRange/1",
+    "value": 1
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I like thiss place, it's furtive!"
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "Sstanding around all day iss thrilling for a hunter."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "I've always wanted to see the universe, but sstanding here hass priority."
+  }
+]

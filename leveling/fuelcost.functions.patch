@@ -1,0 +1,18 @@
+[
+  {
+    "op": "replace",
+    "path": "/interSystemFuelcost/3",
+    "value": [
+      10,
+      100
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/interSystemFuelcost/4",
+    "value": [
+      100,
+      1000
+    ]
+  }
+]

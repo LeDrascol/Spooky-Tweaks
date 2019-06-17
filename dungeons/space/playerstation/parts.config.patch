@@ -1,0 +1,354 @@
+[
+  {
+    "op": "replace",
+    "path": "/parts/core/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/core/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/input/0",
+    "value": [
+      "titaniumbar",
+      40
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/input/1",
+    "value": [
+      "goldbar",
+      35
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/corehuge/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cross/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cross/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNESW/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNESW/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNWSE/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/crosswayNWSE/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passage/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passage/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/input/0",
+    "value": [
+      "titaniumbar",
+      40
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/input/1",
+    "value": [
+      "goldbar",
+      35
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/passageglass/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaft/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaft/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/input/0",
+    "value": [
+      "titaniumbar",
+      40
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/input/1",
+    "value": [
+      "goldbar",
+      35
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/shaftglass/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNE/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNE/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNW/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerNW/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSW/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSW/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSE/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/cornerSE/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNWE/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNWE/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSE/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSE/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSW/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncNSW/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncSWE/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/tjuncSWE/input/4",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechassembly/input/2",
+    "value": [
+      "silverbar",
+      25
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechassembly/input/3",
+    "value": [
+      "wire",
+      30
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayL/input/1",
+    "value": [
+      "goldbar",
+      35
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/parts/mechbayR/input/1",
+    "value": [
+      "goldbar",
+      35
+    ]
+  }
+]

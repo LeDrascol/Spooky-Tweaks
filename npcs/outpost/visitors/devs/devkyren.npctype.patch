@@ -1,0 +1,28 @@
+[
+  {
+    "op": "replace",
+    "path": "/items/override/0",
+    "value": [
+      0,
+      [
+        {
+          "chest": [
+            {
+              "name": "moneybagschest"
+            }
+          ],
+          "legs": [
+            {
+              "name": "moneybagspants"
+            }
+          ],
+          "back": [
+            {
+              "name": "moneybagsback"
+            }
+          ]
+        }
+      ]
+    ]
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mr. Spooks"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "You better watch out. You better not mine. Don't touch that fuel, I'm tellin' you why; Mr Spooks is coming, and you're going to die."
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/maxSpeed",
+    "value": 20
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/minSpeedRange/1",
+    "value": 20
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/erchiusRange/1",
+    "value": 8000
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/invulnerable/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/iceStatusImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/statusSettings/stats/lavaImmunity/baseValue",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/baseParameters/capturable",
+    "value": true
+  },
+  {
+    "op": "remove",
+    "path": "/baseParameters/movementSettings/physicsEffectCategories"
+  }
+]
