@@ -1,0 +1,10 @@
+[
+  {
+    "op": "replace",
+    "path": "/input/0",
+    "value": {
+      "item": "chocolate",
+      "count": 1
+    }
+  }
+]

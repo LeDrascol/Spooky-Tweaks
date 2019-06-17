@@ -1,0 +1,40 @@
+[
+  {
+    "op": "remove",
+    "path": "/input/0"
+  },
+  {
+    "op": "replace",
+    "path": "/input/1",
+    "value": {
+      "item": "smallbattery",
+      "count": 1
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/input/2",
+    "value": {
+      "item": "wire",
+      "count": 2
+    }
+  },
+  {
+    "op": "add",
+    "path": "/input/3",
+    "value": {
+      "item": "siliconboard",
+      "count": 1
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "inventorstable3"
+  },
+  {
+    "op": "add",
+    "path": "/groups/1",
+    "value": "craftingstations"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "durasteelbar", "count" : 6 },
+    { "item" : "battery", "count" : 1 },
+    { "item" : "techcard", "count" : 4 }
+  ],
+  "output" : {
+    "item" : "translocator",
+    "count" : 1
+  },
+  "groups" : [ "craftinganvil3", "weapons", "all" ]
+}

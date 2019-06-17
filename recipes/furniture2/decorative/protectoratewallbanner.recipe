@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "silk", "count" : 20 }
+  ],
+  "output" : { "item" : "protectoratewallbanner", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

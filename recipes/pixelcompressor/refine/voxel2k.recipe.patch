@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/groups/0",
+    "value": "plain"
+  },
+  {
+    "op": "add",
+    "path": "/groups/0",
+    "value": "all"
+  }
+]

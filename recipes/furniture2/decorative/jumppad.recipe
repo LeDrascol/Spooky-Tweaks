@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 2 },
+    { "item" : "petball", "count" : 5 }
+  ],
+  "output" : { "item" : "jumppad", "count" : 4 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

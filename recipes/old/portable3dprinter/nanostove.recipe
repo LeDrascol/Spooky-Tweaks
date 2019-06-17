@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "campfire", "count" : 1 },
+	{ "item" : "titaniumbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "nanostove",
+    "count" : 1
+  },
+  "groups" : [ "plain", "survival", "objects" ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "winningticket", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "redtoyblock",
+    "count" : 50
+  },
+  "groups" : [ "hylotlprizecounter" ]
+}

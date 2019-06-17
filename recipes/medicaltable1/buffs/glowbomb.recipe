@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "yellowstim", "count" : 1 },
+    { "item" : "bottle", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "glowbomb",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical", "buffs" ]
+}

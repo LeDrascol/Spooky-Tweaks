@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 300 }
+  ],
+  "output" : { "item" : "tallchair", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

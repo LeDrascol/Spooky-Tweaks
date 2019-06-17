@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/input/0",
+    "value": {
+      "item": "durasteelbar",
+      "count": 10
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/input/1"
+  },
+  {
+    "op": "replace",
+    "path": "/input/3",
+    "value": {
+      "item": "smallbattery",
+      "count": 2
+    }
+  }
+]

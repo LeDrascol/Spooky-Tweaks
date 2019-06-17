@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "electronicgoods", "count" : 3 },
+    { "item" : "salvagebody", "count" : 2 }
+  ],
+  "output" : {
+    "item" : "mechblueprint3",
+    "count" : 1
+  },
+  "groups" : [ "beakeasy", "mod", "laruamrasa" ]
+}

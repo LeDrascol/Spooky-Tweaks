@@ -1,0 +1,21 @@
+[
+  {
+    "op": "remove",
+    "path": "/input/2"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "inventorstable"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "craftingstations"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "all"
+  }
+]
