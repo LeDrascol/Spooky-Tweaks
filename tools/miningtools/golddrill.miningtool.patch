@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A level three drill. Even for drills, gold is not a good tool material."
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  }
+]

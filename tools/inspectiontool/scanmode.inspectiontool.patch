@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/beamAmbience",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

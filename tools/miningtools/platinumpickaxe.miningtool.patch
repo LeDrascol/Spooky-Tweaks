@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A level four pickaxe. Like gold but in another color."
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Liquid Spookium"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A dangerous and spooky substance, siphoned from moons and used as FTL fuel."
+  },
+  {
+    "op": "replace",
+    "path": "/fuelAmount",
+    "value": 2
+  }
+]

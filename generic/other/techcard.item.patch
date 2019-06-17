@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 1000
+  },
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [
+      "reagent"
+    ]
+  }
+]

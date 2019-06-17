@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/largeImage",
+    "value": "fish.png"
+  },
+  {
+    "op": "replace",
+    "path": "/durability",
+    "value": 1000
+  },
+  {
+    "op": "add",
+    "path": "/radioMessagesOnPickup",
+    "value": [
+      "pickupfishaxe"
+    ]
+  }
+]

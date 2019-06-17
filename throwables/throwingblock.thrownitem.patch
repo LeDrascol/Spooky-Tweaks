@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A block you can throw! At last, Accelerator types can build things!"
+  }
+]

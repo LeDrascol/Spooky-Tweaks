@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A mixed salad for your dinner or lunch. Best eaten while enjoying someone's company."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mixed Salad"
+  }
+]

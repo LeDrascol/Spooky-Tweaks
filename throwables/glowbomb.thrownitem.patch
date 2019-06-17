@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "For when you need to carelessly lob your alchemy onto everyone else."
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A level two pickaxe. Cooler than the copper one but still boring."
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  }
+]

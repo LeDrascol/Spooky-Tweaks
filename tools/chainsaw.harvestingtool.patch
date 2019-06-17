@@ -1,0 +1,16 @@
+[
+  {
+    "op": "remove",
+    "path": "/twoHanded"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 150
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Great for chopping down trees. Uses a special safety chain to avoid massacres."
+  }
+]

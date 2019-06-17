@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 2200
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Unlocks the ability to print an assortment of items on the fly."
+  },
+  {
+    "op": "replace",
+    "path": "/unlockMessage",
+    "value": "You can now print an assortment of items without a pixel printer. It seems that this model was just a prototype, and hasn't unlocked all the recipes. Crafting an additional printer in the future could yield new items, if there's more to learn."
+  }
+]

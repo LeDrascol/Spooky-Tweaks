@@ -1,0 +1,24 @@
+[
+  {
+    "op": "replace",
+    "path": "/largeImage",
+    "value": "fish.png"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Super Fishaxe (Eraser)"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "One step below a sharknado. Won't drop anything mined."
+  },
+  {
+    "op": "add",
+    "path": "/radioMessagesOnPickup",
+    "value": [
+      "pickupfishaxe"
+    ]
+  }
+]

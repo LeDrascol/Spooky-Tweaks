@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 850
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An instant meal for anyone in too much of a hurry to make their own food. Lasts almost forever."
+  }
+]

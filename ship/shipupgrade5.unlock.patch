@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ship Upgrade 5"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Instantly upgrades your ship!"
+  }
+]

@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A fillet of raw fish...slimy. Far too slimy to carry 400 of them."
+  }
+]

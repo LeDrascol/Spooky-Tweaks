@@ -1,0 +1,29 @@
+[
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [
+      "reagent"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "craftingMaterial"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A prize ticket given as reward currency. Used for buying toys in Hylotl arcades."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Prize Ticket"
+  }
+]

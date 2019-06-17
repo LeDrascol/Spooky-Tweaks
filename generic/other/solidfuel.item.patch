@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An unstable spooky substance, mined from moons and used as FTL fuel."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Crystal Spookium"
+  },
+  {
+    "op": "replace",
+    "path": "/fuelAmount",
+    "value": 6
+  }
+]

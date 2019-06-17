@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/fuelAmount",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A measure of gooey unrefined oil. Works as ship fuel in a pinch."
+  }
+]

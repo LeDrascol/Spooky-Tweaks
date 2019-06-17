@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A level four drill. Faster than the gold drill because it's a different color."
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

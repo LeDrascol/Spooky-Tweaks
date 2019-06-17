@@ -1,0 +1,40 @@
+[
+  {
+    "op": "replace",
+    "path": "/effects/0",
+    "value": [
+      {
+        "effect": "runboostfood",
+        "duration": 180
+      },
+      {
+        "effect": "jumpboostfood",
+        "duration": 180
+      },
+      {
+        "effect": "ragefood",
+        "duration": 180
+      },
+      {
+        "effect": "maxhealthscalingboostfood",
+        "duration": 180
+      },
+      {
+        "effect": "maxenergyscalingboostfood",
+        "duration": 180
+      },
+      {
+        "effect": "bouncy",
+        "duration": 180
+      }
+    ]
+  },
+  {
+    "op": "remove",
+    "path": "/itemAgingScripts"
+  },
+  {
+    "op": "remove",
+    "path": "/rottingMultiplier"
+  }
+]

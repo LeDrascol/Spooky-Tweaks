@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Launches a drone which projects a defensive anti-spook shield."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Spookproof Shield Drone"
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Legendary"
+  }
+]
