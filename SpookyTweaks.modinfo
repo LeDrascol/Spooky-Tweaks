@@ -1,12 +1,12 @@
 {
   "name" : "Spooky Tweaks",
-  "version" : "1.3.2",
+  "version" : "1.4.1",
   "path" : ".",
   "dependencies" : [],
   "includes" : [],
   "metadata" : {
-    "author" : "Zlashdrive",
-    "version" : "1.4",
+    "author" : "LeDrascol",
+    "version" : "1.4.1",
     "description" : "Attempting to funbalance the game through changes to almost everything."
   }
 }
