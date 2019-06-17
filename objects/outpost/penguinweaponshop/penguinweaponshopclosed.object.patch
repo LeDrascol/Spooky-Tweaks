@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "This shop can't afford to stay open. Helping Esther should bring in more people for it!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "This appears to be some sort of trading post. It should open soon."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "A trading post of some kind. It's closed right now, but it should open soon."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran's not sssure what kind of shop this will be, but knows it is not abandoned forever."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Disappointed. This trading post is currently closed. It should open later."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Probably a trading post, yet to be occupied until after I help Esther more."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "A stall where goods or services will be peddled at a later time."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "An empty shop is a sorry sight to behold. I recon it'll open later."
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "op": "remove",
+    "path": "/tooltipKind"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 20000
+  },
+  {
+    "op": "add",
+    "path": "/radioMessagesOnPickup",
+    "value": [
+      "pickuprepairo"
+    ]
+  }
+]

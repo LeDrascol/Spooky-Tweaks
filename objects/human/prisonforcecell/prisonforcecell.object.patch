@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/sitStatusEffects/-",
+    "value": "bed4"
+  }
+]

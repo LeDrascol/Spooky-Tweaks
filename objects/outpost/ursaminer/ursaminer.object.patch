@@ -1,0 +1,228 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.9
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/4",
+    "value": {
+      "item": {
+        "name": "platinumbar"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/6",
+    "value": {
+      "item": {
+        "name": "tungstenbar"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/7",
+    "value": {
+      "item": {
+        "name": "titaniumbar"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/8",
+    "value": {
+      "item": {
+        "name": "durasteelbar"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/9",
+    "value": {
+      "item": {
+        "name": "uraniumrod"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/10",
+    "value": {
+      "item": {
+        "name": "refinedaegisalt"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/11",
+    "value": {
+      "item": {
+        "name": "refinedferozium"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/12",
+    "value": {
+      "item": {
+        "name": "refinedviolium"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/13",
+    "value": {
+      "item": {
+        "name": "solariumstar"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/14",
+    "value": {
+      "item": {
+        "name": "copperpickaxe"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/15",
+    "value": {
+      "item": {
+        "name": "silverpickaxe"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/16",
+    "value": {
+      "item": {
+        "name": "goldpickaxe"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/17",
+    "value": {
+      "item": {
+        "name": "platinumpickaxe"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/18",
+    "value": {
+      "item": {
+        "name": "diamondpickaxe"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/19",
+    "value": {
+      "item": {
+        "name": "copperdrill"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/20",
+    "value": {
+      "item": {
+        "name": "silverdrill"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/21",
+    "value": {
+      "item": {
+        "name": "golddrill"
+      }
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/22",
+    "value": {
+      "item": {
+        "name": "platinumdrill"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "diamonddrill"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "chainsaw"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "oredetector"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "cavedetector"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "mecharmdrill"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "mecharmbeamdrill"
+      }
+    }
+  }
+]

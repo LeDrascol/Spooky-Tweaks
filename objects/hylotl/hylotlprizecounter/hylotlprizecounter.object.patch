@@ -1,0 +1,47 @@
+[
+  {
+    "op": "add",
+    "path": "/interactAction",
+    "value": "OpenCraftingInterface"
+  },
+  {
+    "op": "add",
+    "path": "/interactData",
+    "value": {
+      "config": "/interface/windowconfig/craftingmerchant.config",
+      "paneLayoutOverride": {
+        "windowtitle": {
+          "title": "Arcade Prizes",
+          "subtitle": "Plushies and toys galore!",
+          "icon": {
+            "file": "/interface/crafting/holidaycraftingtable.png"
+          }
+        },
+        "imgPlayerMoneyIcon": {
+          "visible": false
+        },
+        "lblPlayerMoney": {
+          "visible": false
+        }
+      },
+      "filter": [
+        "hylotlprizecounter"
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Oohh, I wonder if I can get the unicorn plush?"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "I wouldn't mind getting a Poptop plushie, myself."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Motivated. I'd like to get some of these..."
+  }
+]

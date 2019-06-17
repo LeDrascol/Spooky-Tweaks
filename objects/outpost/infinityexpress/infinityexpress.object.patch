@@ -1,0 +1,106 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.8
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/20"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/19"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/18"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/17"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/16"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/15"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items/5"
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "pizzaslice"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "hamburger"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "cottonwool"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "parasol"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "greenflashlight"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "redflashlight"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "yellowflashlight"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "beachball"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "I hope they can give me my soda fix."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " ^#b9b5b2;Scraps, snacks, and supplies"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Purchase tech related items using this interface."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Tech Dispenser"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "I can buy tech here."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "I can buy a tech here."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "This machine ssells useful tech."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Pleased. Tech can be purchased from this machine."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "A tech console that sells tech."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "A shop of sorts, it sells tech. Very useful upgrades."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "I can buy me some tech here."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Tech Dispenser"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " ^#b9b5b2;Sells Tech"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 1
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "mechassemblystation"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "manipulatormodule"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "techcard"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "upgrademodule"
+      }
+    }
+  }
+]

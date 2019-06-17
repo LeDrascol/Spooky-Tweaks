@@ -1,0 +1,28 @@
+[
+  {
+    "op": "remove",
+    "path": "/printable"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Hylotl Vending Machine"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 1
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "cannedfood"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": " Hylotl Vending Machine"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/chatOptions/1",
+    "value": "We're at the forefront of promising features we won't ever implement."
+  },
+  {
+    "op": "add",
+    "path": "/chatOptions/-",
+    "value": "A snarky wolf came by and upgraded my tech dispenser with new items the other day."
+  },
+  {
+    "op": "add",
+    "path": "/chatOptions/-",
+    "value": "Protective bio-implants? That sounds too practical to be developed here."
+  },
+  {
+    "op": "add",
+    "path": "/chatOptions/-",
+    "value": "Our bubble based tech was far too fun to let anyone play with."
+  },
+  {
+    "op": "add",
+    "path": "/chatOptions/-",
+    "value": "Stop asking about the mechs, it's not my job anymore!"
+  }
+]

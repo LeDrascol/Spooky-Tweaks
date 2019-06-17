@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "This machine runs a game called 'Mazebound64'. It doesn't look very good."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Mazebound64"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "I am not a fan of Mazebound64. I've heard horror stories about Miniknog testing... Mazes give me the creeps!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Mazebound64 was developed by an Avian team. There aren't many Avian video games... Perhaps it should stay that way."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran thinksss Mazebound64 is big bore. Not even meats at the end!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Determined. I will evade this hellish arcade and escape from Mazebound64 once and for all!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Mazebound64 is reminiscent of some of the video games from Earth. An unfinished prototype that got a full release."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Mazebound64 is beautiful in its simplicity, 10/10. This has been a paid promotion by Chucklefish Games."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Mazebound64? Mazes are a big ol' waste of time."
+  }
+]

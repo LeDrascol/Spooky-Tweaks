@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An arcade machine running an unfinished game called 'Starbound'."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "A space exploration game called Starbound. It feels unfinished."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Never heard of this Starbound game. And yet expectations are already too high..."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Sstarbound spaceship game. Floran get pixelsss for product placement!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Determined. I will wait for this Starbound video game to be finished."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Starbound? It was in beta back on earth. Somehow they released it without finishing it."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "This Starbound game speaks to me on a spiritual level. It's message was removed from the game."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Some kinda space explorin' game called Starbound. I do hope they finish it!"
+  }
+]

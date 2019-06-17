@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Helping out Esther might stimulate the economy enough for a shop to open up here!"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "That is a very big lock on this crate door... Maybe the owner will unlock it after I help Esther out more."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "This crate is secured with a comically over-sized padlock. Maybe the owner will unlock it after I help Esther out more."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran wantsss to know what's inside. Floran thinksss helping Essther will help it open!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Curious. What is this place, and why is it closed? Maybe helping Esther can boost the economy and make the owner return."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "It's all closed up! Maybe the owner will unlock it after I help Esther out more."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Did that giant anchor come from a giant ship? Maybe the owner will reopen shop after I help Esther out more."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "This is a shifty lookin' box. I'll bet the owner will unlock it after I help Esther out more"
+  }
+]

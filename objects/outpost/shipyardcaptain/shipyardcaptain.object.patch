@@ -1,0 +1,19 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.65
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Captain Pete"
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "repairo"
+    }
+  }
+]
