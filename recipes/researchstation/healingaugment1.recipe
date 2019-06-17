@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "bandage", "count" : 10 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "healingaugment1",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

@@ -1,0 +1,10 @@
+{
+  "input" : [   
+    { "item" : "halogenpack", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "lightaugment2",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

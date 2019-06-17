@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "ancientdoor", "count" : 1 },
+    { "item" : "teleportercore", "count" : 1 },
+	{ "item" : "essence", "count" : 1000 }
+  ],
+  "output" : {
+    "item" : "challengedoor",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

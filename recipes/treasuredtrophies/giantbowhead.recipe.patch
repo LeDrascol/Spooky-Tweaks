@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "craftingwheel"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "clothes"
+  }
+]

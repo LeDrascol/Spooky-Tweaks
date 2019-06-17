@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "antidote", "count" : 5 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "poisonblockaugment",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

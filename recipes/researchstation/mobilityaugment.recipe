@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "jumpaugment", "count" : 1 },
+	{ "item" : "speedaugment", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "mobilityaugment",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

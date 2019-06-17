@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "greenstim", "count" : 5 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "speedaugment",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

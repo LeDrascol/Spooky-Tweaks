@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "snowflake", "count" : 50 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "iceblockaugment",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

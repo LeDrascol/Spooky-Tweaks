@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/input/0/item",
+    "value": "sandstonematerial"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 50
+  }
+]

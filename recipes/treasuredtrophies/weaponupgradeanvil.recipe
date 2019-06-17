@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "craftinganvil", "count" : 1 },
+    { "item" : "essence", "count" : 5000 }
+  ],
+  "output" : {
+    "item" : "weaponupgradeanvil",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

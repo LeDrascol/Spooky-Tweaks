@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "meatstew", "count" : 5 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "healthaugment2",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

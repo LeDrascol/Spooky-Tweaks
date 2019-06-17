@@ -1,0 +1,14 @@
+[
+  {
+    "op": "replace",
+    "path": "/input/0",
+    "value": {
+      "item": "plantmatter",
+      "count": 3
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/input/1"
+  }
+]

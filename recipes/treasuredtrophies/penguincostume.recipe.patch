@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "beakeasy"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 3
+  }
+]

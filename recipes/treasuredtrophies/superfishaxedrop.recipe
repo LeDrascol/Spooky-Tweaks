@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "rawfish", "count" : 40000 },
+	{ "item" : "diamonddrill", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "superfishaxedrop",
+    "count" : 1
+  },
+  "groups" : [ "treasuredtrophies" ]
+}

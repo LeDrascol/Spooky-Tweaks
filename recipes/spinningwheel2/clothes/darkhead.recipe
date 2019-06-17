@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "darkdisguisehead", "count" : 1 },
+	{ "item" : "blackdye", "count" : 1 }
+  ],
+  "duration" : 5,
+  "output" : { "item" : "darkhead", "count" : 1 },
+  "groups" : [ "craftingwheel2", "clothes" ]
+}

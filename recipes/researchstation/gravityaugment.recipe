@@ -1,0 +1,11 @@
+{
+  "input" : [   
+    { "item" : "alienfruitjuice", "count" : 5 },
+	{ "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "gravityaugment",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}

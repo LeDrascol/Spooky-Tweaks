@@ -1,0 +1,10 @@
+{
+  "input" : [   
+    { "item" : "lanternstickback", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "lightaugment1",
+    "count" : 1
+  },
+  "groups" : [ "researchstation" ]
+}
