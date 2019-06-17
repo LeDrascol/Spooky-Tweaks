@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "The label reads, \"A parasitic aberration grown from within Spookium Supermatter.\""
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Spook Lord Figurine"
+  }
+]

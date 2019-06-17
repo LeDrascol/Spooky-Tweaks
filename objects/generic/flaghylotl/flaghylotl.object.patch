@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "flaghylotl"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Hylotl"
+  }
+]

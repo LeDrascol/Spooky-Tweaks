@@ -1,0 +1,47 @@
+[
+  {
+    "op": "remove",
+    "path": "/scripts"
+  },
+  {
+    "op": "remove",
+    "path": "/npcToy"
+  },
+  {
+    "op": "add",
+    "path": "/interactAction",
+    "value": "OpenMerchantInterface"
+  },
+  {
+    "op": "add",
+    "path": "/interactData",
+    "value": {
+      "config": "/interface/windowconfig/vendingmachine.config",
+      "paneLayoutOverride": {
+        "windowtitle": {
+          "title": " Wrecked Vending Machine",
+          "subtitle": " What did you expect?"
+        }
+      },
+      "buyFactor": 2.5,
+      "sellFactor": 0.2,
+      "items": [
+        {
+          "item": "smashabledrink1"
+        },
+        {
+          "item": "smashabledrink2"
+        },
+        {
+          "item": "smashabledrink3"
+        },
+        {
+          "item": "smashabledrink4"
+        },
+        {
+          "item": "smashabledrink5"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/flickerMinIntensity",
+    "value": 0.99
+  },
+  {
+    "op": "add",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

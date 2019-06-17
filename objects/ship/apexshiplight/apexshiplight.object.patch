@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/health",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/race",
+    "value": "generic"
+  }
+]

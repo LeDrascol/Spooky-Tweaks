@@ -1,0 +1,54 @@
+[
+  {
+    "op": "add",
+    "path": "/colonyTags",
+    "value": [
+      "familiar",
+      "storage"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/lightColor",
+    "value": [
+      61,
+      88,
+      102
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/familiarDescription",
+    "value": "I wonder why all the storage lockers look the same..."
+  },
+  {
+    "op": "add",
+    "path": "/itemAgeMultiplier",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A locker. Store some stuff, why don't you?"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Familiar Ship Locker"
+  },
+  {
+    "op": "replace",
+    "path": "/openSounds/0",
+    "value": "/sfx/objects/gunchest_open.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/closeSounds/0",
+    "value": "/sfx/objects/gunchest_close.ogg"
+  },
+  {
+    "op": "replace",
+    "path": "/uiConfig",
+    "value": "/interface/chests/chest<slots>.config"
+  }
+]

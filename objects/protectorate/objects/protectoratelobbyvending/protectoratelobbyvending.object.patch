@@ -1,0 +1,60 @@
+[
+  {
+    "op": "remove",
+    "path": "/printable"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": " Protectorate Vending Machine"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Tasty Federated Snacks"
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "cannedfood"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0",
+    "value": {
+      "image": "protectoratelobbyvending.png:<color>",
+      "imagePosition": [
+        -14,
+        0
+      ],
+      "frames": 1,
+      "animationCycle": 0.5,
+      "direction": "right",
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ]
+    }
+  },
+  {
+    "op": "add",
+    "path": "/orientations/-",
+    "value": {
+      "image": "protectoratelobbyvending.png:<color>",
+      "imagePosition": [
+        -14,
+        0
+      ],
+      "frames": 1,
+      "animationCycle": 0.5,
+      "direction": "left",
+      "flipImages": true,
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ]
+    }
+  }
+]

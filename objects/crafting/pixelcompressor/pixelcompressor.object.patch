@@ -1,0 +1,20 @@
+[
+  {
+    "op": "replace",
+    "path": "/orientations/0",
+    "value": {
+      "dualImage": "pixelcompressor.png:<color>.<frame>",
+      "imagePosition": [
+        -24,
+        0
+      ],
+      "frames": 8,
+      "animationCycle": 1,
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ],
+      "collision": "platform"
+    }
+  }
+]

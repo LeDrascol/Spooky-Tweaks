@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "It's probably an airlock, but there's hardly any indication."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Protectorate Door"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "I don't care enough to describe this."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "No, I won't describe that object."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran hasss better thingsss to do than dessscribe thisss."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Unimpressed. I will not provide a description."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Do I really have to say what it is?"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Scan a Hylotl door, they're better. I am not biased."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "I do reckon I've got better things to be doin' than describin' this."
+  }
+]

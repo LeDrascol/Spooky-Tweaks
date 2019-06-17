@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/printable"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 200
+  }
+]

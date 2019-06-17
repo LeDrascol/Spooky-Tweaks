@@ -1,0 +1,108 @@
+[
+  {
+    "op": "replace",
+    "path": "/printable",
+    "value": true
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A vending machine. There are some quality scrap parts in here."
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "This vending machine looks helpful. It could provide some necessary mech supplies."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Ssspace sssupplies!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "What luck having this vending machine here! I'm too lazy to find these parts myself."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": " Scrap Vending Machine"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Useful mech parts"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 5
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/0",
+    "value": {
+      "item": "salvagebody"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/1",
+    "value": {
+      "item": "salvagelegs"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/2",
+    "value": {
+      "item": "salvagebooster"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/items/3",
+    "value": {
+      "item": "salvagearm"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "salvagetier4"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "salvagetier5"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": "salvagetier6"
+    }
+  },
+  {
+    "op": "remove",
+    "path": "/scripts"
+  },
+  {
+    "op": "remove",
+    "path": "/scriptDelta"
+  },
+  {
+    "op": "remove",
+    "path": "/npcToy"
+  }
+]

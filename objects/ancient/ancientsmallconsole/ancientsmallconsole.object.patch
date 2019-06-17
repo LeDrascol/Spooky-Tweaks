@@ -1,0 +1,16 @@
+[
+  {
+    "op": "remove",
+    "path": "/printable"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "wire"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 50
+  }
+]

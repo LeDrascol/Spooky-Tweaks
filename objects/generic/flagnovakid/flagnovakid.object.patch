@@ -1,0 +1,19 @@
+[
+  {
+    "op": "add",
+    "path": "/familiarDescription",
+    "value": "The flag of a fellow glowing race. They won't mind sharing it with us familiars!"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "flagnovakid"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Flag - Novakid"
+  }
+]

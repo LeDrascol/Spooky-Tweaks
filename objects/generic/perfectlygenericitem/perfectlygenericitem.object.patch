@@ -1,0 +1,16 @@
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "perfecthead",
+      "perfectchest",
+      "perfectpants"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 25
+  }
+]

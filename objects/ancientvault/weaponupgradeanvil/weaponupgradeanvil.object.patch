@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Ancient Upgrade Anvil"
+  }
+]
+

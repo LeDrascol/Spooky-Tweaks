@@ -1,0 +1,12 @@
+[
+    {
+        "op" : "add", 
+        "path" : "/filterButtons/-", 
+        "value" :
+        {
+          "baseImage" : "/interface/tabularasa/laruamrasa-button.png",
+          "baseImageChecked" : "/interface/tabularasa/laruamrasa-button_active.png",
+          "filter" : "laruamrasa"
+        }
+    }
+]

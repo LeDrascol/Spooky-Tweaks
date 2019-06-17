@@ -1,0 +1,65 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Someone turned this old arcade machine into a dispenser, but it's off."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Closed Instruments Shop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "I was not a fan of Mazebound64. I'm glad it was stripped down into a dispenser interface."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Mazebound64 was developed by an Avian team. There aren't many Avian video games... What a relief that this one was turned into a dispenser."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran thinksss Mazebound64 was big bore. Glad it sellsss things now instead."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Determined. I will escape from- ...I am mistaken, this is just a dispensing machine made from an arcade cabinet."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Mazebound64 was reminiscent of some of the very first video games from Earth. It's sad they scrapped it to make a dispensing machine."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Navigating dimly lit corridors, just steps away from freedom... something you used to find in arcade machines. This one was turned into a dispensing interface."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Poorly implemented minigames are a big ol' waste of time. I'm mighty glad someone turned this one into somethin' useful."
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0",
+    "value": {
+      "dualImage": "arcadegameclosed.png:<color>",
+      "imagePosition": [
+        -8,
+        0
+      ],
+      "frames": 1,
+      "animationCycle": 0.4,
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ],
+      "collision": "platform"
+    }
+  }
+]

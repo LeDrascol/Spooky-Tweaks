@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 5000
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An assembly station for modular mechs."
+  }
+]

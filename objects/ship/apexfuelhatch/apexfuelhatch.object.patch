@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Accepts spookium, solarium, and various other fuels for the ship's FTL dive."
+  }
+]

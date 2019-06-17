@@ -1,0 +1,160 @@
+[
+  {
+    "op": "remove",
+    "path": "/race"
+  },
+  {
+    "op": "remove",
+    "path": "/scripts"
+  },
+  {
+    "op": "remove",
+    "path": "/scriptDelta"
+  },
+  {
+    "op": "remove",
+    "path": "/winningItem"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Someone turned this old arcade machine into a dispenser."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Instruments Shop"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "I was not a fan of Mazebound64. I'm glad it was stripped down into a dispenser interface."
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Mazebound64 was developed by an Avian team. There aren't many Avian video games... What a relief that this one was turned into a dispenser."
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Floran thinksss Mazebound64 was big bore. Glad it sellsss things now instead."
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Determined. I will escape from- ...I am mistaken, this is just a dispensing machine made from an arcade cabinet."
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Mazebound64 was reminiscent of some of the very first video games from Earth. It's sad they scrapped it to make a dispensing machine."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Navigating dimly lit corridors, just steps away from freedom... something you used to find in arcade machines. This one was turned into a dispensing interface."
+  },
+  {
+    "op": "replace",
+    "path": "/novakidDescription",
+    "value": "Poorly implemented minigames are a big ol' waste of time. I'm mighty glad someone turned this one into somethin' useful."
+  },
+  {
+    "op": "replace",
+    "path": "/interactAction",
+    "value": "OpenMerchantInterface"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData",
+    "value": {
+      "config": "/interface/windowconfig/merchant.config",
+      "paneLayoutOverride": {
+        "windowtitle": {
+          "title": "Chip Tunes",
+          "subtitle": "Unlimited self-provided music",
+			"icon" : {
+			  "file" : "/interface/songbook/iconSongbook.png"
+			}
+        }
+      },
+      "buyFactor": 1,
+      "sellFactor": 1,
+      "items": [
+        { "item" : "accordion" },
+        { "item" : "acousticguitar" },
+        { "item" : "banjo" },
+        { "item" : "bassguitar" },
+        { "item" : "bones" },
+        { "item" : "brightpiano" },
+        { "item" : "clarinet" },
+        { "item" : "drumkit" },
+        { "item" : "dulcimer" },
+        { "item" : "electricbass" },
+        { "item" : "flute" },
+        { "item" : "harmonica" },
+        { "item" : "harp" },
+        { "item" : "keyboard" },
+        { "item" : "koto" },
+        { "item" : "leadguitar" },
+        { "item" : "microphone" },
+        { "item" : "microphonefem" },
+        { "item" : "musicbox" },
+        { "item" : "nylonguitar" },
+        { "item" : "oboe" },
+        { "item" : "ocarina" },
+        { "item" : "overdriveguitar" },
+        { "item" : "piano" },
+        { "item" : "reedorgan" },
+        { "item" : "rockorgan" },
+        { "item" : "saxophone" },
+        { "item" : "steeldrum" },
+        { "item" : "trumpet" },
+        { "item" : "violin" },
+        { "item" : "spaceorgan" },
+        { "item" : "squarewave" },
+        { "item" : "arcadegameobject" }
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0",
+    "value": {
+      "image": "arcadegame.png:<color>.<frame>",
+      "imagePosition": [
+        -8,
+        0
+      ],
+      "direction": "left",
+      "flipImages": true,
+      "frames": 2,
+      "animationCycle": 0.6,
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ],
+      "collision": "platform"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/1",
+    "value": {
+      "image": "arcadegame.png:<color>.<frame>",
+      "imagePosition": [
+        -8,
+        0
+      ],
+      "direction": "right",
+      "frames": 2,
+      "animationCycle": 0.6,
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ],
+      "collision": "platform"
+    }
+  }
+]

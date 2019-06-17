@@ -1,0 +1,79 @@
+[
+  {
+    "op": "replace",
+    "path": "/health",
+    "value": 5
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "runstatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "jumpstatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "glowstatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "bouncystatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "ragestatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "lowgravstatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "st_nudestatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "st_levitationstatusprojectile",
+      "projectileParams": {}
+    }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "st_temporalgasprojectile",
+      "projectileParams": {}
+    }
+  }
+]

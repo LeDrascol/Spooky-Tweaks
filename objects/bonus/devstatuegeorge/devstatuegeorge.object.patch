@@ -1,0 +1,55 @@
+[
+  {
+    "op": "remove",
+    "path": "/printable"
+  },
+  {
+    "op": "remove",
+    "path": "/colonyTags/1"
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Common"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A tribute to GeorgeV, the developer who did so much work only to have it all taken out again."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "GeorgeV Statue"
+  },
+  {
+    "op": "replace",
+    "path": "/apexDescription",
+    "value": "Thank you George!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/avianDescription",
+    "value": "Thank you George!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/floranDescription",
+    "value": "Thank you George!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/glitchDescription",
+    "value": "Thank you George!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/humanDescription",
+    "value": "Thank you George!!!"
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlDescription",
+    "value": "Thank you George!!!"
+  }
+]

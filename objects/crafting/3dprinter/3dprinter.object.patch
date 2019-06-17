@@ -1,0 +1,33 @@
+[
+  {
+    "op": "replace",
+    "path": "/orientations/1",
+    "value": {
+      "imageLayers": [
+        {
+          "image": "3dprinter.png:<color>.<frame>",
+          "fullbright": true
+        },
+        {
+          "image": "3dprinterlit.png:<color>.<frame>"
+        }
+      ],
+      "imagePosition": [
+        -8,
+        0
+      ],
+      "frames": 4,
+      "animationCycle": 0.4,
+      "lightPosition": [
+        0,
+        1
+      ],
+      "direction": "right",
+      "spaceScan": 0.1,
+      "anchors": [
+        "bottom"
+      ],
+      "collision": "platform"
+    }
+  }
+]
