@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/ability/toolRange",
+    "value": 8.5
+  },
+  {
+    "op": "replace",
+    "path": "/ability/blockRadius",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/ability/tileDamage",
+    "value": 5.8
+  }
+]

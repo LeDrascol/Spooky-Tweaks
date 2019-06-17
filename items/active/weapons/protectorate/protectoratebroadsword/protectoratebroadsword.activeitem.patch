@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 4800
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/baseDps",
+    "value": 12
+  },
+  {
+    "op": "replace",
+    "path": "/inactiveBaseDps",
+    "value": 12
+  },
+  {
+    "op": "replace",
+    "path": "/activeBaseDps",
+    "value": 15
+  }
+]

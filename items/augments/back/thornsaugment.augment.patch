@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An EPP module that reflects received damage back at enemies in melee range."
+  }
+]

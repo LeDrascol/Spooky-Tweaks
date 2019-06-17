@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/tooltipKind"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Fire a location pod and the miniture teleport engine will move you to it."
+  }
+]

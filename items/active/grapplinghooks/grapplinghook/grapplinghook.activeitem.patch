@@ -1,0 +1,79 @@
+[
+  {
+    "op": "replace",
+    "path": "/projectileType",
+    "value": "climbingropehook"
+  },
+  {
+    "op": "replace",
+    "path": "/projectileParameters/speed",
+    "value": 65
+  },
+  {
+    "op": "replace",
+    "path": "/projectileParameters/timeToLive",
+    "value": 2.5
+  },
+  {
+    "op": "replace",
+    "path": "/ropeWidth",
+    "value": 1.8
+  },
+  {
+    "op": "replace",
+    "path": "/ropeColor/0",
+    "value": 118
+  },
+  {
+    "op": "replace",
+    "path": "/ropeColor/1",
+    "value": 77
+  },
+  {
+    "op": "replace",
+    "path": "/ropeColor/2",
+    "value": 45
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An infinite supply of rope and hooks to get you around."
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 1200
+  },
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [
+      "upgradeableWeapon"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/level",
+    "value": 6
+  },
+  {
+    "op": "add",
+    "path": "/upgradeParameters",
+    "value": {
+      "shortdescription": "Super Grappling Hook ^yellow;^reset;",
+      "rarity": "Legendary",
+      "projectileParameters": {
+        "speed": 95,
+        "timeToLive": 5,
+        "reelSpeed": 30,
+        "controlForce" : 1500,
+        "reelOutLength": 70
+      }
+    }
+  }
+]

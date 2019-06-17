@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/ability/baseDps",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/ability/energyUsage",
+    "value": 25
+  },
+  {
+    "op": "replace",
+    "path": "/ability/boostForce",
+    "value": 120
+  },
+  {
+    "op": "replace",
+    "path": "/ability/boostSpeed",
+    "value": 30
+  }
+]

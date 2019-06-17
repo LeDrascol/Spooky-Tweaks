@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/maxStack",
+    "value": 1000
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Why come up with mission rewards when you can just give a loot bag?"
+  },
+  {
+    "op": "replace",
+    "path": "/treasure/pool",
+    "value": "valuableTreasureTicket"
+  }
+]

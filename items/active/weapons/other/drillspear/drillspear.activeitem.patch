@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 2050
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Pierce the heavens, or at least the earth. Depends on how much energy you have."
+  },
+  {
+    "op": "replace",
+    "path": "/altAbility/energyUsage",
+    "value": 25
+  }
+]

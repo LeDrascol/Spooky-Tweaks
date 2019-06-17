@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/maxStack",
+    "value": 1000
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Super Reward Bag"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Wait a minute, this is just another reward bag!"
+  }
+]

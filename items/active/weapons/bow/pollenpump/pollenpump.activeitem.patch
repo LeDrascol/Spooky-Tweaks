@@ -1,0 +1,16 @@
+[
+  {
+    "op": "remove",
+    "path": "/twoHanded"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 2500
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 3500
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/fireTime",
+    "value": 0.8
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/baseDps",
+    "value": 16
+  }
+]

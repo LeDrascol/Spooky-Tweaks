@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/primaryAbility/fireTime",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

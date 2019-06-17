@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 660
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "gun"
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

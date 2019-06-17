@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/stateTypes/charge/states/charge/cycle",
+    "value": 0.7
+  }
+]
