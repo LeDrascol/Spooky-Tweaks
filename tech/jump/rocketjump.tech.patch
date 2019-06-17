@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Creates butterflies to carry you in any direction!"
+  },
+  {
+    "op": "replace",
+    "path": "/chargeTime",
+    "value": 0.05
+  },
+  {
+    "op": "replace",
+    "path": "/boostSpeed",
+    "value": 50
+  },
+  {
+    "op": "replace",
+    "path": "/scripts/0",
+    "value": "rocketjump_freedom.lua"
+  },
+  {
+    "op": "add",
+    "path": "/rocketCooldown",
+    "value": 1.2
+  },
+  {
+    "op": "replace",
+    "path": "/shortDescription",
+    "value": "Butterfly Boost"
+  },
+  {
+    "op": "replace",
+    "path": "/icon",
+    "value": "/tech/st_butterflyboost.png"
+  }
+]

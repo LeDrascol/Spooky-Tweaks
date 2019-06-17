@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Thank you for joining me dear. With your help I don't have to do anything anymore."
+  }
+]

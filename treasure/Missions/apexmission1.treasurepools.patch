@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/apexmission1Reward/0/1/pool/0/item/1",
+    "value": 5
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission1Reward/0/1/pool/1/item/0",
+    "value": "manipulatormodule"
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission1Reward/0/1/pool/1/item/1",
+    "value": 5
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission1Reward/0/1/pool/2/item/1",
+    "value": 11
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission1Reward/0/1/pool/3/item/1",
+    "value": 4500
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission1Reward/0/1/pool/5/item/1",
+    "value": 11
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Talk to Esther about Glitch"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Next is the ^orange;Glitch artifact^reset;. Glitch tend to reside on planets with a lot of ^orange;volcanic activity^reset; (they seem to find them vaguely comforting). Volcanic planets occur around ^orange;fiery stars^reset;. I know you have ^red;better things to do^reset;, so don't worry about hunting down any clues yourself. I know the Glitch are a little offbeat, but don't underestimate them: look after yourself dear."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "I already know just where the Glitch artifact is."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findClues",
+    "value": "Scan ^green;Glitch objects^reset;, or the monolith gate."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/monolithgate",
+    "value": 50
+  }
+]

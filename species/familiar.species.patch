@@ -1,0 +1,23 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      "novakidglow"
+    ]
+  },
+  {
+    "op": "test",
+    "path": "/defaultBlueprints/tier1/0",
+    "value": {
+      "item": "flaghuman"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/defaultBlueprints/tier1/0",
+    "value": {
+      "item": "flagnovakid"
+    }
+  }
+]

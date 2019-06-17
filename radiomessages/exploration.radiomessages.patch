@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/biomeradiation/text",
+    "value": "WARNING! RADIATION LEVELS ON THIS PLANET ARE EXTREMELY HAZARDOUS!\nYou should not attempt further exploration without a Radiation EPP!"
+  },
+  {
+    "op": "replace",
+    "path": "/biomecold/text",
+    "value": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY LOW!\nYou should not attempt further exploration without a Heating EPP!"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeheat/text",
+    "value": "WARNING! TEMPERATURE ON THIS PLANET IS DANGEROUSLY HIGH!\nYou should not attempt further exploration without a Cooling EPP!"
+  },
+  {
+    "op": "replace",
+    "path": "/biomeairless/text",
+    "value": "It may be worth noting that this celestial body has no atmosphere and that you are slowly suffocating. I suggest you leave, and return when you have crafted a Breathing EPP."
+  },
+  {
+    "op": "replace",
+    "path": "/erchiussickness/text",
+    "value": "I am detecting entities attracted by the moon's spookium deposits. Their interest in you will grow as you collect more fuel. I would define these entities as 'intractably deadly'."
+  }
+]

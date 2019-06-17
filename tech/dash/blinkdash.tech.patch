@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/scripts/0",
+    "value": "blinkdash_freedom.lua"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A dash that blinks past traps and enemies! Cooldown: 0.8s"
+  },
+  {
+    "op": "replace",
+    "path": "/dashDistance",
+    "value": 18
+  },
+  {
+    "op": "replace",
+    "path": "/dashCooldown",
+    "value": 0.8
+  },
+  {
+    "op": "replace",
+    "path": "/groundOnly",
+    "value": false
+  }
+]

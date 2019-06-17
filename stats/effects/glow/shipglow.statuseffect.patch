@@ -1,0 +1,16 @@
+[
+  {
+    "op": "remove",
+    "path": "/scripts"
+  },
+  {
+    "op": "replace",
+    "path": "/animationConfig",
+    "value": "/stats/effects/novakidglow/st_brightnovaglow.animation"
+  },
+  {
+    "op": "replace",
+    "path": "/label",
+    "value": "Chemist Glow"
+  }
+]

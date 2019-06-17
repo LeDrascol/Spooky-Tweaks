@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/protectorateLoungeTutorial/text",
+    "value": "Your uniform is available to collect from your personal locker. It is quite important that you wear the proper attire to the ceremony."
+  },
+  {
+    "op": "replace",
+    "path": "/protectorateStage5/text",
+    "value": "It is not safe to remain here! Please ^#71f2f6; take the Matter Manipulator^white; and proceed to the shuttle pad!"
+  }
+]

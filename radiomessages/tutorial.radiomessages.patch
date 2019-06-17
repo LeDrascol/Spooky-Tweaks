@@ -1,0 +1,63 @@
+[
+  {
+    "op": "replace",
+    "path": "/pickupinventorstable/text",
+    "value": "Did you just craft an inventor's table? I estimate your chances of survival have improved by a significant margin. Remember to upgrade it so you can create more things."
+  },
+  {
+    "op": "replace",
+    "path": "/pickupcampfire/text",
+    "value": "It seems you have discovered fire. My databanks tell me you're the 714 billionth person to do so. You can use the fire to cook food."
+  },
+  {
+    "op": "replace",
+    "path": "/pickupflag/text",
+    "value": "I have configured the ship's teleporter to teleport directly to the location marked by this flag. Place and interact with the flag to establish a name."
+  },
+  {
+    "op": "replace",
+    "path": "/pickupore/text",
+    "value": "You discovered some ore. Ore can be turned into bars using a furnace. Bars are useful for crafting a wide range of equipment that may increase your life expectancy."
+  },
+  {
+    "op": "replace",
+    "path": "/pickupcorefrag/text",
+    "value": "You discovered a core fragment! These are useful objects. I estimate that you will require at least 20 of them to power an ancient gateway."
+  },
+  {
+    "op": "replace",
+    "path": "/pickupdye/text",
+    "value": "You discovered dye. With these you can color your attire to your liking. You can apply one to any piece of armor or clothing with a right-click."
+  },
+  {
+    "op": "replace",
+    "path": "/pickupepp/text",
+    "value": "You obtained an Enviro Protection Pack (EPP). These specialized devices produce miniture atmospheres around the user to facilitate survival. You can also enhance EPPs with augments."
+  },
+  {
+    "op": "replace",
+    "path": "/challengedoor/text",
+    "value": "This door will transport you to a challenging room that you may attempt to traverse."
+  },
+  {
+    "op": "replace",
+    "path": "/fuel/text",
+    "value": "Liquid spookium for your FTL drive can be mined from moons. It should be noted that since Earth's destruction, all moons scanned have delivered strange, unpleasant, and spooky readings."
+  },
+  {
+    "op": "add",
+    "path": "/pickupfishaxe",
+    "value": {
+      "type": "tutorial",
+      "text": "Did you just pick up a fishaxe? I suggest that you throw it away and stick to more sensible mining tools before someone gets hurt."
+    }
+  },
+  {
+    "op": "add",
+    "path": "/pickuprepairo",
+    "value": {
+      "type": "tutorial",
+      "text": "I see you obotained your very own Rob Repairo! Now you can repair vehicles without returning to the outpost."
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "op": "add",
+    "path": "/sounds/dashCooldown",
+    "value": [
+      "/sfx/tech/tech_dash_cooldown1.ogg"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/0",
+    "value": {
+      "particle": "butterflyboost1",
+      "offset": [
+        0,
+        -0.5
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/1",
+    "value": {
+      "particle": "butterflyboost2",
+      "offset": [
+        -0.15,
+        0
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/2",
+    "value": {
+      "particle": "butterflyboost3",
+      "offset": [
+        -0.15,
+        0
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/3",
+    "value": {
+      "particle": "butterflyboost4",
+      "offset": [
+        -0.15,
+        0
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/4",
+    "value": {
+      "particle": "butterflyboost5",
+      "offset": [
+        0.15,
+        0
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/5",
+    "value": {
+      "particle": "butterflyboost6",
+      "offset": [
+        0.15,
+        0
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/particleEmitters/rocketParticles/particles/6",
+    "value": {
+      "particle": "bubbleboost",
+      "offset": [
+        0.15,
+        0
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/sounds/boost/0",
+    "value": "/sfx/tech/tech_bubbleboost.ogg"
+  }
+]

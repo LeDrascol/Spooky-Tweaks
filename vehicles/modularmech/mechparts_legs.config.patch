@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/hopper/stats/speed",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/arc/stats/jump",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/ronin/stats/speed",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/intrepid/stats/speed",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/intrepid/stats/jump",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/hermes/stats/jump",
+    "value": 6
+  }
+]

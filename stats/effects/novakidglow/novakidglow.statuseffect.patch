@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/animationConfig",
+    "value": "st_brightnovaglow.animation"
+  }
+]

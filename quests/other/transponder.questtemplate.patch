@@ -1,0 +1,47 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Would you like to deploy your very own space station? I can craft for you your very own ^orange;Station Transponder^white;, and all it will take is some resources! \nSimply ^green;bring four ^orange;AA Batteries^white;, ^green;6 ^orange;Copper Wire^white;, and ^green;6 ^orange;Durasteel Bars^white; to ^green;me or any other Transponder vendor^white;. I also charge a ^orange;5000 pixel fee ^white;for labor."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "smallbattery",
+      "count": 4,
+      "consume": true
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/1",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "wire",
+      "count": 6,
+      "consume": true
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/2",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "durasteelbar",
+      "count": 6,
+      "consume": true
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/3",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "money",
+      "count": 5000,
+      "consume": true
+    }
+  }
+]

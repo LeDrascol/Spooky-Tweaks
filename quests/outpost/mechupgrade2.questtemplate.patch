@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "You made it! I guess I didn't install enough giant sawblades. I've sent the blueprint for your new ^green;mech body part^white; to the ^green;mech part crafting table^white;, and enough ^green;Titanium Bars^white; to craft it. Thanks again - it sure is helpful having a lab assistant!"
+  },
+  {
+    "op": "add",
+    "path": "/rewards/-",
+    "value": [
+      [
+        "titaniumbar",
+        40
+      ]
+    ]
+  }
+]

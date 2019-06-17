@@ -1,0 +1,72 @@
+[
+  {
+    "op": "replace",
+    "path": "/lunarbase01/text",
+    "value": "All life readings emanate from a great depth below the surface. The readings are... Difficult to define."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase02/text",
+    "value": "It appears lockdown has been instigated. You must locate a breaker to restore full power. Your scanning tool can provide a flashlight if needed."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase03/text",
+    "value": "I detect both Spookium chemical signatures and human DNA in these entities. High likelihood of behavioural volatility predicted."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase04/text",
+    "value": "Spooky Advisory readings have reached P SPOOPY. You are in peril. Your peril level is currently 14,607 micromorts."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase04a/text",
+    "value": "Sorry about the vintage memes, dear."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase05/text",
+    "value": "Look at them; prolonged contact with the Spookium Supermatter seems to have denatured their very being! The poor creatures have lost themselves completely."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase06/text",
+    "value": "Spooky Advisory readings have reached 2SPOOKY. Your current Peril level is 18,472 micromorts..."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase07/text",
+    "value": "Conventional weapons have an estimated 0% chance of damaging the Spookium crystal. How convenient someone left a laser mortar in this very room for just such an occasion."
+  },
+  {
+    "op": "replace",
+    "path": "/lunarbase08a/text",
+    "value": "There is enough Spookium here to fully fuel the ship."
+  },
+  {
+    "op": "replace",
+    "path": "/floranmission102/text",
+    "value": "Bio readings show many lifesigns in these tunnels. 97% hostile."
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission03a/text",
+    "value": "It looks like we can make a positive impact on the rebel war against oppression! Every little bit helps."
+  },
+  {
+    "op": "replace",
+    "path": "/apexmission04a/text",
+    "value": "I wish you luck, Captain."
+  },
+  {
+    "op": "replace",
+    "path": "/avianmission03/text",
+    "value": "Path split detected. I would advise taking neither the right nor the left path. Beam back to the ship and we will have a conciliation party."
+  },
+  {
+    "op": "replace",
+    "path": "/hylotlmission05/text",
+    "value": "Having analyzed the data, I conclude it was not very perilous after all."
+  }
+]

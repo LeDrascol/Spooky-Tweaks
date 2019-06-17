@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Talk to Esther about Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Being the good Grand Protector I am, I've already found the ^orange;Hylotl artifact^reset;. I would never put you through such a ^red;tedious and boring mission^reset;; hunting around random planets. You are still welcome to visit planets with vast tracts of ^orange;ocean^reset; around ^orange;temperate stars^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "I already know just where the Hylotl artifact is."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findClues",
+    "value": "Scan ^green;Hylotl objects^reset;, or the monolith gate."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/monolithgate",
+    "value": 50
+  }
+]

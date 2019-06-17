@@ -1,0 +1,52 @@
+[
+  {
+    "op": "replace",
+    "path": "/transformedMovementParameters/normalGroundFriction",
+    "value": 11.5
+  },
+  {
+    "op": "replace",
+    "path": "/transformedMovementParameters/ambulatingGroundFriction",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/transformedMovementParameters/airJumpProfile/jumpSpeed",
+    "value": 25
+  },
+  {
+    "op": "replace",
+    "path": "/transformedMovementParameters/liquidJumpProfile/jumpSpeed",
+    "value": 25
+  },
+  {
+    "op": "replace",
+    "path": "/transformedMovementParameters/liquidJumpProfile/jumpControlForce",
+    "value": 800
+  },
+  {
+    "op": "replace",
+    "path": "/transformedMovementParameters/liquidJumpProfile/multiJump",
+    "value": true
+  },
+  {
+    "op": "replace",
+    "path": "/ballSpeed",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/energyCost",
+    "value": 30
+  },
+  {
+    "op": "replace",
+    "path": "/chargeTime/1",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/launchVelocity/0",
+    "value": 100
+  }
+]

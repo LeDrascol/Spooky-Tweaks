@@ -1,0 +1,32 @@
+[
+  {
+    "op": "replace",
+    "path": "/avianmission1Reward/0/1/pool/0/item/1",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/avianmission1Reward/0/1/pool/1/item/0",
+    "value": "manipulatormodule"
+  },
+  {
+    "op": "replace",
+    "path": "/avianmission1Reward/0/1/pool/1/item/1",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/avianmission1Reward/0/1/pool/2/item/1",
+    "value": 9
+  },
+  {
+    "op": "replace",
+    "path": "/avianmission1Reward/0/1/pool/3/item/1",
+    "value": 4000
+  },
+  {
+    "op": "replace",
+    "path": "/avianmission1Reward/0/1/pool/5/item/1",
+    "value": 9
+  }
+]

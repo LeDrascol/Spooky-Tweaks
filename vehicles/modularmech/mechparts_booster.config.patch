@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/gallant/stats/control",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/zero/stats/speed",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/zero/stats/control",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/hammer/stats/speed",
+    "value": 6
+  }
+]

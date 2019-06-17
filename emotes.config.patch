@@ -1,0 +1,346 @@
+[
+  {
+    "op": "replace",
+    "path": "/emoteBindings/happy/3",
+    "value": "^.^"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "^-^"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "^~^"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": ":3"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": ":D"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "owo"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "ow o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "o wo"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "o3o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "o3 o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "o 3o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": ":]"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/happy/-",
+    "value": "[:"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ":("
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ":<"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ">:"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ":c"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ":C"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "D:"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "._."
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ".-."
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ".~."
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ";_;"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ";-;"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ";~;"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": ":["
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/sad/-",
+    "value": "]:"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/neutral/0",
+    "value": "o.o"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/neutral/1",
+    "value": "o_o"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/neutral/2",
+    "value": "`_`"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "`-`"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "`~`"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "o-o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "o~o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/neutral/-",
+    "value": "lol"
+  },
+  {
+    "op": "remove",
+    "path": "/emoteBindings/laugh/0"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/laugh/1",
+    "value": "xD"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/laugh/2",
+    "value": "x3"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/laugh/-",
+    "value": "X3"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/annoyed/2",
+    "value": ">:l"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/annoyed/3",
+    "value": ">:/"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": ">:\\"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": ":/"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": ":\\"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": ">_>"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": "-_-"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/annoyed/-",
+    "value": "T_T"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "o:"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "o.0"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "0.o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": ";o"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oh/-",
+    "value": "o;"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "O:"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": ":0"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "O_O"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "0_0"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": ";O"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "O;"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": ";0"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "0;"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "@_@"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "O-O"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "O~O"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "0-0"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "0~0"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "@-@"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/oooh/-",
+    "value": "@~@"
+  },
+  {
+    "op": "replace",
+    "path": "/emoteBindings/wink/1",
+    "value": ";3"
+  },
+  {
+    "op": "add",
+    "path": "/emoteBindings/wink/-",
+    "value": ";D"
+  }
+]

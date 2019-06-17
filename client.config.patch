@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/playerWarpDelay",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/playerWarpCinemaMinimumTime",
+    "value": 0
+  }
+]

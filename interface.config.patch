@@ -1,0 +1,26 @@
+[
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/1",
+    "value": [
+      "Normal",
+      [
+        75,
+        206,
+        58
+      ]
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/modeTypeTextAndColor/2",
+    "value": [
+      "Expert",
+      [
+        206,
+        197,
+        58
+      ]
+    ]
+  }
+]

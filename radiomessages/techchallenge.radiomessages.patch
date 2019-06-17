@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/techchallenge_dash3/text",
+    "value": "These doors appear to be on a ^orange;very limited timer^white;."
+  }
+]

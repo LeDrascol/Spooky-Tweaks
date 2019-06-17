@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "For millennia the Apex were close to human in appearance, until a scientific breakthrough allowed them to trade physical devolution for intellectual evolution. Like many other Apex, you oppose this Miniknog order, and have joined the rebel cause."
+  }
+]

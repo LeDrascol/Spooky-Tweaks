@@ -1,0 +1,9 @@
+{
+  "lights" : {
+    "st_brightnovaglow" : {
+      "active" : true,
+      "position" : [0, 0],
+      "color" : [100, 100, 100]
+    }
+  }
+}

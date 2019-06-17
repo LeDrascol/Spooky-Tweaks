@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "Hey there, friendo! I'm ^orange;Dr. Akaggy^white;, and I deal in mecha robotics! I have this ^green;modular space mech^white; in need of a test drive, and my usual pilots left to join Hammond Robotics. Could you do me a favor and ^green;fly it through my test course^white;? \n\nJust ^green;talk to me when you're ready to go^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Good job completing that menial task! To ensure your ongoing loyalty, I'll give you enough ^green;basic mech components^white; for you to deploy your own mech! Head over to that ^orange;mech assembly station^white; to get started."
+  }
+]

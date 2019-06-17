@@ -1,0 +1,42 @@
+[
+  {
+    "op": "replace",
+    "path": "/skull/stats/protection",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/shark/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/shark/stats/protection",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/exodus/stats/energy",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/iris/stats/protection",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/cultist2/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/protector/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/protector/stats/protection",
+    "value": 7
+  }
+]

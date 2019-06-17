@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Talk to Esther about the Apex"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "I already found the ^orange;Apex artifact^reset;, which ^red;isn't something you should have to do^reset; anyway. If you still want to explore, the Apex are generally found on ^orange;frozen planets^reset; around ^orange;frozen stars^reset;. Wrap up warm dear, and remember: Apex society is in upheaval at the moment, so be on your guard."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "I already know just where the Apex artifact is."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findClues",
+    "value": "Scan ^green;Apex objects^reset;, or the monolith gate."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/monolithgate",
+    "value": 50
+  }
+]

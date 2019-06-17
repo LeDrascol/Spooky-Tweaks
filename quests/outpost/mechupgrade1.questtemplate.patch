@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "These parts are enough for me to finish my new ^orange;Missile Rack arm^white;! As a token of my appreciation, I'll let you be the one to test it! Take it over to the ^green;Mech Assembly Station^white; and install it."
+  },
+  {
+    "op": "add",
+    "path": "/rewards/-",
+    "value": [
+      [
+        "mecharmmissilerack",
+        1
+      ]
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "salvagetier4",
+      "count": 5,
+      "consume": true
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/1",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "salvagearm",
+      "count": 10,
+      "consume": true
+    }
+  }
+]

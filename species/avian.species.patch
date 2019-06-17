@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "Avians are a race of colourful birdfolk whose tribal culture revolves around the worship of Kluex - the winged god of the Aether. Being a Grounded whom has forsaken Kluex, you've been outcast by your religious avian brethren."
+  }
+]

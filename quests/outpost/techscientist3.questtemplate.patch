@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "bluestim",
+      "count": 1,
+      "consume": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/conditions/-",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "techcard",
+      "count": 4,
+      "consume": true
+    }
+  }
+]

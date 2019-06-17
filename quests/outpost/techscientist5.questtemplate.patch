@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/conditions/0",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "ironbar",
+      "count": 10,
+      "consume": true
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/conditions/-",
+    "value": {
+      "type": "gatherItem",
+      "itemName": "techcard",
+      "count": 6,
+      "consume": true
+    }
+  }
+]

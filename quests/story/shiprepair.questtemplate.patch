@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/title",
+    "value": "Become Space-Worthy"
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "First thing first though, dear; you need a ^orange;ship in good working order^reset;. Who knows how far i'll make you travel before we're done. I think you should ^green;return to the Outpost and speak to ^orange;Captain Pete the shipyard captain^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/completionText",
+    "value": "Now that your ship is in full working order we can get started on the task at hand."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findMechanic",
+    "value": "^green;Find ^orange;Captain Pete^white; at the ^orange;outpost^white;"
+  }
+]

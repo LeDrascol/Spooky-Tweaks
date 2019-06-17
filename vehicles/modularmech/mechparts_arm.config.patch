@@ -1,0 +1,166 @@
+[
+  {
+    "op": "replace",
+    "path": "/energyrifle/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/energyrifle/partParameters/fireTime",
+    "value": 0.8
+  },
+  {
+    "op": "replace",
+    "path": "/dualrifle/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/teslastream/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/teslastream/partParameters/projectileParameters/power",
+    "value": 45
+  },
+  {
+    "op": "replace",
+    "path": "/beamsniper/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/beamsniper/partParameters/windupTime",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/beamsniper/partParameters/fireTime",
+    "value": 0.4
+  },
+  {
+    "op": "replace",
+    "path": "/beamsniper/partParameters/winddownTime",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/beamdrill/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/guidedmissiles/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/gravitymine/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/gravitymine/partParameters/cooldownTime",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/gravitymine/partParameters/projectileParameters/power",
+    "value": 16
+  },
+  {
+    "op": "replace",
+    "path": "/spikefist/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/energyblade/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/stats/power",
+    "value": 7
+  },
+  {
+    "op": "add",
+    "path": "/shielddronelauncher/partParameters/droneOrbitRate",
+    "value": 1
+  },
+  {
+    "op": "add",
+    "path": "/shielddronelauncher/partParameters/droneOrbitDistance",
+    "value": 5
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/partParameters/cooldownTime",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/partParameters/maxDrones",
+    "value": 5
+  },
+  {
+    "op": "remove",
+    "path": "/shielddronelauncher/partParameters/droneParameters/standoffDistance"
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/partParameters/droneParameters/movementMode",
+    "value": "Orbit"
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/partParameters/droneParameters/attackMode",
+    "value": "None"
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/partParameters/droneParameters/duration",
+    "value": 240
+  },
+  {
+    "op": "replace",
+    "path": "/shielddronelauncher/partParameters/droneParameters/statusSettings/stats/flatMaxHealth/baseValue",
+    "value": 4500
+  },
+  {
+    "op": "replace",
+    "path": "/plasmadronelauncher/partParameters/cooldownTime",
+    "value": 5
+  },
+  {
+    "op": "replace",
+    "path": "/plasmadronelauncher/partParameters/droneParameters/duration",
+    "value": 240
+  },
+  {
+    "op": "replace",
+    "path": "/plasmadronelauncher/partParameters/droneParameters/gun/fireTime",
+    "value": 0.25
+  },
+  {
+    "op": "replace",
+    "path": "/plasmadronelauncher/partParameters/droneParameters/gun/projectileParameters/power",
+    "value": 40
+  },
+  {
+    "op": "replace",
+    "path": "/multidronelauncher/stats/power",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/multidronelauncher/partParameters/cooldownTime",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/multidronelauncher/partParameters/droneParameters/duration",
+    "value": 240
+  }
+]

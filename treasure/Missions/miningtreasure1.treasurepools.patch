@@ -1,0 +1,42 @@
+[
+  {
+    "op": "add",
+    "path": "/miningtreasurelore/0/1/fill/-",
+    "value": {
+      "item": [
+        "supermatter",
+        20
+      ]
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasurelore/0/1/pool/0/item/1",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasurelore/0/1/pool/1/item/0",
+    "value": "manipulatormodule"
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasurelore/0/1/pool/1/item/1",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasurelore/0/1/pool/2/item/1",
+    "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasurelore/0/1/pool/3/item/1",
+    "value": 2500
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasurelore/0/1/pool/5/item/1",
+    "value": 3
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/label",
+    "value": "Magma Mitgation"
+  },
+  {
+    "op": "add",
+    "path": "/icon",
+    "value": "/interface/statuses/st_lavablock.png"
+  }
+]

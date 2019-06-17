@@ -1,0 +1,134 @@
+[
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/arcadegame",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/repairo",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/ursaminer",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/penguinweaponshop",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/penguinbay",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/objectValues/infinityexpress",
+    "value": 10
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/arcadegame",
+    "value": {
+      "messageId": "outpostclue_up_spooky1",
+      "type": "quest",
+      "unique": false,
+      "senderName": "Esther",
+      "text": "This machine once was an arcade game involving a maze, but the developers never finished it. A mechanic came by one day and turned it into something more useful. ",
+      "portraitImage": "/interface/chatbubbles/esthertalk.png:<frame>"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/repairo",
+    "value": {
+      "messageId": "outpostclue_up_spooky2",
+      "type": "quest",
+      "unique": false,
+      "senderName": "Esther",
+      "text": "Rob Repairo can fix up any of your damaged vehicles in exchange for some repair chips. You can get both of these from Penguin Pete.",
+      "portraitImage": "/interface/chatbubbles/esthertalk.png:<frame>"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/ursaminer",
+    "value": {
+      "messageId": "outpostclue_up_spooky3",
+      "type": "quest",
+      "unique": false,
+      "senderName": "Esther",
+      "text": "This happy family of bears will be happy to sell you any mining tools or ores you might need. This is the place to come if you really love or hate mining.",
+      "portraitImage": "/interface/chatbubbles/esthertalk.png:<frame>"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinweaponshop",
+    "value": {
+      "messageId": "outpostclue_up_spooky4",
+      "type": "quest",
+      "unique": false,
+      "senderName": "Esther",
+      "text": "This shop can provide you with all sorts of rare weapons you'll be hard pressed to find anywhere else, but only after you help the owner out with a small problem.",
+      "portraitImage": "/interface/chatbubbles/esthertalk.png:<frame>"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbay",
+    "value": {
+      "messageId": "outpostclue_up_spooky5",
+      "type": "quest",
+      "unique": false,
+      "senderName": "Esther",
+      "text": "I think you should stay away from that shipping crate, dear. Something about it spells trouble, and I don't want you getting mixed up in any shady business.",
+      "portraitImage": "/interface/chatbubbles/esthertalk.png:<frame>"
+    }
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/infinityexpress",
+    "value": {
+      "messageId": "outpostclue_up_spooky6",
+      "type": "quest",
+      "unique": false,
+      "senderName": "Esther",
+      "text": "This was once an extortion headquarters for nearly useless goods, but recently changed hands into a more sensible shopkeeper. You can buy all your basic supplies and materials here.",
+      "portraitImage": "/interface/chatbubbles/esthertalk.png:<frame>"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshop/text",
+    "value": "You can buy personal teleporters from this shop. They're a big step up from using flags."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/2stopshopclosed/text",
+    "value": "You can buy personal teleporters from this shop once it opens. They're a big step up from using flags."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/techlabconsole2/text",
+    "value": "This console will allow you to equip Techs, greatly enhancing your mobility."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/signstoreclosed/text",
+    "value": "You'll be able to create custom signs here, once it opens for business."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop/text",
+    "value": "The barkeep in the Beakeasy will happily sell you penguin dubloons, which are accepted as work tokens by mercenary clientele."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/radioMessages/uniqueProgress/penguinbartop2/text",
+    "value": "The barkeep in the Beakeasy will happily sell you penguin dubloons, which are accepted as work tokens by mercenary clientele."
+  }
+]

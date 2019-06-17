@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/itemDrop",
+    "value": "solariumore"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "The superdense core of a dead planet. Nearly unbreakable. Go ahead, try."
+  }
+]

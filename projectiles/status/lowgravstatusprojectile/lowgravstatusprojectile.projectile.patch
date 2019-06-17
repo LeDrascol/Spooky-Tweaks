@@ -1,0 +1,92 @@
+[
+  {
+    "op": "replace",
+    "path": "/actionOnReap/0",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": -20
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": -60
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": -100
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": -140
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": 0
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": 40
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": 80
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": 120
+    }
+  },
+  {
+    "op": "add",
+    "path": "/actionOnReap/-",
+    "value": {
+      "action": "projectile",
+      "type": "st_lowgravgas",
+      "fuzzAngle": 0,
+      "angleAdjust": 180
+    }
+  }
+]
