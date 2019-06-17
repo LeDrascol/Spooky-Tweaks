@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects/-",
+    "value": "lanternglow"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "EPP - Hyperpyrexia"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Prevents thermal imbalance, neutralizes radiation, and provides oxygen. Useful on ^red;dangerously hot^reset; planets."
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  }
+]

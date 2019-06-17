@@ -1,0 +1,29 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 250
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Common"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A once functional parachute. The fabric is too torn to stop falls."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Pilot's Backpack"
+  },
+  {
+    "op": "add",
+    "path": "/scripts",
+    "value": [
+      "parachute.lua"
+    ]
+  }
+]

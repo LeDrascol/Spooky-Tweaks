@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects/-",
+    "value": "lanternglow"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "radiationprotectionback"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "EPP - Asphyxia"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Creates a basic oxygen-filled atmosphere around you, allowing breathing anywhere. Use it on planets with ^red;no breathable atmosphere^reset;."
+  }
+]

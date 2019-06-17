@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects/-",
+    "value": "lanternglow"
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "EPP - Hypothermia"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Prevents freezing, neutralizes radiation, and provides oxygen. Useful on ^red;dangerously cold^reset; planets."
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [
+      "heatprotectionback"
+    ]
+  }
+]

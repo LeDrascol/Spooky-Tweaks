@@ -1,0 +1,17 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      {
+        "stat": "breathProtection",
+        "amount": 1
+      }
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A hazmat airtank. Luckily someone refilled it."
+  }
+]

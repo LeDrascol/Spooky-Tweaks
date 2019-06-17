@@ -1,0 +1,18 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      {
+        "stat": "breathProtection",
+        "amount": 1
+      },
+	  "swimboostcola"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A full oxygen tank. Could come in handy for long diving trips."
+  }
+]

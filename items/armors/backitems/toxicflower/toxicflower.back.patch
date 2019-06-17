@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      "poisonblock"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A large flower that soaks up poison. Why not wear it on your back?"
+  }
+]

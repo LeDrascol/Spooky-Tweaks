@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      "lanternglow",
+      "lowgrav"
+    ]
+  }
+]

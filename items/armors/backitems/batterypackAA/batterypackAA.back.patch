@@ -1,0 +1,14 @@
+[
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [
+      "maxenergyboostaugment3"
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A huge boost to your power supply so that you always feel energized!"
+  }
+]
