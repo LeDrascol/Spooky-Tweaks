@@ -1052,3 +1052,8 @@
 + Reverted icon for Rocket Jump
 + Reverted projectiles for Rocket Jump
 + Reverted boost sound for Rocket Jump
++ Increased durability from 750 to 1000 for Mining Laser
++ Reduced energy cost from 20 to 0 for Mining Laser
++ Price change from 1500 PIXELS to 800 PIXELS for Mining Laser
++ Reduced rarity rank from Legendary to Uncommon for Mining Laser
++ Updated description of Mining Laser to reflect mod changes
