@@ -1059,3 +1059,11 @@
 + Updated description of Mining Laser to reflect mod changes
 + Changed hand-use to 1H for Red Sports Car Controller
 + Price change on Red Sports Car Controller from 12500 PIXELS to 15000 PIXELS
++ Removed Peacekeeper Store shop item Mining Laser
++ Removed Peacekeeper Store shop item Mining Drone
++ Removed Peacekeeper Store shop item Red Sports Car Controller
++ Removed Peacekeeper Store shop item Space Synth
++ Added Ursa Miner shop item Mining Laser
++ Added Ursa Miner shop item Mining Drone
++ Added Captain Pete Shop item Red Sports Car Controller
++ Crafting for Glue Sprayer moved from Peacekeeper Store to Replicator

@@ -281,6 +281,11 @@
 },
 {
   "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "gluesprayer" }
+},
+{
+  "op": "add",
   "path": "/defaultBlueprints/portable3dprinter",
   "value": [
       { "item" : "futurelight" },

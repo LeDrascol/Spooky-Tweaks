@@ -224,5 +224,23 @@
         "name": "mecharmbeamdrill"
       }
     }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "miningdrone"
+      }
+    }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": {
+      "item": {
+        "name": "laserminer"
+      }
+    }
   }
 ]

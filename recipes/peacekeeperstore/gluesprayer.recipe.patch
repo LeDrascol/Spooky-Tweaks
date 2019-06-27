@@ -1,0 +1,35 @@
+[
+  {
+    "op": "replace",
+    "path": "/input/0/item",
+    "value": "durasteelbar"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 6
+  },
+  {
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "copperbar",
+      "count": 2
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "craftinganvil3"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "weapons"
+  },
+  {
+    "op": "add",
+    "path": "/groups/-",
+    "value": "all"
+  }
+]
