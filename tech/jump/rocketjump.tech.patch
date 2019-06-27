@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "path": "/description",
-    "value": "Creates butterflies to carry you in any direction!"
-  },
-  {
-    "op": "replace",
     "path": "/chargeTime",
     "value": 0.05
   },
@@ -23,15 +18,5 @@
     "op": "add",
     "path": "/rocketCooldown",
     "value": 1.2
-  },
-  {
-    "op": "replace",
-    "path": "/shortDescription",
-    "value": "Butterfly Boost"
-  },
-  {
-    "op": "replace",
-    "path": "/icon",
-    "value": "/tech/st_butterflyboost.png"
   }
 ]

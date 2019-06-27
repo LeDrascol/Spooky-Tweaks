@@ -1048,4 +1048,7 @@
 + Added familiar racial description to Novakid Flag
 
 # Update 5
-+ Nothing yet
++ Reverted name for Rocket Jump
++ Reverted icon for Rocket Jump
++ Reverted projectiles for Rocket Jump
++ Reverted boost sound for Rocket Jump
