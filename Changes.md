@@ -1057,3 +1057,5 @@
 + Price change from 1500 PIXELS to 800 PIXELS for Mining Laser
 + Reduced rarity rank from Legendary to Uncommon for Mining Laser
 + Updated description of Mining Laser to reflect mod changes
++ Changed hand-use to 1H for Red Sports Car Controller
++ Price change on Red Sports Car Controller from 12500 PIXELS to 15000 PIXELS

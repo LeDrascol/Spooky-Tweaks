@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 15000
+  },
+  {
+    "op": "add",
+    "path": "/twoHanded",
+    "value": false
+  }
+]
