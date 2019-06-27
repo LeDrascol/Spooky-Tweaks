@@ -1,5 +1,5 @@
 ﻿# Initial Release
-+ Price change on Teleporter Core from 15 DIAMONDS to 2000 PIXELS  
++ Price change on Teleporter Core from 15 DIAMONDS to 2000 PIXELS
 + Changed crafting for all 2-Stop Teleshop teleporters to relevant ingredients
 + Crafting for Penguin Suit moved from Treasured Trophies to Beakeasy
 + Price change on Dubloon from 3 DIAMONDS to 5000 PIXELS
@@ -28,9 +28,9 @@
 + Updated helpfulness of description on Health Augment
 + Updated helpfulness of description on Ice Resist Augment
 + Updated helpfulness of description on Thorns Augment
-+ Price change from 12500 PIXELS to 11000 PIXELS for Red Hoverbike Controller 
-+ Price change from 15000 PIXELS to 11000 PIXELS for Green Hoverbike Controller 
-+ Price change from 25000 PIXELS to 15000 PIXELS for Green Boat Controller 
++ Price change from 12500 PIXELS to 11000 PIXELS for Red Hoverbike Controller
++ Price change from 15000 PIXELS to 11000 PIXELS for Green Hoverbike Controller
++ Price change from 25000 PIXELS to 15000 PIXELS for Green Boat Controller
 + Changed Grappling Hook projectile type to rope (gravity, longer shots, thicker)
 + Raised projectile speed from 50 to 65 for Grappling Hook
 + Changed hand-use to 1H for Torch
@@ -212,7 +212,7 @@
 + Raised damage factor from 8 to 16 on Tesla's Wrath
 + Price change on Remote Grenade Launcher from 1500 PIXELS to 3500 PIXELS
 + Reduced usage time from 1.25 to 0.8 on Remote Grenade Launcher
-+ Reduced energy cost from 80 to 20 on Magnorbs shield  
++ Reduced energy cost from 80 to 20 on Magnorbs shield
 + Raised power factor from 2.25 to 3.25 on Magnorbs
 + Raised max speed from 10 to 20 for Erchius Ghost
 + Raised max speed fuel requirement from 5000 to 8000 for Erchius Ghost
@@ -622,7 +622,7 @@
 + Changed tooltip type to GUN for Ray Gun
 + Changed tooltip type to GUN for Plasma Assault Rifle
 + Changed sprite for Prison Force Cell to remove bar
-+ Changed sit effect from Regeneration 1 to Resting 4 for Prison Force Cell 
++ Changed sit effect from Regeneration 1 to Resting 4 for Prison Force Cell
 + Price change on Avian God Wings from 750 PIXELS to 1750 PIXELS
 + Added effect RUN BOOST from Avian God Wings
 + Added effect GLOW to Avian God Wings
@@ -801,7 +801,7 @@
 + Fixed effect duration for Glow Gas (glowgas) - 5s to 180s
 + Fixed effect duration for Run Gas (rungas) - 6s to 180s
 + Fixed effect duration for Jump Gas (jumpgas) - 6s to 180s
-+ Fixed status effect duration on The Night Light 
++ Fixed status effect duration on The Night Light
 + Added Status Pod effect Bouncy
 + Added Status Pod effect Glow
 + Added Status Pod effect Run Boost
@@ -833,7 +833,7 @@
 + Updated description for The Night Light to add more humor
 + Increased rarity rank from Common to Uncommon for The Night Light
 + Updated descriptions for all fuel hatches to reflect mod changes
-+ Changed collision type from SOLID to PLATFORM for Broken Ark Teleporter 
++ Changed collision type from SOLID to PLATFORM for Broken Ark Teleporter
 + Changed collision type from SOLID to PLATFORM for Ark Teleporter
 + Changed collision type from SOLID to PLATFORM for Executive Teleporter
 + Changed collision type from SOLID to PLATFORM for Brass Teleporter
@@ -885,7 +885,7 @@
 + Removed drop effect when using Blink Dash
 + Removed momentum penalty when using Air Dash
 + Wall jump tech now refreshes jumps when touching a wall
-+ Rocket jump boost speed raised from 40 to 50 for 
++ Rocket jump boost speed raised from 40 to 50 for
 + Morph ball no longer blocks energy regeneration
 + Morph ball now blocks fall damage (thank you to Distortion Sphere Tweaks Plus)
 + Sonic sphere jump boost raised from 12 to 25
@@ -967,8 +967,8 @@
 + Changed NOVAKIDGLOW light type from NOVAKIDGLOW to ST_BRIGHTNOVAGLOW
 + Changed SHIPGLOW light type from GLOW to ST_BRIGHTNOVAGLOW
 + Renamed SHIPGLOW (Glow) to Chemist Glow
-+ Changed mission requirement FROM 10 Copper to [Blue Stim Pack, 2 Tech Card] for Let's Get Technical 
-+ Changed mission requirement FROM 10 Silver to [Green Stim Pack, 4 Tech Card] for Jump-starting Development 
++ Changed mission requirement FROM 10 Copper to [Blue Stim Pack, 2 Tech Card] for Let's Get Technical
++ Changed mission requirement FROM 10 Silver to [Green Stim Pack, 4 Tech Card] for Jump-starting Development
 + Changed mission requirement FROM 10 Gold to [10 Iron Bar, 6 Tech Card] for Rounding Up The Components
 + Crafting for Translocator moved from Treasured Trophies to Replicator
 + Removed passive glow effect on players
@@ -996,7 +996,7 @@
 + Updated item organization for Tech Dispenser
 + Added Infinity Express item Hamburger
 + Added Infinity Express item Pizza Slice
-+ Added new Rocket Jump paramater rocketCooldown
++ Added new Rocket Jump parameter rocketCooldown
 + Rocket Jump tech now recharges via cooldown in the air
 + Added Rocket Jump sound queue dashCooldown
 + Replaced projectiles for Rocket Jump with butterflies
