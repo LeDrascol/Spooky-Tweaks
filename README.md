@@ -7,13 +7,11 @@ This mod adds no __new__ content! You can add and remove it at any time without 
 This project is open source. You may create a fork that only contains certain features without needing to use the entire mod. It would be appreciated if these are called 'Spooky Modules', but you're free to name them whatever you would like.
 
 
-### External Links
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=737895230)
-
-[Chucklefish Forums](https://community.playstarbound.com/resources/spooky-tweaks.3931/)
-
-[Asset Artist](https://steamcommunity.com/id/EvKem)
-
+### Project Links
+- [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=737895230)
+- [Chucklefish Forums](https://community.playstarbound.com/resources/spooky-tweaks.3931/)
+- Complete Changelist
+- [Logo Artist](https://steamcommunity.com/id/EvKem)
 
 # Release Highlights
 - Erchius things are now spooky

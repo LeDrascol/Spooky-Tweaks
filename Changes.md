@@ -924,7 +924,7 @@
 + Added Architect's Table crafting for Mech Part Crafting Table
 + Disabled MOD Architect's Table crafting for Mech Assembly Station (use the tech dispenser)
 
-## Patch 4.1
+## Update 5
 + Added custom Tabula Rasa mod category
 + Added Tabula Rasa crafting for Simple Mech Blueprint
 + Added Tabula Rasa crafting for Advanced Mech Blueprint
@@ -1031,23 +1031,7 @@
 + Reduced beam ambience from 0.2 to 0 for Scanning Mode
 + Changed hand-use to 1H for Scanning Mode
 
-### Familiars
-+ Updated normal (casual) mode respawn text to match vanilla changes
-+ Reduced min flicker from 0.95 to 0.99 for Familiar Torch
-+ Changed hand-use to 1H for Familiar Torch
-+ Added Familiars racial perk of Novakid Glow
-+ Renamed Shiplocker to Familiar Ship Locker
-+ Reduced item aging rate from 1.0 to 0.2 for Familiar Ship Locker
-+ Fixed Familiar Ship Locker UI configuration issue
-+ Fixed Familiar Ship Locker missing light effects
-+ Fixed Familiar Ship Locker missing colony tags
-+ Fixed Familiar Ship Locker using incorrect sound effects
-+ Added familiar racial description to Familiar Ship Locker
-+ Updated description for Familiar Ship Locker
-+ Familiars now start with the Novakid Flag instead of Human Flag
-+ Added familiar racial description to Novakid Flag
 
-# Update 5
 + Reverted name for Rocket Jump
 + Reverted icon for Rocket Jump
 + Reverted projectiles for Rocket Jump
@@ -1067,3 +1051,20 @@
 + Added Ursa Miner shop item Mining Drone
 + Added Captain Pete Shop item Red Sports Car Controller
 + Crafting for Glue Sprayer moved from Peacekeeper Store to Replicator
+
+
+### Familiars
++ Updated normal (casual) mode respawn text to match vanilla changes
++ Reduced min flicker from 0.95 to 0.99 for Familiar Torch
++ Changed hand-use to 1H for Familiar Torch
++ Added Familiars racial perk of Novakid Glow
++ Renamed Shiplocker to Familiar Ship Locker
++ Reduced item aging rate from 1.0 to 0.2 for Familiar Ship Locker
++ Fixed Familiar Ship Locker UI configuration issue
++ Fixed Familiar Ship Locker missing light effects
++ Fixed Familiar Ship Locker missing colony tags
++ Fixed Familiar Ship Locker using incorrect sound effects
++ Added familiar racial description to Familiar Ship Locker
++ Updated description for Familiar Ship Locker
++ Familiars now start with the Novakid Flag instead of Human Flag
++ Added familiar racial description to Novakid Flag
