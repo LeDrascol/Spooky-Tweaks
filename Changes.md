@@ -1103,8 +1103,15 @@
 + Removed sound type Windup from Neo Laser Mech Arm
 + Reverted attribute rope color for Grappling Hook
 + Reverted attribute projectile type for Grappling Hook
-+ Changed Grappling Hook's projectile physics type from grapplehook to ballisticgrapplehook
++ Changed Grappling Hook projectile to use rope physics
 
+### Avali
++ Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
++ Changed hand-use to 1H for Avali Hoverbike Controller
++ Reduced projectile speed from 100 to 65 for Avali Grappling Hook
++ Reduced rarity rank from Legendary to Uncommon for Avali Grappling Hook
++ Price change from 3000 PIXELS to 1200 PIXELS for Avali Grappling Hook
++ Changed Avali Grappling Hook projectile to use rope physics
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes

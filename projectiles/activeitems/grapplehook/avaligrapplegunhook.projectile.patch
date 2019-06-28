@@ -1,0 +1,11 @@
+[
+  {
+    "op": "test",
+    "path": "/projectileName",
+    "value": "avaligrapplehook"
+  {
+    "op": "replace",
+    "path": "/physics",
+    "value": "ballisticgrapplehook"
+  }
+]

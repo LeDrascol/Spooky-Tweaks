@@ -1,0 +1,32 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "avaligrapple"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 1200
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An infinite supply of rope and cyber hooks to get you around."
+  },
+  {
+    "op": "replace",
+    "path": "/projectileParameters/speed",
+    "value": 65
+  },
+  {
+    "op": "replace",
+    "path": "/projectileParameters/timeToLive",
+    "value": 2.5
+  }
+]
