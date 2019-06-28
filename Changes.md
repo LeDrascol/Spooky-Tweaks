@@ -1077,7 +1077,20 @@
 + Reverted blueprint unlock change for Radiation EPP Upgrade
 + Reverted blueprint unlock change for Heating EPP Upgrade
 + Reverted blueprint unlock change for Cooling EPP Upgrade
-- Fixed MOD patch issue with supermatter
++ Fixed MOD patch issue with supermatter
++ Renamed Protectorate Vending Machine to Donut Vending Machine
++ Buy rates increased from 50% to 100% for Donut Vending Machine
++ Allowed 3D printing for Donut Vending Machine
++ Changed shop type from VENDINGMACHINE to MERCHANT for Peacekeeper Furnishings
++ Sell rates increased from 20% to 80% for Peacekeeper Furnishings
++ Disallowed 3D printing for Peacekeeper Computer
++ Disallowed 3D printing for Peacekeeper Desk
++ Disallowed 3D printing for Peacekeeper Door
++ Disallowed 3D printing for Peacekeeper Emblem
++ Disallowed 3D printing for Peacekeeper Lamp Post
++ Disallowed 3D printing for Peacekeeper Mug
++ Disallowed 3D printing for Peacekeeper Painting
++ Disallowed 3D printing for Peacekeeper Table
 
 
 ### Familiars

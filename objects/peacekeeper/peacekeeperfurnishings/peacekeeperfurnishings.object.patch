@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/interactData/config",
+    "value": "/interface/windowconfig/merchant.config"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.8
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/printable",
+    "value": true
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Donut Vending Machine"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 1
+  }
+]
