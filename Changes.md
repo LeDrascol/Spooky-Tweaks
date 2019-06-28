@@ -1097,6 +1097,10 @@
 + Added Unapparent Apparel item Pharaoh Headdress
 + Added Unapparent Apparel item Sheep Hat
 + Added Unapparent Apparel item Peacekeeper Hat
++ Raised Mech Body stats to 7-7 for Peacekeeper
++ Reduced charge up time from 0.5 to 0.1 for Neo Laser Mech Arm
++ Increased fire time from 1 to 2 for Neo Laser Mech Arm
++ Removed sound type Windup from Neo Laser Mech Arm
 
 
 ### Familiars

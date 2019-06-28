@@ -38,5 +38,15 @@
     "op": "replace",
     "path": "/protector/stats/protection",
     "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/peacekeeper/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/peacekeeper/stats/protection",
+    "value": 7
   }
 ]
