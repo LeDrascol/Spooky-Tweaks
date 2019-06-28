@@ -1077,6 +1077,7 @@
 + Reverted blueprint unlock change for Radiation EPP Upgrade
 + Reverted blueprint unlock change for Heating EPP Upgrade
 + Reverted blueprint unlock change for Cooling EPP Upgrade
+- Fixed MOD patch issue with supermatter
 
 
 ### Familiars
