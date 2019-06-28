@@ -1051,6 +1051,10 @@
 + Added Ursa Miner shop item Mining Drone
 + Added Captain Pete Shop item Red Sports Car Controller
 + Crafting for Glue Sprayer moved from Peacekeeper Store to Replicator
++ Renamed Lazercaster to Neo Lazercaster
++ Price change from 2000 PIXELS to 5000 PIXELS for Neo Lazercaster
++ Changed tooltip type to GUN for Neo Lazercaster
++ Raised damage factor from 10 to 12 on Neo Lazercaster
 
 
 ### Familiars

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/tooltipKind",
+    "value": "gun"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 5000
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Neo Lazercaster"
+  },
+  {
+    "op": "replace",
+    "path": "/primaryAbility/baseDps",
+    "value": 12
+  }
+]
