@@ -1055,6 +1055,9 @@
 + Price change from 2000 PIXELS to 5000 PIXELS for Neo Lazercaster
 + Changed tooltip type to GUN for Neo Lazercaster
 + Raised damage factor from 10 to 12 on Neo Lazercaster
++ Reverted changes for item Spooky Donut
++ Reverted changes for item Spooky Pie
++ Reverted changes for item Spooky Boneboo
 
 
 ### Familiars
