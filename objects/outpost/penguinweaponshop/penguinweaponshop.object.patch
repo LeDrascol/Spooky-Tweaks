@@ -47,157 +47,61 @@
     "op": "add",
     "path": "/interactData/items",
     "value": [
-      {
-        "item": "clawglove"
-      },
-      {
-        "item": "fireboomerang"
-      },
-      {
-        "item": "hardchakram"
-      },
-      {
-        "item": "iceboomerang"
-      },
-      {
-        "item": "lunarang"
-      },
-      {
-        "item": "neochakram"
-      },
-      {
-        "item": "wormerang"
-      },
-      {
-        "item": "sawchakram"
-      },
-      {
-        "item": "stunglove"
-      },
-      {
-        "item": "vinefist"
-      },
-      {
-        "item": "supernovaglove"
-      },
-      {
-        "item": "brassknuckles"
-      },
-      {
-        "item": "frozenbow"
-      },
-      {
-        "item": "lightbow"
-      },
-      {
-        "item": "poisonbow"
-      },
-      {
-        "item": "vinewhip"
-      },
-      {
-        "item": "intestinewhip"
-      },
-      {
-        "item": "energywhip"
-      },
-      {
-        "item": "timepierce"
-      },
-      {
-        "item": "eyesword"
-      },
-      {
-        "item": "legendblade"
-      },
-      {
-        "item": "astrosabredeluxe"
-      },
-      {
-        "item": "pollenpump"
-      },
-      {
-        "item": "wormgun"
-      },
-      {
-        "item": "electricrailgun"
-      },
-      {
-        "item": "exmachina"
-      },
-      {
-        "item": "evileye"
-      },
-      {
-        "item": "gristlegun"
-      },
-      {
-        "item": "tentaclegun"
-      },
-      {
-        "item": "soulseeker"
-      },
-      {
-        "item": "gnomegun"
-      },
-      {
-        "item": "magnorbs"
-      },
-      {
-        "item": "remotegrenadelauncher"
-      },
-      {
-        "item": "teslastaff"
-      },
-      {
-        "item": "doomcannon"
-      },
-      {
-        "item": "drillspear"
-      },
-      {
-        "item": "electrobaton"
-      },
-      {
-        "item": "raygun"
-      },
-      {
-        "item": "spaceplasmarifle"
-      },
-      {
-        "item": {
-          "name": "erchiuseye"
-        },
+      { "item": "clawglove" },
+      { "item": "fireboomerang" },
+      { "item": "hardchakram" },
+      { "item": "iceboomerang" },
+      { "item": "lunarang" },
+      { "item": "neochakram" },
+      { "item": "wormerang" },
+      { "item": "sawchakram" },
+      { "item": "stunglove" },
+      { "item": "vinefist" },
+      { "item": "supernovaglove" },
+      { "item": "brassknuckles" },
+      { "item": "frozenbow" },
+      { "item": "lightbow" },
+      { "item": "poisonbow" },
+      { "item": "vinewhip" },
+      { "item": "intestinewhip" },
+      { "item": "energywhip" },
+      { "item": "timepierce" },
+      { "item": "eyesword" },
+      { "item": "legendblade" },
+      { "item": "astrosabredeluxe" },
+      { "item": "pollenpump" },
+      { "item": "wormgun" },
+      { "item": "electricrailgun" },
+      { "item": "exmachina" },
+      { "item": "evileye" },
+      { "item": "gristlegun" },
+      { "item": "tentaclegun" },
+      { "item": "soulseeker" },
+      { "item": "gnomegun" },
+      { "item": "magnorbs" },
+      { "item": "remotegrenadelauncher" },
+      { "item": "teslastaff" },
+      { "item": "doomcannon" },
+      { "item": "drillspear" },
+      { "item": "electrobaton" },
+      { "item": "raygun" },
+      { "item": "spaceplasmarifle" },
+      { "item": { "name": "erchiuseye" },
         "prerequisiteQuest": "human_mission1"
       },
-      {
-        "item": {
-          "name": "ixodoomclaw"
-        },
+      { "item": { "name": "ixodoomclaw" },
         "prerequisiteQuest": "floran_mission2"
       },
-      {
-        "item": {
-          "name": "soluskatana"
-        },
+      { "item": { "name": "soluskatana" },
         "prerequisiteQuest": "hylotl_mission2"
       },
-      {
-        "item": {
-          "name": "kluexstaff"
-        },
+      { "item": { "name": "kluexstaff" },
         "prerequisiteQuest": "avian_mission2"
       },
-      {
-        "item": {
-          "name": "miniknoglauncher"
-        },
+      { "item": { "name": "miniknoglauncher" },
         "prerequisiteQuest": "apex_mission2"
       },
-      {
-        "item": {
-          "name": "dragonhead"
-        },
+      { "item": { "name": "dragonhead" },
         "prerequisiteQuest": "glitch_mission2"
       }
     ]

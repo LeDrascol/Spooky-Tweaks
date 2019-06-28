@@ -69,7 +69,7 @@
     "op": "replace",
     "path": "/interactData",
     "value": {
-      "config": "/interface/windowconfig/merchant.config",
+      "config" : "/interface/windowconfig/vendingmachine.config",
       "paneLayoutOverride": {
         "windowtitle": {
           "title": "Chip Tunes",
@@ -80,7 +80,7 @@
         }
       },
       "buyFactor": 1,
-      "sellFactor": 1,
+      "sellFactor": 0,
       "items": [
         { "item" : "accordion" },
         { "item" : "acousticguitar" },

@@ -13,14 +13,14 @@
     "op": "add",
     "path": "/interactData/items/-",
     "value": {
-      "item": "repairo"
+      "item": "sportscarcontrollerred"
     }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
     "value": {
-      "item": "sportscarcontrollerred"
+      "item": "repairo"
     }
   }
 ]

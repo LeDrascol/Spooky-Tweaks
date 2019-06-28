@@ -1058,6 +1058,12 @@
 + Reverted changes for item Spooky Donut
 + Reverted changes for item Spooky Pie
 + Reverted changes for item Spooky Boneboo
++ Sell rates reduced from 100% to 0% for Chip Tunes
++ Sell rates reduced from 100% to 0% for Station Vending Machine
++ Changed shop type from MERCHANT to VENDINGMACHINE for Chip Tunes
++ Changed shop type from MERCHANT to VENDINGMACHINE for Tech Dispenser
++ Buy rates increased from 100% to 150% for The Penguin Bay
++ Sell rates reduced from 100% to 70% for default merchants
 
 
 ### Familiars

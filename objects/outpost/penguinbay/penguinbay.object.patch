@@ -3,5 +3,10 @@
     "op": "replace",
     "path": "/interactData/sellFactor",
     "value": 0.65
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 1.5
   }
 ]

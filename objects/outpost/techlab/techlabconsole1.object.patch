@@ -60,6 +60,11 @@
     "value": 1
   },
   {
+    "op": "replace",
+    "path": "/interactData/config",
+    "value": "/interface/windowconfig/vendingmachine.config"
+  },
+  {
     "op": "add",
     "path": "/interactData/items/-",
     "value": {
