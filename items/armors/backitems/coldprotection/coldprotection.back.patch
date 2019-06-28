@@ -13,12 +13,5 @@
     "op": "replace",
     "path": "/description",
     "value": "Prevents freezing, neutralizes radiation, and provides oxygen. Useful on ^red;dangerously cold^reset; planets."
-  },
-  {
-    "op": "add",
-    "path": "/learnBlueprintsOnPickup",
-    "value": [
-      "heatprotectionback"
-    ]
   }
 ]

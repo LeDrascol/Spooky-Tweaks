@@ -5,13 +5,6 @@
     "value": "lanternglow"
   },
   {
-    "op": "add",
-    "path": "/learnBlueprintsOnPickup",
-    "value": [
-      "radiationprotectionback"
-    ]
-  },
-  {
     "op": "replace",
     "path": "/shortdescription",
     "value": "EPP - Asphyxia"

@@ -95,7 +95,7 @@ This project is open source. You may create a fork that only contains certain fe
 - EPP names and descriptions improved to be more scientific/helpful
 - Challenge doors are sold at Treasured Trophies
 - ~~Challenge doors can be collected~~ Reverted in Patch 3.1
-- Antidotes stack to 1000
+- ~~Antidotes stack to 1000~~ Reverted
 - Weapon shop sells boss items after beating that boss
 - Energy pickaxe is craftable and slightly improved
 - Augments are now crafted at the Research Station

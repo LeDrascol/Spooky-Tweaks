@@ -17,12 +17,12 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Spookium Supermatter"
+    "value": "Erchius Supermatter"
   },
   {
     "op": "replace",
     "path": "/glitchdescription",
-    "value": "Intrigued. Spookium crystals contain a mysterious power."
+    "value": "Intrigued. Erchius Supermatter contains a mysterious power."
   },
   {
     "op": "replace",

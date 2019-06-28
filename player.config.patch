@@ -286,6 +286,11 @@
 },
 {
   "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "orangestim" }
+},
+{
+  "op": "add",
   "path": "/defaultBlueprints/portable3dprinter",
   "value": [
       { "item" : "futurelight" },
@@ -300,17 +305,5 @@
       { "item" : "nanostove" },
       { "item" : "throwingblock" }
   ]
-},
-  {
-    "op": "remove",
-    "path": "/defaultBlueprints/tier1/120"
-  },
-  {
-    "op": "remove",
-    "path": "/defaultBlueprints/tier1/181"
-  },
-  {
-    "op": "remove",
-    "path": "/defaultBlueprints/tier1/182"
-  }
+}
 ]

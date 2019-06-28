@@ -3,10 +3,5 @@
     "op": "replace",
     "path": "/description",
     "value": "Transform into a spiked sphere that doesn't fall off walls! ^green;[F]"
-  },
-  {
-    "op": "replace",
-    "path": "/ballSpeed",
-    "value": 12
   }
 ]

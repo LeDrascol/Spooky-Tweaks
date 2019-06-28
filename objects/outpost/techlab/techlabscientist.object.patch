@@ -7,11 +7,6 @@
   {
     "op": "add",
     "path": "/chatOptions/-",
-    "value": "A snarky wolf came by and upgraded my tech dispenser with new items the other day."
-  },
-  {
-    "op": "add",
-    "path": "/chatOptions/-",
     "value": "Protective bio-implants? That sounds too practical to be developed here."
   },
   {

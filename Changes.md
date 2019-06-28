@@ -1064,6 +1064,19 @@
 + Changed shop type from MERCHANT to VENDINGMACHINE for Tech Dispenser
 + Buy rates increased from 100% to 150% for The Penguin Bay
 + Sell rates reduced from 100% to 70% for default merchants
++ Price change from 0 PIXELS to 40 PIXELS for Treasure Hoard
++ Reverted speed change for Spike Sphere
++ Reverted name change for Erchius Horror
++ Added default blueprint Orange Stim Pack
++ Updated dialogs for Tech Lab Scientist
++ Renamed Spookium Supermatter to Erchius Supermatter
++ Removed invalid entries from basic crafting
++ Reverted crafting change for Radiation EPP Upgrade
++ Reverted crafting change for Heating EPP Upgrade
++ Reverted crafting change for Cooling EPP Upgrade
++ Reverted blueprint unlock change for Radiation EPP Upgrade
++ Reverted blueprint unlock change for Heating EPP Upgrade
++ Reverted blueprint unlock change for Cooling EPP Upgrade
 
 
 ### Familiars
