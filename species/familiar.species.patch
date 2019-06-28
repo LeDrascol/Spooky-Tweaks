@@ -1,5 +1,12 @@
 [
   {
+    "op": "test",
+    "path": "/kind",
+    "value": [
+      "familiar"
+    ]
+  },
+  {
     "op": "add",
     "path": "/statusEffects",
     "value": [

@@ -1,5 +1,10 @@
 [
   {
+    "op": "test",
+    "path": "/itemName",
+    "value": "familiarshiplocker"
+  },
+  {
     "op": "add",
     "path": "/colonyTags",
     "value": [
