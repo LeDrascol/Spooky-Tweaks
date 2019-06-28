@@ -1114,6 +1114,10 @@
 + Reduced rarity rank from Legendary to Uncommon for Avali Grappling Hook
 + Price change from 3000 PIXELS to 1200 PIXELS for Avali Grappling Hook
 + Changed Avali Grappling Hook projectile to use rope physics
++ Removed 'Destroyed when broken' from Avali Nano Teleporter
++ Changed collision type from SOLID to PLATFORM for Avali Nano Teleporter
++ Changed collision type from SOLID to PLATFORM for Avali ship teleporter
++ Reduced item aging rate from 1.0 to 0.2 for Avali Ship Locker
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes

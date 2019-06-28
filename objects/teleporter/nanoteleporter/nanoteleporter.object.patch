@@ -1,0 +1,21 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "nanoteleporter"
+  },
+  {
+    "op": "remove",
+    "path": "/breakDropPool"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An elegant personal teleporter. Connects to bookmarked locations in style."
+  },
+  {
+    "op": "replace",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  }
+]
