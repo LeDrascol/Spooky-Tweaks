@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "path": "/projectileType",
-    "value": "climbingropehook"
-  },
-  {
-    "op": "replace",
     "path": "/projectileParameters/speed",
     "value": 65
   },
@@ -18,21 +13,6 @@
     "op": "replace",
     "path": "/ropeWidth",
     "value": 1.8
-  },
-  {
-    "op": "replace",
-    "path": "/ropeColor/0",
-    "value": 118
-  },
-  {
-    "op": "replace",
-    "path": "/ropeColor/1",
-    "value": 77
-  },
-  {
-    "op": "replace",
-    "path": "/ropeColor/2",
-    "value": 45
   },
   {
     "op": "replace",

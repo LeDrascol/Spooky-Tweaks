@@ -1101,6 +1101,9 @@
 + Reduced charge up time from 0.5 to 0.1 for Neo Laser Mech Arm
 + Increased fire time from 1 to 2 for Neo Laser Mech Arm
 + Removed sound type Windup from Neo Laser Mech Arm
++ Reverted attribute rope color for Grappling Hook
++ Reverted attribute projectile type for Grappling Hook
++ Changed Grappling Hook's projectile physics type from grapplehook to ballisticgrapplehook
 
 
 ### Familiars
