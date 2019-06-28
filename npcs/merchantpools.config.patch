@@ -91,7 +91,7 @@
 		  { "item" : { "name" : "vikinghead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "visorhead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "wighead"  }, "rarity" : 0.5 },
-		  
+
 		  { "item" : { "name" : "afrowighead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "coolshadeshead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "demonhornshead"  }, "rarity" : 0.5 },
@@ -115,7 +115,7 @@
 		  { "item" : { "name" : "tricornhat"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "uncathat"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "valkyriehelm"  }, "rarity" : 0.5 },
-		  
+
 		  { "item" : { "name" : "boxmanhathead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "carrothathead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "causticstaghead"  }, "rarity" : 0.5 },
@@ -126,14 +126,21 @@
 		  { "item" : { "name" : "sensorysquidhathead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "steampunkhead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "thinkingcaphead"  }, "rarity" : 0.5 },
-		  
+
 		  { "item" : { "name" : "mrclaushead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "hotholidayhead"  }, "rarity" : 0.5 },
-		  
+
 		  { "item" : { "name" : "industrialcrewhead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "mechpilothead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "premierhead"  }, "rarity" : 0.5 },
-		  { "item" : { "name" : "spacebirdhead"  }, "rarity" : 0.5 }
+		  { "item" : { "name" : "spacebirdhead"  }, "rarity" : 0.5 },
+
+		  { "item" : { "name" : "captainnoblehead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "grouchohead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "pharaohhead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "sheephead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "peacekeeperhead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "armoredcultisthead"  }, "rarity" : 0.5 }
         ]
       ]
     ]

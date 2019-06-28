@@ -1091,6 +1091,12 @@
 + Disallowed 3D printing for Peacekeeper Mug
 + Disallowed 3D printing for Peacekeeper Painting
 + Disallowed 3D printing for Peacekeeper Table
++ Added Unapparent Apparel item Captain Noble Head
++ Added Unapparent Apparel item Cultist General Hood
++ Added Unapparent Apparel item Groucho Glasses
++ Added Unapparent Apparel item Pharaoh Headdress
++ Added Unapparent Apparel item Sheep Hat
++ Added Unapparent Apparel item Peacekeeper Hat
 
 
 ### Familiars
