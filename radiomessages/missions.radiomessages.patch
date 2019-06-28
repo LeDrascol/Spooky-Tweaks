@@ -11,11 +11,6 @@
   },
   {
     "op": "replace",
-    "path": "/lunarbase03/text",
-    "value": "I detect both Spookium chemical signatures and human DNA in these entities. High likelihood of behavioural volatility predicted."
-  },
-  {
-    "op": "replace",
     "path": "/lunarbase04/text",
     "value": "Spooky Advisory readings have reached P SPOOPY. You are in peril. Your peril level is currently 14,607 micromorts."
   },
@@ -27,7 +22,7 @@
   {
     "op": "replace",
     "path": "/lunarbase05/text",
-    "value": "Look at them; prolonged contact with the Spookium Supermatter seems to have denatured their very being! The poor creatures have lost themselves completely."
+    "value": "Look at them; prolonged contact with the Erchius Supermatter seems to have denatured their very being! The poor creatures have lost themselves completely."
   },
   {
     "op": "replace",
@@ -37,12 +32,12 @@
   {
     "op": "replace",
     "path": "/lunarbase07/text",
-    "value": "Conventional weapons have an estimated 0% chance of damaging the Spookium crystal. How convenient someone left a laser mortar in this very room for just such an occasion."
+    "value": "Conventional weapons have an estimated 0% chance of damaging the Erchius Horror. How convenient someone left a laser mortar in this very room for just such an occasion."
   },
   {
     "op": "replace",
     "path": "/lunarbase08a/text",
-    "value": "There is enough Spookium here to fully fuel the ship."
+    "value": "There is enough Supermatter here to fully fuel the ship."
   },
   {
     "op": "replace",

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/exploreclueplanet/text",
+    "value": "I know the target has been here recently. ^orange;Search^reset; for clues. Don't worry, you won't catch them yet."
+  },
+  {
+    "op": "replace",
+    "path": "/approachingclue/text",
+    "value": "Looks like you're gettin' close to some clues. ^orange;Investigate^reset; the designated area."
+  },
+  {
+    "op": "replace",
+    "path": "/approachingbounty/text",
+    "value": "It looks like your target is real close. ^orange;Apprehend the target^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/tutorialexplore/text",
+    "value": "Your target could be anywhere on this planet, even underground. ^green;Wander^reset; the planet until I pick up the ^orange;target's signature^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/tutorialapproachclue/text",
+    "value": "I've picked up the ^orange;target signature^reset;. Stare at your ^green;compass^reset; until you arrive."
+  }
+]

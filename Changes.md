@@ -1104,6 +1104,8 @@
 + Reverted attribute rope color for Grappling Hook
 + Reverted attribute projectile type for Grappling Hook
 + Changed Grappling Hook projectile to use rope physics
++ Updated Erchius Facility radio messages to match new updates
++ Updated accuracy of bounty radio messages
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
