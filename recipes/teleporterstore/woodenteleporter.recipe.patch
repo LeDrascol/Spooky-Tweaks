@@ -1,12 +1,10 @@
 [
   {
-    "op": "replace",
-    "path": "/input/0/item",
-    "value": "darkwoodmaterial"
-  },
-  {
-    "op": "replace",
-    "path": "/input/0/count",
-    "value": 50
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "darkwoodmaterial",
+      "count": 50
+    }
   }
 ]

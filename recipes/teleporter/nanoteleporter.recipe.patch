@@ -1,5 +1,10 @@
 [
   {
+    "op": "test",
+    "path": "/groups/0",
+    "value": "teleshop"
+  },
+  {
     "op": "add",
     "path": "/input/-",
     "value": {

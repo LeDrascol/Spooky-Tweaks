@@ -1,12 +1,10 @@
 [
   {
-    "op": "replace",
-    "path": "/input/0/item",
-    "value": "ironbar"
-  },
-  {
-    "op": "replace",
-    "path": "/input/0/count",
-    "value": 5
+    "op": "add",
+    "path": "/input/-",
+    "value": {
+      "item": "ironbar",
+      "count": 10
+    }
   }
 ]

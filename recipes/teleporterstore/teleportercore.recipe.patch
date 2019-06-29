@@ -1,12 +1,7 @@
 [
   {
     "op": "replace",
-    "path": "/input/0/item",
-    "value": "money"
-  },
-  {
-    "op": "replace",
-    "path": "/input/0/count",
-    "value": 2000
+    "path": "/input/0",
+    "value": { "item" : "money", "count" : 2000 }
   }
 ]

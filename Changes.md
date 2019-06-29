@@ -1149,6 +1149,18 @@
 + Reverted name change for Erchius Eye
 + Reverted name change for Erchius Horror Figurine
 + Removed fuel value from OIL
++ Restored crafting ingredient Teleporter Core to Brass Teleporter
++ Restored crafting ingredient Teleporter Core to Executive Teleporter
++ Restored crafting ingredient Teleporter Core to Futuristic Teleporter
++ Restored crafting ingredient Teleporter Core to Scientific Teleporter
++ Restored crafting ingredient Teleporter Core to Stone Teleporter
++ Restored crafting ingredient Teleporter Core to Tomb Teleporter
++ Restored crafting ingredient Teleporter Core to Wooden Teleporter
++ Increased ingot material cost from 5 to 10 for Black Teleporter
++ Increased ingot material cost from 5 to 10 for Brass Teleporter
++ Increased ingot material cost from 5 to 10 for Future Teleporter
++ Increased ingot material cost from 5 to 10 for Scientific Teleporter
++ Code cleanup for Teleporter Core patch
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
@@ -1161,6 +1173,7 @@
 + Changed collision type from SOLID to PLATFORM for Avali Nano Teleporter
 + Changed collision type from SOLID to PLATFORM for Avali ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Avali Ship Locker
++ Added crafting ingredient Titanium Bar to Avali Nano Teleporter
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes
