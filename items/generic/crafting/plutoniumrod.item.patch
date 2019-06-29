@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/price",
-    "value": 160
+    "value": 220
   },
   {
     "op": "replace",
@@ -13,5 +13,10 @@
     "op": "replace",
     "path": "/category",
     "value": "craftingMaterial"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A powerful source of ship fuel made of radioactive material."
   }
 ]

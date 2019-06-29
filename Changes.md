@@ -1055,9 +1055,6 @@
 + Price change from 2000 PIXELS to 5000 PIXELS for Neo Lazercaster
 + Changed tooltip type to GUN for Neo Lazercaster
 + Raised damage factor from 10 to 12 on Neo Lazercaster
-+ Reverted changes for item Spooky Donut
-+ Reverted changes for item Spooky Pie
-+ Reverted changes for item Spooky Boneboo
 + Sell rates reduced from 100% to 0% for Chip Tunes
 + Sell rates reduced from 100% to 0% for Station Vending Machine
 + Changed shop type from MERCHANT to VENDINGMACHINE for Chip Tunes
@@ -1119,8 +1116,8 @@
 + Price change from 30 PIXELS to 120 PIXELS for Silver Bar
 + Price change from 30 PIXELS to 120 PIXELS for Tungsten Bar
 + Price change from 80 PIXELS to 320 PIXELS for Titanium Bar
-+ Price change from 20 PIXELS to 80 PIXELS for Uranium Rod
-+ Price change from 0 PIXELS to 160 PIXELS for Plutonium Rod
++ Price change from 20 PIXELS to 110 PIXELS for Uranium Rod
++ Price change from 0 PIXELS to 220 PIXELS for Plutonium Rod
 + Price change from  PIXELS to 20 PIXELS for Coal
 + Reduced rarity rank from Rare to Common for Diamond
 + Reduced rarity rank from Legendary to Rare for Teleporter Core
@@ -1143,6 +1140,9 @@
 + Added Ursa Miner shop item Plutonium Rod
 + Code cleanup for Ursa Miner patch
 + Renamed all recipe files with st_ prefix
++ Updated description for Uranium Rod
++ Updated description for Plutonium Rod
++ Removed fuel value from OIL
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

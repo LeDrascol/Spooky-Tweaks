@@ -3,5 +3,10 @@
     "op": "replace",
     "path": "/price",
     "value": 480
+  },
+  {
+    "op": "add",
+    "path": "/fuelAmount",
+    "value": 75
   }
 ]

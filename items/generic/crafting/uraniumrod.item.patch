@@ -2,6 +2,11 @@
   {
     "op": "replace",
     "path": "/price",
-    "value": 80
+    "value": 110
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A source of ship fuel made of radioactive material."
   }
 ]
