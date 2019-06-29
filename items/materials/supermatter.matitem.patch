@@ -27,6 +27,6 @@
   {
     "op": "replace",
     "path": "/novakiddescription",
-    "value": "A big ol' chunk of spookium."
+    "value": "A big ol' chunk of spooky stuff."
   }
 ]

@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "It's a uranium rod. Useful for fueling the ship."
-  }
-]
