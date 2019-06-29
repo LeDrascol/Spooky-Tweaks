@@ -12,11 +12,16 @@
   {
     "op": "replace",
     "path": "/category",
-    "value": "craftingMaterial"
+    "value": "fuel"
   },
   {
     "op": "replace",
     "path": "/description",
     "value": "A powerful source of ship fuel made of radioactive material."
+  },
+  {
+    "op": "add",
+    "path": "/fuelAmount",
+    "value": 100
   }
 ]

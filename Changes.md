@@ -1142,6 +1142,10 @@
 + Renamed all recipe files with st_ prefix
 + Updated description for Uranium Rod
 + Updated description for Plutonium Rod
++ Restored fuel value of 10 FUEL to Uranium Ore
++ Restored fuel value of 50 FUEL to Uranium Rod
++ Restored fuel value of 40 FUEL to Plutonium Ore
++ Restored fuel value of 100 FUEL to Plutonium Rod
 + Reverted name change for Erchius Eye
 + Reverted name change for Erchius Horror Figurine
 + Removed fuel value from OIL
