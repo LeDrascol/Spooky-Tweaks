@@ -1142,6 +1142,8 @@
 + Renamed all recipe files with st_ prefix
 + Updated description for Uranium Rod
 + Updated description for Plutonium Rod
++ Reverted name change for Erchius Eye
++ Reverted name change for Erchius Horror Figurine
 + Removed fuel value from OIL
 
 ### Avali
