@@ -1128,6 +1128,20 @@
 + Increased rarity rank from Common to Uncommon for Plutonium Rod
 + Category changed from junk to craftingMaterial for Platinum Bar
 + Category changed from junk to craftingMaterial for Plutonium Rod
++ Added Agricultural Table crafting for Copper Pickaxe
++ Added Agricultural Table crafting for Silver Pickaxe
++ Added Agricultural Table crafting for Gold Pickaxe
++ Added Agricultural Table crafting for Platinum Pickaxe
++ Added Agricultural Table crafting for Diamond Pickaxe
++ Added Agricultural Station crafting for Mining Laser
++ Added Agricultural Station crafting for Mining Drone
++ Removed Ursa Miner shop item Ore Detector
++ Removed Ursa Miner shop item Cave Detector
++ Removed Ursa Miner shop item Drill Mech Arm
++ Removed Ursa Miner shop item Beam Drill Mech Arm
++ Removed Ursa Miner shop item Chainsaw
++ Added Ursa Miner shop item Plutonium Rod
++ Code cleanup for Ursa Miner patch
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

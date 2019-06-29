@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "darkwoodmaterial", "count" : 5 },
+    { "item" : "silverbar", "count" : 15 }
+  ],
+  "output" : { "item" : "silverpickaxe", "count" : 1 },
+  "groups" : [ "craftingfarm", "survival" ]}

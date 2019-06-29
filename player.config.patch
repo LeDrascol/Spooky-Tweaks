@@ -291,6 +291,41 @@
 },
 {
   "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "copperpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "diamondpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "platinumpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "silverpickaxe" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "laserminer" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "miningdrone" }
+},
+{
+  "op": "add",
   "path": "/defaultBlueprints/portable3dprinter",
   "value": [
       { "item" : "futurelight" },

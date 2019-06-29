@@ -1,6 +1,11 @@
 [
   {
     "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Sells crafting ingredients"
+  },
+  {
+    "op": "replace",
     "path": "/interactData/buyFactor",
     "value": 2
   },
@@ -10,237 +15,82 @@
     "value": 0.9
   },
   {
-    "op": "add",
-    "path": "/interactData/items/4",
-    "value": {
-      "item": {
-        "name": "platinumbar"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/6/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/6",
-    "value": {
-      "item": {
-        "name": "tungstenbar"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/7/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/7",
-    "value": {
-      "item": {
-        "name": "titaniumbar"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/8/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/8",
-    "value": {
-      "item": {
-        "name": "durasteelbar"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/9/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/9",
-    "value": {
-      "item": {
-        "name": "uraniumrod"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/10/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/10",
-    "value": {
-      "item": {
-        "name": "refinedaegisalt"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/11/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/11",
-    "value": {
-      "item": {
-        "name": "refinedferozium"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/12/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/12",
-    "value": {
-      "item": {
-        "name": "refinedviolium"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/13/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/13",
-    "value": {
-      "item": {
-        "name": "solariumstar"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/14/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/14",
-    "value": {
-      "item": {
-        "name": "copperpickaxe"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/15/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/15",
-    "value": {
-      "item": {
-        "name": "silverpickaxe"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/16/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/16",
-    "value": {
-      "item": {
-        "name": "goldpickaxe"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/17/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/17",
-    "value": {
-      "item": {
-        "name": "platinumpickaxe"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/18/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/18",
-    "value": {
-      "item": {
-        "name": "diamondpickaxe"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/19/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/19",
-    "value": {
-      "item": {
-        "name": "copperdrill"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/20/prerequisiteQuest"
   },
   {
-    "op": "replace",
-    "path": "/interactData/items/20",
-    "value": {
-      "item": {
-        "name": "silverdrill"
-      }
-    }
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/items/21",
-    "value": {
-      "item": {
-        "name": "golddrill"
-      }
-    }
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/items/22",
-    "value": {
-      "item": {
-        "name": "platinumdrill"
-      }
-    }
+    "op": "remove",
+    "path": "/interactData/items/21/prerequisiteQuest"
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "diamonddrill"
-      }
-    }
+    "value": { "item": { "name": "platinumbar" } }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "chainsaw"
-      }
-    }
+    "value": { "item": { "name": "uraniumrod" } }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "oredetector"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "cavedetector"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "mecharmdrill"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "mecharmbeamdrill"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "miningdrone"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "laserminer"
-      }
-    }
+    "value": { "item": { "name": "plutoniumrod" } }
   }
 ]
