@@ -61,6 +61,16 @@
     "value": "Poorly implemented minigames are a big ol' waste of time. I'm mighty glad someone turned this one into somethin' useful."
   },
   {
+    "op": "add",
+    "path": "/avaliDescription",
+    "value": "Someone repurposed this human trash to make a convienient vending machine."
+  },
+  {
+    "op": "add",
+    "path": "/familiarDescription",
+    "value": "A makeshift vending machine repurposed from an old arcade cabinet by a fellow Familiar."
+  },
+  {
     "op": "replace",
     "path": "/interactAction",
     "value": "OpenMerchantInterface"

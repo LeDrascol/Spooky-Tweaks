@@ -1161,6 +1161,7 @@
 + Increased ingot material cost from 5 to 10 for Future Teleporter
 + Increased ingot material cost from 5 to 10 for Scientific Teleporter
 + Code cleanup for Teleporter Core patch
++ Updated racial descriptions for Closed Instruments Shop
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
@@ -1174,6 +1175,9 @@
 + Changed collision type from SOLID to PLATFORM for Avali ship teleporter
 + Reduced item aging rate from 1.0 to 0.2 for Avali Ship Locker
 + Added crafting ingredient Titanium Bar to Avali Nano Teleporter
++ Added Avali racial description to Instruments Shop
++ Added Avali racial description to Closed Instruments Shop
++ Added actual racial descriptions for Avali Teleporter
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes
@@ -1189,4 +1193,8 @@
 + Added familiar racial description to Familiar Ship Locker
 + Updated description for Familiar Ship Locker
 + Familiars now start with the Novakid Flag instead of Human Flag
-+ Added familiar racial description to Novakid Flag
++ Added Familiar racial description to Novakid Flag
++ Added Familiar racial description to Instruments Shop
++ Added Familiar racial description to Closed Instruments Shop
++ Added Familiar racial description to Avali Flag
++ Added Familiar racial description to Avali Teleporter

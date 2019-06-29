@@ -51,5 +51,15 @@
     "op": "replace",
     "path": "/hylotlDescription",
     "value": "Thank you George!!!"
+  },
+  {
+    "op": "add",
+    "path": "/avaliDescription",
+    "value": "Not all humans are that bad. Thank you George!"
+  },
+  {
+    "op": "add",
+    "path": "/familiarDescription",
+    "value": "Who is this guy and why do I have the urge to thank him?"
   }
 ]
