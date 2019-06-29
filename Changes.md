@@ -1178,6 +1178,9 @@
 + Added Avali racial description to Instruments Shop
 + Added Avali racial description to Closed Instruments Shop
 + Added actual racial descriptions for Avali Teleporter
++ Added self-crafting learn on pickup for Avali Flag
++ Renamed Avali Flag to Flag - Avali
++ Updated normal (casual) mode respawn text to match vanilla changes
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes
