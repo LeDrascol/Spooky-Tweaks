@@ -1142,6 +1142,7 @@
 + Removed Ursa Miner shop item Chainsaw
 + Added Ursa Miner shop item Plutonium Rod
 + Code cleanup for Ursa Miner patch
++ Renamed all recipe files with st_ prefix
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
