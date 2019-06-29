@@ -1,5 +1,10 @@
 [
   {
+    "op": "test",
+    "path": "/charCreationTooltip/description",
+    "value": "In spite of their long and turbulent history, humans tend to possess a lighthearted and optimistic outlook towards life and the universe. Humanity set about forming a society that would unite the people of the universe - The Terrene Protectorate."
+  },
+  {
     "op": "replace",
     "path": "/charCreationTooltip/description",
     "value": "Despite their petty boring existance, humans eventually dominanted the universe. They formed a club that would force everyone to think they're good for something, called The Terrene Protectorate. Luckily it was blown up, making you worthless again."

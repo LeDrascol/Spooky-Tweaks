@@ -1179,6 +1179,7 @@
 + Increased rarity rank from Legendary to Uncommon for Auto Drive
 + Renamed Fill 'Er Up to Ancient Superfuel
 + Updated description of Ancient Superfuel to feel more lore friendly
++ Added tamper check to species descriptions to improve mod compatability
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

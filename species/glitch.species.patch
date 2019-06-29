@@ -10,9 +10,13 @@
     ]
   },
   {
+    "op": "test",
+    "path": "/charCreationTooltip/description",
+    "value": "The Glitch were built in order to simulate a civilization. A fault in their programming caused them to become stuck early in the simulation, and to this day they are unable to shake their Medieval values and beliefs."
+  },
+  {
     "op": "replace",
     "path": "/charCreationTooltip/description",
     "value": "The Glitch were built to simulate civilizations. A programming fault caused them to remain in a barbaric era, and to this day they're unable to shake their Medieval values. As an outcast Unglitched; you're free from that programming."
   }
 ]
-

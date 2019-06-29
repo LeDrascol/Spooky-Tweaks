@@ -1,5 +1,10 @@
 [
   {
+    "op": "test",
+    "path": "/charCreationTooltip/description",
+    "value": "The Novakids are a mysterious race of 'interstellar gas-bag people'. They have no charted settlements and no documented history. They're volatile beings, untroubled by the past. No one knows what they're made of, much less where they came from."
+  },
+  {
     "op": "replace",
     "path": "/charCreationTooltip/description",
     "value": "The Novakid are an ^red;ancient^reset; race of plasmatic ghosts. They have no charted settlements or history. No one knows what they are, nor where they're from. This is because ^red;The Ancients^reset; didn't care very much when making them. Your etheric nature ^green;causes you to glow^reset;."
