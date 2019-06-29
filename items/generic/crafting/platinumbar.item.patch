@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 120
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "craftingMaterial"
+  }
+]

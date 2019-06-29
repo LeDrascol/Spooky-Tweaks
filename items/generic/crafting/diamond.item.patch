@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 400
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Common"
+  }
+]

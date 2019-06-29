@@ -1106,6 +1106,28 @@
 + Changed Grappling Hook projectile to use rope physics
 + Updated Erchius Facility radio messages to match new updates
 + Updated accuracy of bounty radio messages
++ Price change from 1200 PIXELS to 400 PIXELS for Diamond
++ Price change from 20 PIXELS to 80 PIXELS for Copper Bar
++ Price change from 0 PIXELS to 120 PIXELS for Platinum Bar
++ Price change from 100 PIXELS to 400 PIXELS for Durasteel Bar
++ Price change from 40 PIXELS to 160 PIXELS for Gold Bar
++ Price change from 40 PIXELS to 160 PIXELS for Iron Bar
++ Price change from 120 PIXELS to 480 PIXELS for Refined Aegisalt
++ Price change from 120 PIXELS to 480 PIXELS for Refined Ferozium
++ Price change from 120 PIXELS to 480 PIXELS for Refined Violium
++ Price change from 60 PIXELS to 480 PIXELS for Solarium Star
++ Price change from 30 PIXELS to 120 PIXELS for Silver Bar
++ Price change from 30 PIXELS to 120 PIXELS for Tungsten Bar
++ Price change from 80 PIXELS to 320 PIXELS for Titanium Bar
++ Price change from 20 PIXELS to 80 PIXELS for Uranium Rod
++ Price change from 0 PIXELS to 160 PIXELS for Plutonium Rod
++ Price change from  PIXELS to 20 PIXELS for Coal
++ Reduced rarity rank from Rare to Common for Diamond
++ Reduced rarity rank from Legendary to Rare for Teleporter Core
++ Increased rarity rank from Common to Uncommon for Platinum Bar
++ Increased rarity rank from Common to Uncommon for Plutonium Rod
++ Category changed from junk to craftingMaterial for Platinum Bar
++ Category changed from junk to craftingMaterial for Plutonium Rod
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
