@@ -1166,6 +1166,19 @@
 + Removed snark from options menu
 + Updated subtitle of Weapon Upgrade Anvil to state material used
 + Updated description for normal (casual) difficulty
++ Added item tag REAGENT to Crystal Spookium (solidfuel)
++ Added item tag REAGENT to Peace Credit
++ Added item tag REAGENT to Auto Chip
++ Added item tag REAGENT to Auto Drive
++ Added item tag REAGENT to Dubloon
++ Added item tag REAGENT to Platinum Bar
++ Added item tag REAGENT to Plutonium Ore
++ Added item tag REAGENT to Plutonium Rod
++ Added item tag REAGENT to Fill 'Er Up
++ Increased rarity rank from Common to Uncommon for Peace Credit
++ Increased rarity rank from Legendary to Uncommon for Auto Drive
++ Renamed Fill 'Er Up to Ancient Superfuel
++ Updated description of Ancient Superfuel to feel more lore friendly
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

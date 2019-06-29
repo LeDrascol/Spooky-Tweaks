@@ -13,5 +13,12 @@
     "op": "replace",
     "path": "/category",
     "value": "craftingMaterial"
+  },
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [
+      "reagent"
+    ]
   }
 ]

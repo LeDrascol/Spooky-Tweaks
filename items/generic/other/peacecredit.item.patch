@@ -1,8 +1,8 @@
 [
   {
-    "op": "add",
-    "path": "/fuelAmount",
-    "value": 40
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Uncommon"
   },
   {
     "op": "add",
