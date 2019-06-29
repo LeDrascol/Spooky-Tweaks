@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/gui/windowtitle/subtitle",
-    "value": " Upgrade your items here!"
+    "value": " Upgrade your items with powerful essence"
   }
 ]

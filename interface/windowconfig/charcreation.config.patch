@@ -12,7 +12,7 @@
   {
     "op": "replace",
     "path": "/paneLayout/mode/buttons/0/data",
-    "value": { "description": "Enjoy the game and have fun." }
+    "value": { "description": "Enjoy the game at your own pace." }
   },
   {
     "op": "replace",

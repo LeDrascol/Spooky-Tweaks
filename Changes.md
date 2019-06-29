@@ -1162,6 +1162,10 @@
 + Increased ingot material cost from 5 to 10 for Scientific Teleporter
 + Code cleanup for Teleporter Core patch
 + Updated racial descriptions for Closed Instruments Shop
++ Updated window subtitle for Fuel Hatch to better reflect accepted items
++ Removed snark from options menu
++ Updated subtitle of Weapon Upgrade Anvil to state material used
++ Updated description for normal (casual) difficulty
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
