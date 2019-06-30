@@ -1180,6 +1180,10 @@
 + Renamed Fill 'Er Up to Ancient Superfuel
 + Updated description of Ancient Superfuel to feel more lore friendly
 + Added tamper check to species descriptions to improve mod compatability
++ Renamed Matter Manipulator (X) to Matter Manipulator Prime
++ Updated tooltip for Matter Manipulator Prime with fitting flavor text
++ Updated description for Chucklefish with immense snark
++ Updated objective for fuel quest to encourage gathering more fuel
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
