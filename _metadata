@@ -3,5 +3,6 @@
   "friendlyName" : "Spooky Tweaks",
   "description" : "Major vanilla game overhaul bringing rebalances and streamlined gameplay.",
   "version" : "1.5",
-  "steamContentId" : "737895230"
+  "steamContentId" : "737895230",
+  "priority" : 1
 }
