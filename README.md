@@ -1,10 +1,10 @@
 # Spooky-Tweaks
 
-Spooky Tweaks is a large scale vanilla overhaul mod aiming to 'funbalance' every issue in the entire game. That is to say, games are meant to be fun and enjoyable, even if that makes them slightly easier. This changes a lot of things, and MAY not be compatible with other tweaks.
+Spooky Tweaks is a large scale vanilla overhaul mod that serves as an 'unofficial update' to the game. That is to say, it rebalances, fixes, streamlines, implements unused content, and reduces annoyance. While it attempts to be compatible with content mods, it may conflict with other vanilla-altering mods.
 
-This mod adds no __new__ content! You can add and remove it at any time without destroying your saves. Please remember to always make save backups when using mods.
+This mod adds no __new__ save-altering content! You can add and remove it at any time without destroying your saves, but remember to unstack items with increased stack sizes first. Please also remember to always make save backups when using mods.
 
-This project is open source. You may create a fork that only contains certain features without needing to use the entire mod. It would be appreciated if these are called 'Spooky Modules', but you're free to name them whatever you would like.
+This project is open source. You may create a modular fork if you only want a certain feature or small set of features. It would be appreciated if these are called 'Spooky Modules', but you have the freedom to do what you'd prefer.
 
 
 ### Project Links
@@ -27,7 +27,7 @@ This project is open source. You may create a fork that only contains certain fe
 - Bandages and antidotes can be crafted at any time
 - Late-storyline outpost shops will indicate if they open later
 
-**Update 1**
+**Updates**
 - No more startup animation
 - Play modes are now NORMAL, EXPERT, and HARDCORE
 - 66 new facial emotion triggers for chat
@@ -36,14 +36,8 @@ This project is open source. You may create a fork that only contains certain fe
 - More optional Outpost clues to find
 - SAIL tells you which EPP you need for dangerous planets
 - Shockhopper can drop a trophy
-
-**Update 2**
 - EPPs use more scientific names
-
-**Update 3**
 - Hoverbikes hover much better and usually won't cause fall damage
-
-**Update 4**
 - Status Pods now have nine new possible effects
 - Mazebound64 moved to Hylotl arcades
 - Quest text updated to remove arbitrary praise
@@ -57,68 +51,66 @@ This project is open source. You may create a fork that only contains certain fe
 - New racial descriptions as part of Spooky Tweaks' gradual usurping of the lore
 - Teleporters are now platforms that can be walked past
 
-**Update 5**
-Items with no interaction or placement ability moved to materials tab
+**Latest Update**
+- Items with no interaction or placement ability moved to materials tab
+- Glow effects reworked for better ambient lighting
+- Learn any race's flag by picking it up
+- Flashlight beams are almost identical to the scanner's light
+- A lot of 'spooky' things are more serious again
+- Major cross-mod compatibility pass
 
 ## Economy
-- New Shop: Chip Tunes - Selling all vanilla musical instruments (near Beakeasy in The Outpost)
+- New Shop: Chip Tunes - Selling all vanilla musical instruments (replaces Mazebound64)
 - Teleporter cores are bought with money instead of diamonds
-- Buy and sell rates are more reasonable (average 100% buy, 80% sell)
+- Buy and sell rates are more reasonable (average 100% to buy, 80% to sell)
 - Upgrade parts can now be purchased at the Tech Dispenser (Outpost)
 - Capture pods can be purchased at The Outpost
 - Penguin Weapon Shop sells rare and otherwise unobtainable weapons
 
-**Update 1**
-- Translocator, Fishaxe, and Super Fishaxe added to Treasured Trophies
+**Updates**
+- Treasured Trophies sells more rare items such as:
+-- Fishaxe, Challenge Doors, Weapon Upgrade Anvil
+-- Doomcanon, Terraforge
 - Infinity Express sells new novelty items
-- ~~Ursa Miner sells chainsaws~~
-
-**Update 2**
 - Weapon shop now sells boss items after beating the respective boss
-- Challenge doors are sold at Treasured Trophies
 - Canned food costs 21x more due to the chocolate shortage (and immense value)
-
-**Update 3**
-- Renamed some minor outpost shops to be more unique
-- Weapon Upgrade Anvil and Doomcannon are purchasable from Treasured Trophies
-
-**Update 4**
+- Minor outpost shops have more unique names
 - Prize counters now sell plushies and toys for tickets
 - Prize tickets are given out as rewards from loot bags
-- Station vending machines reworked to sell mech salvage instead
+- Station vending machines reworked to sell mech salvage
 - Buy your own personal Rob Repairo
 - Mech blueprints can be traded for at Beakeasy
 - Mech Assembly Station can be purchased from the tech dispenser
-- Terraforge is purchasable from Treasured Trophies
-- Terramart Shipments buys items at full price
-- Terramart Shipments accept all mining materials (even unobtainable ones!)
+- Terramart Shipments buys items for their full value
+- Terramart Shipments accept all mining materials
 - Lana's supply business has improved to compete with augment crafting
 
-**Update 5**
+**Latest Update**
 - Vending machines don't buy things from you
-
+- Peacekeeper shop items moved to places that make more sense
+- Fake ship licenses are 50% more expensive
+- Ore values are approximately 4x higher
+- Ursa Miner sells radioactive rods usable as ship fuel
+- Teleporters require cores AND relevant materials
 
 ## Tech
 - Tech descriptions are more helpful
-- Sonic sphere is faster
+- Sonic sphere is faster and easier to control
 - Blink dash recharges as fast as the normal dash
-- Rocket jumping is almost instant, faster, launches further, and recharges mid-air
+- Rocket jumping is almost instant, launches further, and recharges mid-air
 - Multi-Jump goes slightly higher
 - Sprinting is slightly faster
 
-**Update 2**
+**Updates**
 - Sprinting won't restrict using other tech or items
-
-**Update 4**
 - All distortion spheres have enhanced handling and negate fall damage
-- Aqua Sphere can now move freely in water instead of on top as a boat
-- Sonic Sphere is substantially faster and easier to control
-- Blink dash can now blink further, in mid-air, and without landing
-- Wall jumping now refreshes it's double jump
+- Aqua Sphere can move freely in water instead of on top as a boat
+- Blink dash can blink further, in mid-air, and without landing
+- Wall jumping refreshes it's double jump ability
 
-**Update 5**
+**Latest Update**
 - Spike Sphere seriously for real this time won't fall off things
-
+- Tech missions have more reasonable requirements
 
 ## Balance
 - All staves and wands charge significantly faster
@@ -133,24 +125,18 @@ Items with no interaction or placement ability moved to materials tab
 - Creatures can be attacked while frozen in time
 - Racial storage lockers hold 64 items instead of 48
 
-**Update 1**
+**Updates**
 - Rocket Spear ability rebalanced to into a mobility tool
 - Final mission reward bag provides incredible loot
 - Protector's Broadsword buffed to compete with unique weapons
 - Dual wielding chainsaws for extreme lumbering
-
-**Update 2**
 - EPPs emit a small amount of light
-
-**Update 3**
 - Backpacks that should provide air actually do (ex. Oxygen Tank)
 - Wings provide jump boosts equal to an augment
 - AA Battery Pack adds additional energy capacity
 - Toxic Flower Backpack will block poison effects
 - Toxic Waste Backpack is more dangerous then ever
 - Medic Backpack gives a small regeneration effect
-
-**Update 4**
 - Mech battery pickups heal twice as much energy
 - High tech mech parts balanced out to create aesthetic choice
 - Solarium tier mech arms buffed to match endgame weapon strength
@@ -163,6 +149,11 @@ Items with no interaction or placement ability moved to materials tab
 - Foods that claimed to be spooky are now actually spooky
 - Ship lights are harder to accidentally break
 - Drill Spear mobility buffed for maximum heavens piercing potential
+- Mech arm attachments reworked for usability
+
+**Latest Update**
+- Higher tier mech bodies are more energy efficient
+- Ship lockers make food rot 80% slower
 
 ## Crafting
 - Augments can be crafted at the Research Station, and specify their exact functions
@@ -170,13 +161,20 @@ Items with no interaction or placement ability moved to materials tab
 - Ancient themed items can be 3D printed
 - Vending machines can be 3D printed
 
-**Update 2**
+**Updates**
 - Energy pickaxe is craftable and slightly improved
-
-**Update 4**
 - Mech Part Crafting Table is craftable like any workstation
 - Player station transponders now cost the same as any other device
 - Player stations require exponentially less resources to upgrade
 - Restored crafting for Toymaker's Table and glow grenades
 - More Protectorate items at the Industrial Workbench
 - Boss doors are now printable for all your one-way needs
+
+**Latest Update**
+- The orange stimpack returns
+- Mining tools can be made at an Agricultural Station
+
+## Official Integration
+The mods listed below are patched to use this mod's changes
+- [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
+- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)

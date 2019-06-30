@@ -962,7 +962,7 @@
 + Updated outpost dialog for HUMAN-GLITCH to better reflect humans' ego
 + Updated outpost dialog for HUMAN-HYLOTL to better reflect humans' ego
 + Buy rates raised from 100% to 250% for Recherche Armaments (Weapon Shop)
-+ Updated description for Oil to indicate it's a ship fuel
++ ~~Updated description for Oil to indicate it's a ship fuel~~
 + Added lighting type ST_BRIGHTNOVAGLOW - Soft ambient glow aura
 + Changed NOVAKIDGLOW light type from NOVAKIDGLOW to ST_BRIGHTNOVAGLOW
 + Changed SHIPGLOW light type from GLOW to ST_BRIGHTNOVAGLOW
@@ -999,10 +999,10 @@
 + Added new Rocket Jump parameter rocketCooldown
 + Rocket Jump tech now recharges via cooldown in the air
 + Added Rocket Jump sound queue dashCooldown
-+ Replaced projectiles for Rocket Jump with butterflies
-+ Replaced boost sound for Rocket Jump with bubble boost SFX
-+ Renamed Rocket Jump to Butterfly Boost
-+ Updated icon for Rocket Jump to reflect new nature
++ ~~Replaced projectiles for Rocket Jump with butterflies~~
++ ~~Replaced boost sound for Rocket Jump with bubble boost SFX~~
++ ~~Renamed Rocket Jump to Butterfly Boost~~
++ ~~Updated icon for Rocket Jump to reflect new nature~~
 + Updated accuracy of description for Leaf Chest
 + Updated description for Leaf Legs
 + Crafting changed to Plant Matter for Leaf Chest
@@ -1032,10 +1032,6 @@
 + Changed hand-use to 1H for Scanning Mode
 
 
-+ Reverted name for Rocket Jump
-+ Reverted icon for Rocket Jump
-+ Reverted projectiles for Rocket Jump
-+ Reverted boost sound for Rocket Jump
 + Increased durability from 750 to 1000 for Mining Laser
 + Reduced energy cost from 20 to 0 for Mining Laser
 + Price change from 1500 PIXELS to 800 PIXELS for Mining Laser
@@ -1047,8 +1043,8 @@
 + Removed Peacekeeper Store shop item Mining Drone
 + Removed Peacekeeper Store shop item Red Sports Car Controller
 + Removed Peacekeeper Store shop item Space Synth
-+ Added Ursa Miner shop item Mining Laser
-+ Added Ursa Miner shop item Mining Drone
++ ~~Added Ursa Miner shop item Mining Laser~~
++ ~~Added Ursa Miner shop item Mining Drone~~
 + Added Captain Pete Shop item Red Sports Car Controller
 + Crafting for Glue Sprayer moved from Peacekeeper Store to Replicator
 + Renamed Lazercaster to Neo Lazercaster
@@ -1118,13 +1114,14 @@
 + Price change from 80 PIXELS to 320 PIXELS for Titanium Bar
 + Price change from 20 PIXELS to 110 PIXELS for Uranium Rod
 + Price change from 0 PIXELS to 220 PIXELS for Plutonium Rod
-+ Price change from  PIXELS to 20 PIXELS for Coal
++ Price change from 2 PIXELS to 20 PIXELS for Coal
 + Reduced rarity rank from Rare to Common for Diamond
 + Reduced rarity rank from Legendary to Rare for Teleporter Core
 + Increased rarity rank from Common to Uncommon for Platinum Bar
 + Increased rarity rank from Common to Uncommon for Plutonium Rod
 + Category changed from junk to craftingMaterial for Platinum Bar
-+ Category changed from junk to craftingMaterial for Plutonium Rod
++ Category changed from junk to fuel for Plutonium Rod
++ Category changed from junk to fuel for Uranium Rod
 + Added Agricultural Table crafting for Copper Pickaxe
 + Added Agricultural Table crafting for Silver Pickaxe
 + Added Agricultural Table crafting for Gold Pickaxe
@@ -1183,7 +1180,7 @@
 + Renamed Matter Manipulator (X) to Matter Manipulator Prime
 + Updated tooltip for Matter Manipulator Prime with fitting flavor text
 + Updated description for Chucklefish with immense snark
-+ Updated objective for fuel quest to encourage gathering more fuel
++ Updated objective text for fuel quest to encourage gathering more fuel
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
