@@ -1200,6 +1200,7 @@
 + Added self-crafting learn on pickup for Avali Flag
 + Renamed Avali Flag to Flag - Avali
 + Updated normal (casual) mode respawn text to match vanilla changes
++ Added tag spookyTweaksShop to Instruments Shop for addon support
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes
@@ -1220,3 +1221,7 @@
 + Added Familiar racial description to Closed Instruments Shop
 + Added Familiar racial description to Avali Flag
 + Added Familiar racial description to Avali Teleporter
+
+### Instru+
++ Changed hand-use to 1H for all 17 Instru+ instruments
++ Reduced rarity rank from Legendary to Rare for all 17 Instru+ instruments

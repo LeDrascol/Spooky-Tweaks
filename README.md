@@ -178,3 +178,4 @@ This project is open source. You may create a modular fork if you only want a ce
 The mods listed below are patched to use this mod's changes
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
+- [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

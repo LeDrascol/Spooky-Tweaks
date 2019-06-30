@@ -166,5 +166,10 @@
       ],
       "collision": "platform"
     }
+  },
+  {
+    "op": "add",
+    "path": "/spookyTweaksShop",
+    "value": true
   }
 ]
