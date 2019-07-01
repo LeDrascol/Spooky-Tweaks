@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 },
+    { "item" : "durasteelbar", "count" : 10 }
+  ],
+  "output" : { "item" : "durasteelelevatorshort", "count" : 1 },
+  "groups" : [ "craftingwiring", "mechanics" ]
+}

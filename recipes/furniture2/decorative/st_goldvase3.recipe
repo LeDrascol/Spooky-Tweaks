@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 3 }
+  ],
+  "output" : { "item" : "goldvase3", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

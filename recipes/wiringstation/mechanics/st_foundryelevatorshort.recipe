@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "smallbattery", "count" : 1 },
+    { "item" : "wire", "count" : 2 },
+    { "item" : "copperbar", "count" : 10 }
+  ],
+  "output" : { "item" : "foundryelevatorshort", "count" : 1 },
+  "groups" : [ "craftingwiring", "mechanics" ]
+}

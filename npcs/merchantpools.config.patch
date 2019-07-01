@@ -140,7 +140,10 @@
 		  { "item" : { "name" : "pharaohhead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "sheephead"  }, "rarity" : 0.5 },
 		  { "item" : { "name" : "peacekeeperhead"  }, "rarity" : 0.5 },
-		  { "item" : { "name" : "armoredcultisthead"  }, "rarity" : 0.5 }
+		  { "item" : { "name" : "armoredcultisthead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "barrelhead"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "t2helm1"  }, "rarity" : 0.5 },
+		  { "item" : { "name" : "t2helm2"  }, "rarity" : 0.5 }
         ]
       ]
     ]

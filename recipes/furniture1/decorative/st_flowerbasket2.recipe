@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "dirt", "count" : 3 },
+    { "item" : "ironbar", "count" : 1 }
+  ],
+  "output" : { "item" : "flowerbasket2", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

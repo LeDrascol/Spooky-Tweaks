@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "liquidwater", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "cloudblock",
+    "count" : 20
+  },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

@@ -995,7 +995,7 @@
 + Moved shop item from Infinity Express to Terramart - Apple
 + Updated item organization for Tech Dispenser
 + Added Infinity Express item Hamburger
-+ Added Infinity Express item Pizza Slice
++ ~~Added Infinity Express item Pizza Slice~~
 + Added new Rocket Jump parameter rocketCooldown
 + Rocket Jump tech now recharges via cooldown in the air
 + Added Rocket Jump sound queue dashCooldown
@@ -1181,6 +1181,63 @@
 + Updated tooltip for Matter Manipulator Prime with fitting flavor text
 + Updated description for Chucklefish with immense snark
 + Updated objective text for fuel quest to encourage gathering more fuel
++ Added tag spookyTweaksShop to Instruments Shop for addon support
++ Allowed 3D printing for Benjamin Deust Statue
++ Allowed 3D printing for Cameron York Statue
++ Allowed 3D printing for Imagination Memorial
++ Allowed 3D printing for XOliver137 Statue
++ Added Terramart item Raw Ham
++ Added Terramart item Green Apple
++ Added default blueprint Cooked Tentacle
++ Added Wooden Workbench crafting for Cloud
++ Added Wooden Workbench crafting for Coconut Block
++ Added Wooden Workbench crafting for Crooked Bone Railing
++ Added Wooden Workbench crafting for Glass Panel
++ Added Wooden Workbench crafting for Basic Metal Chair
++ Added Wooden Workbench crafting for Flower Statue
++ Added Wooden Workbench crafting for Checkout Sign
++ Added Wooden Workbench crafting for Classic Ceiling Light
++ Added Wooden Workbench crafting for Deck Chair
++ Added Wooden Workbench crafting for Kennel
++ Added Wooden Workbench crafting for Hanging Basket (Alt)
++ Added Wooden Workbench crafting for Help Me Sign
++ Added Wooden Workbench crafting for Interrogation Rack
++ Added Wooden Workbench crafting for Medical Bay Sign
++ Added Industrial Workbench crafting for Anomalous Display
++ Added Industrial Workbench crafting for Blueprint Display
++ Added Industrial Workbench crafting for Map Display
++ Added Industrial Workbench crafting for Statistical Display
++ Added Industrial Workbench crafting for Golden Pedestal
++ Added Industrial Workbench crafting for Grail
++ Added Industrial Workbench crafting for Gold Classic Jug
++ Added Industrial Workbench crafting for Gold Jug
++ Added Industrial Workbench crafting for Gold Slim Vase
++ Added Industrial Workbench crafting for Gold Slim Vase (alt)
++ Added Industrial Workbench crafting for Odd Gold Jug
++ Added Industrial Workbench crafting for Exit Sign
++ Added Industrial Workbench crafting for LED Recruitment Panel
++ Added Industrial Workbench crafting for Matter Block
++ Added Industrial Workbench crafting for LED Recruitment Panel
++ Added Apothecary crafting for Grass Remedy
++ Added Apothecary crafting for Fungus Stim
++ Added Wiring Station crafting for Hi-tech Turret
++ Added Wiring Station crafting for Hi-tech Security Camera
++ Added Wiring Station crafting for Medieval Bookcase Switch
++ Added Wiring Station crafting for Short Durasteel Elevator
++ Added Wiring Station crafting for Short Mechanical Elevator
++ Added Wiring Station crafting for Short Wooden Elevator
++ Added Wiring Station crafting for Short Industrial Elevator
++ Added Wiring Station crafting for Long Durasteel Elevator
++ Added Wiring Station crafting for Long Mechanical Elevator
++ Added Wiring Station crafting for Long Wooden Elevator
++ Added Wiring Station crafting for Long Industrial Elevator
++ Added Agricultural Station crafting for Microwave
++ Added Unapparent Apparel item Barrel Lid
++ Added Unapparent Apparel item Handy Space Helmet
++ Added Infinity Express item Pizza
++ Restored Industrial Workbench crafting for Neon Block
++ Restored Kitchen Counter crafting for Pizza
++ Price change from 4 PIXELS to 20 PIXELS for Red Apple
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
@@ -1200,11 +1257,6 @@
 + Added self-crafting learn on pickup for Avali Flag
 + Renamed Avali Flag to Flag - Avali
 + Updated normal (casual) mode respawn text to match vanilla changes
-+ Added tag spookyTweaksShop to Instruments Shop for addon support
-+ Allowed 3D printing for Benjamin Deust Statue
-+ Allowed 3D printing for Cameron York Statue
-+ Allowed 3D printing for Imagination Memorial
-+ Allowed 3D printing for XOliver137 Statue
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes

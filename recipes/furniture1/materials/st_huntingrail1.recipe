@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "bone", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "huntingrail1",
+    "count" : 10
+  },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

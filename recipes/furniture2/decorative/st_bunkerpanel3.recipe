@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 2 },
+    { "item" : "smallbattery", "count" : 3 },
+    { "item" : "wire", "count" : 2 }
+  ],
+  "output" : { "item" : "bunkerpanel3", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

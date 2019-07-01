@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "coconut", "count" : 10 }
+  ],
+  "output" : {
+    "item" : "coconutblock",
+    "count" : 20
+  },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

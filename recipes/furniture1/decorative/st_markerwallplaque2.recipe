@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "cobblestonematerial", "count" : 20 }
+  ],
+  "output" : { "item" : "markerwallplaque2", "count" : 1 },
+  "groups" : [ "craftingfurniture", "decoration", "all" ]
+}

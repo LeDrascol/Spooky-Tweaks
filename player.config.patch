@@ -326,6 +326,236 @@
 },
 {
   "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "cloudblock" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "coconutblock" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "huntingrail1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "glasspanel" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "flowerstatue" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "basicmetalchair" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "cookedtentacle" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "shopline" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "classiclightart" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "bunkerdisplay1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "bunkerdisplay2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "bunkerdisplay3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "bunkerdisplay4" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "deckchair" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "prisonexitsign" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldenpedestal" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "grail" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldvase5" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldvase4" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldvase4" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldvase2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "goldvase1" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "grassremedy" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "fungusstim" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "helpme" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "flowerbasket2" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "apexturret" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "apexsecuritycamera" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "plantrack" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "kennel" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "bunkerpanel3" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "durasteelelevatorlong" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "mechanicalelevatorlong" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "woodenelevatorlong" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "durasteelelevatorshort" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "mechanicalelevatorshort" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "woodenelevatorshort" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "matteritem" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "medievalbookcaseswitch" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "foundryelevatorlong" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "foundryelevatorshort" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "microwave" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "apexmedsign" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "neonblock" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "pizza" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "markerwallplaque2" }
+},
+{
+  "op": "add",
   "path": "/defaultBlueprints/portable3dprinter",
   "value": [
       { "item" : "futurelight" },

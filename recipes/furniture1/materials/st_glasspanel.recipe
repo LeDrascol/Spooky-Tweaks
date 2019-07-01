@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "glass", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "glasspanel",
+    "count" : 1
+  },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

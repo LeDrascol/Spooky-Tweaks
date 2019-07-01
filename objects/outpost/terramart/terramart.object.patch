@@ -7,50 +7,51 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "cheese"
-    }
+    "value": { "item": "cheese" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "egg"
-    }
+    "value": { "item": "egg" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "milk"
-    }
+    "value": { "item": "milk" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "rawbacon"
-    }
+    "value": { "item": "rawbacon" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "redapple"
-    }
+    "value": { "item": "rawham" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "capturepod"
-    }
+    "value": { "item": "redapple" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": "broom"
-    }
+    "value": { "item": "greenapple" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "orange" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "capturepod" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "broom" }
   }
 ]

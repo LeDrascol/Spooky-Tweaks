@@ -173,6 +173,7 @@ This project is open source. You may create a modular fork if you only want a ce
 **Latest Update**
 - The orange stimpack returns
 - Mining tools can be made at an Agricultural Station
+- __FINALCOUNT__ unobtainable decorations are craftable again
 
 ## Official Integration
 The mods listed below are patched to use this mod's changes

@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "climbingrope", "count" : 4 },
+    { "item" : "darkwoodmaterial", "count" : 40 }
+  ],
+  "output" : { "item" : "woodenelevatorlong", "count" : 1 },
+  "groups" : [ "craftingwiring", "mechanics" ]
+}

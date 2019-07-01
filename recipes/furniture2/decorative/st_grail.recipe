@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "goldbar", "count" : 2 },
+    { "item" : "diamond", "count" : 1 }
+  ],
+  "output" : { "item" : "grail", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

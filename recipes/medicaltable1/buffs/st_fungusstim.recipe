@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "shroom", "count" : 8 },
+    { "item" : "petalred", "count" : 4 },
+    { "item" : "bottle", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "fungusstim",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical", "buffs" ]
+}
