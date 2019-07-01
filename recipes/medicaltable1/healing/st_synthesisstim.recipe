@@ -2,11 +2,11 @@
   "input" : [
     { "item" : "plantfibre", "count" : 8 },
     { "item" : "petalred", "count" : 4 },
-    { "item" : "bottle", "count" : 1 }
+    { "item" : "syringe", "count" : 1 }
   ],
   "output" : {
-    "item" : "grassremedy",
+    "item" : "synthesisstim",
     "count" : 1
   },
-  "groups" : [ "craftingmedical", "buffs" ]
+  "groups" : [ "craftingmedical", "healing" ]
 }

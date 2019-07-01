@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rainbowwoodbed"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rainbowwoodchair"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rainbowwoodsafe"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rainbowwooddoor"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rainbowwoodtable"
+  }
+]

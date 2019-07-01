@@ -86,24 +86,13 @@
       { "item": "electrobaton" },
       { "item": "raygun" },
       { "item": "spaceplasmarifle" },
-      { "item": { "name": "erchiuseye" },
-        "prerequisiteQuest": "human_mission1"
-      },
-      { "item": { "name": "ixodoomclaw" },
-        "prerequisiteQuest": "floran_mission2"
-      },
-      { "item": { "name": "soluskatana" },
-        "prerequisiteQuest": "hylotl_mission2"
-      },
-      { "item": { "name": "kluexstaff" },
-        "prerequisiteQuest": "avian_mission2"
-      },
-      { "item": { "name": "miniknoglauncher" },
-        "prerequisiteQuest": "apex_mission2"
-      },
-      { "item": { "name": "dragonhead" },
-        "prerequisiteQuest": "glitch_mission2"
-      }
+      { "item": "stoneblade" },
+      { "item": { "name": "erchiuseye" }, "prerequisiteQuest": "human_mission1" },
+      { "item": { "name": "ixodoomclaw" }, "prerequisiteQuest": "floran_mission2" },
+      { "item": { "name": "soluskatana" }, "prerequisiteQuest": "hylotl_mission2" },
+      { "item": { "name": "kluexstaff" }, "prerequisiteQuest": "avian_mission2" },
+      { "item": { "name": "miniknoglauncher" }, "prerequisiteQuest": "apex_mission2" },
+      { "item": { "name": "dragonhead" }, "prerequisiteQuest": "glitch_mission2" }
     ]
   },
   {

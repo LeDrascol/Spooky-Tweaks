@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "silkfibre", "count" : 5 }
+  ],
+  "output" : {
+    "item" : "spidersilkblock",
+    "count" : 20
+  },
+  "duration" : 0.2,
+  "groups"  : [ "craftingfurniture", "materials", "all" ]
+}

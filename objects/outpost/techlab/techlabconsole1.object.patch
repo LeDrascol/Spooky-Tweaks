@@ -67,37 +67,32 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "mechassemblystation"
-      }
+    "value": { "item": { "name": "mechassemblystation" } }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": { "name": "tvstation" } }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": { "name": "manipulatormodule" } }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": { "name": "techcard" } }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": { "name": "upgrademodule" }
     }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "manipulatormodule"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "techcard"
-      }
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": {
-        "name": "upgrademodule"
-      }
-    }
+    "value": { "item": { "name": "processor" }, "prerequisiteQuest": "penguin1" }
   }
 ]

@@ -1,0 +1,27 @@
+[
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rustbed"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rustchair"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rustdoor"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rusttable"
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "rustchest"
+  }
+]

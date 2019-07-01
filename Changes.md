@@ -1,4 +1,4 @@
-﻿# Initial Release
+# Initial Release
 + Price change on Teleporter Core from 15 DIAMONDS to 2000 PIXELS
 + Changed crafting for all 2-Stop Teleshop teleporters to relevant ingredients
 + Crafting for Penguin Suit moved from Treasured Trophies to Beakeasy
@@ -1203,6 +1203,12 @@
 + Added Wooden Workbench crafting for Help Me Sign
 + Added Wooden Workbench crafting for Interrogation Rack
 + Added Wooden Workbench crafting for Medical Bay Sign
++ Added Wooden Workbench crafting for Rainbow Wood Bed
++ Added Wooden Workbench crafting for Rainbow Wood Chair
++ Added Wooden Workbench crafting for Rainbow Wood Door
++ Added Wooden Workbench crafting for Rainbow Wood Chest
++ Added Wooden Workbench crafting for Rainbow Wood Table
++ Added Wooden Workbench crafting for Spider Silk
 + Added Industrial Workbench crafting for Anomalous Display
 + Added Industrial Workbench crafting for Blueprint Display
 + Added Industrial Workbench crafting for Map Display
@@ -1231,6 +1237,8 @@
 + Added Wiring Station crafting for Long Mechanical Elevator
 + Added Wiring Station crafting for Long Wooden Elevator
 + Added Wiring Station crafting for Long Industrial Elevator
++ Added Wiring Station crafting for Standard Lever
++ Added Wiring Station crafting for Wall Mounted Button
 + Added Agricultural Station crafting for Microwave
 + Added Unapparent Apparel item Barrel Lid
 + Added Unapparent Apparel item Handy Space Helmet
@@ -1238,6 +1246,30 @@
 + Restored Industrial Workbench crafting for Neon Block
 + Restored Kitchen Counter crafting for Pizza
 + Price change from 4 PIXELS to 20 PIXELS for Red Apple
++ Added Tech Dispenser item Processor after quest Dreadwing the Penguin
++ Added Tech Dispenser item TV Station
++ Added blueprint unlock on Metal Coated Wood for Rusty Bed
++ Added blueprint unlock on Metal Coated Wood for Rusty Chair
++ Added blueprint unlock on Metal Coated Wood for Rusty Door
++ Added blueprint unlock on Metal Coated Wood for Rusty Table
++ Added blueprint unlock on Rainbow Wood for Rainbow Wood Bed
++ Added blueprint unlock on Rainbow Wood for Rainbow Wood Chair
++ Added blueprint unlock on Rainbow Wood for Rainbow Wood Chest
++ Added blueprint unlock on Rainbow Wood for Rainbow Wood Door
++ Added blueprint unlock on Rainbow Wood for Rainbow Wood Table
++ Added new Frogg Furnishings set: Rainbow Wood
++ Added new Frogg Furnishings set: Sharp
++ Added new Frogg Furnishings set: Rusty
++ Added new Frogg Furnishings set: Wrecked
++ Added new Frogg Furnishings set: Unobtainable Paintings
++ Added Frogg Furnishings item Soft Armchair
++ Added Frogg Furnishings item Green Lily Pad Sign
++ Added Frogg Furnishings item Green Neon Symbol
++ Added Penguin Weapon Shop item Stone Sword
++ Renamed TV Station to Broadcast Console
++ Rarity increased from Common to Legendary for Broadcast Console
++ Price change from 190 PIXELS to 3000 PIXELS for Broadcast Console
++ Updated description of Broadcast Console to indicate it once functioned
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Legendary"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 3000
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Once used to broadcast a video signal to an unknown source. An external source has sent a shutdown signal to prevent anyone from using it."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Broadcast Console"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "input" : [
+    { "item" : "plantfibre", "count" : 8 },
+    { "item" : "petalred", "count" : 4 },
+    { "item" : "bottle", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "grassremedy",
+    "count" : 1
+  },
+  "groups" : [ "craftingmedical", "healing" ]
+}

@@ -556,6 +556,21 @@
 },
 {
   "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "outpostbutton" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "redalert" }
+},
+{
+  "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "wazlights" }
+},
+{
+  "op": "add",
   "path": "/defaultBlueprints/portable3dprinter",
   "value": [
       { "item" : "futurelight" },
