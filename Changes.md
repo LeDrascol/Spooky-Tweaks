@@ -1201,6 +1201,10 @@
 + Renamed Avali Flag to Flag - Avali
 + Updated normal (casual) mode respawn text to match vanilla changes
 + Added tag spookyTweaksShop to Instruments Shop for addon support
++ Allowed 3D printing for Benjamin Deust Statue
++ Allowed 3D printing for Cameron York Statue
++ Allowed 3D printing for Imagination Memorial
++ Allowed 3D printing for XOliver137 Statue
 
 ### Familiars
 + Updated normal (casual) mode respawn text to match vanilla changes
