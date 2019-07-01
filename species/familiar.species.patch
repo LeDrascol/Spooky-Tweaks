@@ -2,29 +2,21 @@
   {
     "op": "test",
     "path": "/kind",
-    "value": [
-      "familiar"
-    ]
+    "value": "familiar"
   },
   {
     "op": "add",
     "path": "/statusEffects",
-    "value": [
-      "novakidglow"
-    ]
+    "value": [ "novakidglow" ]
   },
   {
     "op": "test",
     "path": "/defaultBlueprints/tier1/0",
-    "value": {
-      "item": "flaghuman"
-    }
+    "value": { "item": "flaghuman" }
   },
   {
     "op": "replace",
     "path": "/defaultBlueprints/tier1/0",
-    "value": {
-      "item": "flagnovakid"
-    }
+    "value": { "item": "flagnovakid" }
   }
 ]

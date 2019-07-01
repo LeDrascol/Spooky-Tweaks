@@ -2,9 +2,7 @@
   {
     "op": "test",
     "path": "/objectName",
-    "value": [
-      "familiartorch"
-    ]
+    "value": "familiartorch"
   },
   {
     "op": "replace",
