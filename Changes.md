@@ -1291,6 +1291,10 @@
 + Added Frog Merchant item Silver Drill
 + Added Frog Merchant item Copper Drill
 + Added Frog Merchant item Platinum Drill
++ Crafting station change from Medical Station to Apothecary for Blue Stim
++ Crafting station change from Medical Station to Apothecary for Green Stim
++ Crafting station change from Medical Station to Apothecary for Orange Stim
++ Main ingredient changed from Venom Sample to Bio Sample for Antidote
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

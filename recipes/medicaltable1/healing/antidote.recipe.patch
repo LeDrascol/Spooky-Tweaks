@@ -3,5 +3,10 @@
     "op": "add",
     "path": "/groups/0",
     "value": "plain"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0",
+    "value": { "item": "biosample", "count": 5 }
   }
 ]
