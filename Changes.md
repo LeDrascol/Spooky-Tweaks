@@ -1270,6 +1270,27 @@
 + Rarity increased from Common to Legendary for Broadcast Console
 + Price change from 190 PIXELS to 3000 PIXELS for Broadcast Console
 + Updated description of Broadcast Console to indicate it once functioned
++ Renamed Frog Merchant shop to Frogg Excavations
++ Updated shop description for Frog Merchant
++ Price change from 1000 PIXELS to 0 PIXELS for Frog Merchant
++ Buy rates increased from 100% to 250% for Frog Merchant
++ Sell rates increased from 20% to 80% for Frog Merchant
++ Increased rarity rank from Common to Legendary for Frog Merchant
++ Removed existing shop inventory for Frog Merchant
++ Added Frog Merchant item Flare
++ Added Frog Merchant item Climbing Rope
++ Added Frog Merchant item Copper Lantern
++ Added Frog Merchant item Copper Pickaxe
++ Added Frog Merchant item Gold Pickaxe
++ Added Frog Merchant item Diamond Pickaxe
++ Added Frog Merchant item Siler Pickaxe
++ Added Frog Merchant item Platinum Pickaxe
++ Added Frog Merchant item Copper Drill
++ Added Frog Merchant item Gold Drill
++ Added Frog Merchant item Diamond Drill
++ Added Frog Merchant item Silver Drill
++ Added Frog Merchant item Copper Drill
++ Added Frog Merchant item Platinum Drill
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller

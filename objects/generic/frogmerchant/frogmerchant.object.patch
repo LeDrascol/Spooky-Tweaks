@@ -1,0 +1,68 @@
+[
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Legendary"
+  },
+  {
+    "op": "remove",
+    "path": "/interactData/items"
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items",
+    "value": [
+      { "item" : "bomb" },
+      { "item" : "flare" },
+      { "item" : "climbingrope" },
+      { "item" : "copperlantern" },
+      { "item" : "copperpickaxe" },
+      { "item" : "goldpickaxe" },
+      { "item" : "diamondpickaxe" },
+      { "item" : "silverpickaxe" },
+      { "item" : "platinumpickaxe" },
+      { "item" : "copperdrill" },
+      { "item" : "golddrill" },
+      { "item" : "diamonddrill" },
+      { "item" : "silverdrill" },
+      { "item" : "platinumdrill" }
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/interactData/paneLayoutOverride/windowtitle/icon",
+    "value": {
+      "file": "/objects/generic/frogmerchant/frogmerchanticon.png"
+    }
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/buyFactor",
+    "value": 2.5
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/sellFactor",
+    "value": 0.8
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/unbreakable",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/title",
+    "value": " Frögg Excavations"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": " Mining tools on a budget"
+  }
+]
