@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "This shop can't afford to stay open. Helping Esther should bring in more people for it!"
+    "value": "This shop can't afford to stay open. Helping Dr. Akaggy should bring in more people for it!"
   },
   {
     "op": "replace",
@@ -27,7 +27,7 @@
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "Probably a trading post, yet to be occupied until after I help Esther more."
+    "value": "Probably a trading post, yet to be occupied until after I help Dr. Akaggy more."
   },
   {
     "op": "replace",
@@ -37,6 +37,6 @@
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "An empty shop is a sorry sight to behold. I recon it'll open later."
+    "value": "An empty shop is a sorry sight to behold. I reckon it'll open later."
   }
 ]

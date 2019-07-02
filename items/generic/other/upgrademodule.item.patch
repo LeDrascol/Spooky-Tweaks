@@ -1,14 +1,17 @@
 [
   {
-    "op": "add",
+    "op": "replace",
     "path": "/price",
     "value": 10000
   },
   {
     "op": "add",
     "path": "/itemTags",
-    "value": [
-      "reagent"
-    ]
+    "value": [ "reagent" ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "These modules can be used to upgrade ships."
   }
 ]

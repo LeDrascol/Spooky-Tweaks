@@ -18,5 +18,10 @@
     "op": "add",
     "path": "/chatOptions/-",
     "value": "Stop asking about the mechs, it's not my job anymore!"
+  },
+  {
+    "op": "add",
+    "path": "/chatOptions/-",
+    "value": "We guartentee our spike sphere won't fall off anything."
   }
 ]

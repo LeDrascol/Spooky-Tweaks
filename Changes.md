@@ -218,7 +218,7 @@
 + Raised max speed fuel requirement from 5000 to 8000 for Erchius Ghost
 + Removed ice immunity from Erchius Ghost
 + Removed invulnerability from Erchius Ghost (only enables knockback)
-+ Updated subtitle of Fuel Hatch to reflect mod changes
++ Updated UI subtitle of Fuel Hatch to reflect mod changes
 + Raised maximum fuel costs from 10/50/500 to 10/100/1000
 + Removed invulnerability from Time Freeze status effect (Time Pierce)
 + Price change on Magnorbs from 5000 PIXELS to 9000 PIXELS
@@ -1159,9 +1159,9 @@
 + Increased ingot material cost from 5 to 10 for Scientific Teleporter
 + Code cleanup for Teleporter Core patch
 + Updated racial descriptions for Closed Instruments Shop
-+ Updated window subtitle for Fuel Hatch to better reflect accepted items
++ Updated UI subtitle for Fuel Hatch to better reflect accepted items
 + Removed snark from options menu
-+ Updated subtitle of Weapon Upgrade Anvil to state material used
++ Updated UI subtitle of Weapon Upgrade Anvil to state material used
 + Updated description for normal (casual) difficulty
 + Added item tag REAGENT to Crystal Spookium (solidfuel)
 + Added item tag REAGENT to Peace Credit
@@ -1295,6 +1295,13 @@
 + Crafting station change from Medical Station to Apothecary for Green Stim
 + Crafting station change from Medical Station to Apothecary for Orange Stim
 + Main ingredient changed from Venom Sample to Bio Sample for Antidote
++ Added new dialog to Tech Lab Scientist about Spike Sphere
++ Updated racial descriptions for Penguin Weapon Shop to reflect new questgiver
++ Updated novakid racial description for Closed Penguin Weapon Shop
++ Updated avian racial description for Tech Dispenser
++ Updated UI subtitle for Treasured Trophies
++ Minor code cleanup for Tech Dispenser patch
++ Updated description for Upgrade Module
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
@@ -1313,10 +1320,10 @@
 + Added actual racial descriptions for Avali Teleporter
 + Added self-crafting learn on pickup for Avali Flag
 + Renamed Avali Flag to Flag - Avali
-+ Updated normal (casual) mode respawn text to match vanilla changes
++ Updated normal (casual) mode respawn text to match mod changes
 
 ### Familiars
-+ Updated normal (casual) mode respawn text to match vanilla changes
++ Updated normal (casual) mode respawn text to match mod changes
 + Reduced min flicker from 0.95 to 0.99 for Familiar Torch
 + Changed hand-use to 1H for Familiar Torch
 + Added Familiars racial perk of Novakid Glow

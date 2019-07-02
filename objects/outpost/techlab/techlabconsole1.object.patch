@@ -17,7 +17,7 @@
   {
     "op": "replace",
     "path": "/avianDescription",
-    "value": "I can buy a tech here."
+    "value": "I can buy tech here."
   },
   {
     "op": "replace",
@@ -46,13 +46,11 @@
   },
   {
     "op": "replace",
-    "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": "Tech Dispenser"
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": " ^#b9b5b2;Sells Tech"
+    "path": "/interactData/paneLayoutOverride/windowtitle",
+    "value": {
+      "title": " Tech Dispenser",
+      "subtitle": " ^#b9b5b2;Dispenses Tech"
+    }
   },
   {
     "op": "replace",
