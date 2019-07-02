@@ -92,6 +92,8 @@ This project is open source. You may create a modular fork if you only want a ce
 - Ore values are approximately 4x higher
 - Ursa Miner sells radioactive rods usable as ship fuel
 - Teleporters require cores AND relevant materials
+- Five new otherwise unobtainable sets in Frogg Furnishings
+- 49 more unused items sold at the outpost
 
 ## Tech
 - Tech descriptions are more helpful
@@ -173,7 +175,8 @@ This project is open source. You may create a modular fork if you only want a ce
 **Latest Update**
 - The orange stimpack returns
 - Mining tools can be made at an Agricultural Station
-- __FINALCOUNT__ unobtainable decorations are craftable again
+- 62 more unused items made craftable
+- Stimpacks moved from the Medical Station to the Apothecary
 
 ## Official Integration
 The mods listed below are patched to use this mod's changes
