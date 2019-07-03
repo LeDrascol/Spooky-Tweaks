@@ -25,14 +25,12 @@
     "value": "What luck having this vending machine here! I'm too lazy to find these parts myself."
   },
   {
-    "op": "replace",
-    "path": "/interactData/paneLayoutOverride/windowtitle/title",
-    "value": " Scrap Vending Machine"
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": " Useful mech parts"
+    "op": "add",
+    "path": "/interactData/paneLayoutOverride/windowtitle",
+    "value": {
+      "title": " Scrap Vending Machine",
+      "subtitle": " Salvaged mech parts"
+    }
   },
   {
     "op": "replace",
@@ -41,57 +39,16 @@
   },
   {
     "op": "replace",
-    "path": "/interactData/sellFactor",
-    "value": 0
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/items/0",
-    "value": {
-      "item": "salvagebody"
-    }
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/items/1",
-    "value": {
-      "item": "salvagelegs"
-    }
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/items/2",
-    "value": {
-      "item": "salvagebooster"
-    }
-  },
-  {
-    "op": "replace",
-    "path": "/interactData/items/3",
-    "value": {
-      "item": "salvagearm"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "salvagetier4"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "salvagetier5"
-    }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": {
-      "item": "salvagetier6"
-    }
+    "path": "/interactData/items",
+    "value": [
+      { "item" : "salvagebody" },
+      { "item" : "salvagelegs" },
+      { "item" : "salvagebooster" },
+      { "item" : "salvagearm" },
+      { "item" : "salvagetier4" },
+      { "item" : "salvagetier5" },
+      { "item" : "salvagetier6" }
+    ]
   },
   {
     "op": "remove",

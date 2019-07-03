@@ -7,51 +7,31 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": "cheese" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "egg" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "milk" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "rawbacon" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "rawham" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "redapple" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "greenapple" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "orange" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
     "value": { "item": "capturepod" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
     "value": { "item": "broom" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "parasol" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "greenflashlight" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "redflashlight" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "yellowflashlight" }
   }
 ]

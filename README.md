@@ -81,7 +81,7 @@ This project is open source. You may create a modular fork if you only want a ce
 - Buy your own personal Rob Repairo
 - Mech blueprints can be traded for at Beakeasy
 - Mech Assembly Station can be purchased from the tech dispenser
-- Terramart Shipments buys items for their full value
+- Terramart Shipments buys items for their full value (Even with Enhanced Storage)
 - Terramart Shipments accept all mining materials
 - Lana's supply business has improved to compete with augment crafting
 

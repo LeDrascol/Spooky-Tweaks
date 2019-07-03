@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/interactData/buyFactor",
-    "value": 1
+    "value": 2.5
   },
   {
     "op": "replace",
@@ -11,66 +11,27 @@
   },
   {
     "op": "remove",
-    "path": "/interactData/items/20"
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/19"
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/18"
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/17"
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/16"
-  },
-  {
-    "op": "remove",
-    "path": "/interactData/items/15"
-  },
-  {
-    "op": "remove",
     "path": "/interactData/items/5"
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": "pizza" }
+    "value": { "item": "rawham" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": "hamburger" }
+    "value": { "item": "greenapple" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
+    "value": { "item": "orange" }
   },
   {
     "op": "add",
     "path": "/interactData/items/-",
     "value": { "item": "cottonwool" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "parasol" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "greenflashlight" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "redflashlight" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "yellowflashlight" }
   },
   {
     "op": "add",

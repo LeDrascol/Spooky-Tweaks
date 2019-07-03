@@ -988,13 +988,7 @@
 + Updated Human racial description for Infinity Express
 + Updated UI subtitle for Infinity Express
 + Moved shop item from Terramart to Infinity Express - Cotton Wool
-+ Moved shop item from Infinity Express to Terramart - Cheese
-+ Moved shop item from Infinity Express to Terramart - Egg
-+ Moved shop item from Infinity Express to Terramart - Milk
-+ Moved shop item from Infinity Express to Terramart - Bacon
-+ Moved shop item from Infinity Express to Terramart - Apple
 + Updated item organization for Tech Dispenser
-+ Added Infinity Express item Hamburger
 + ~~Added Infinity Express item Pizza Slice~~
 + Added new Rocket Jump parameter rocketCooldown
 + Rocket Jump tech now recharges via cooldown in the air
@@ -1186,8 +1180,6 @@
 + Allowed 3D printing for Cameron York Statue
 + Allowed 3D printing for Imagination Memorial
 + Allowed 3D printing for XOliver137 Statue
-+ Added Terramart item Raw Ham
-+ Added Terramart item Green Apple
 + Added default blueprint Cooked Tentacle
 + Added Wooden Workbench crafting for Cloud
 + Added Wooden Workbench crafting for Coconut Block
@@ -1242,7 +1234,6 @@
 + Added Agricultural Station crafting for Microwave
 + Added Unapparent Apparel item Barrel Lid
 + Added Unapparent Apparel item Handy Space Helmet
-+ Added Infinity Express item Pizza
 + Restored Industrial Workbench crafting for Neon Block
 + Restored Kitchen Counter crafting for Pizza
 + Price change from 4 PIXELS to 20 PIXELS for Red Apple
@@ -1302,6 +1293,15 @@
 + Updated UI subtitle for Treasured Trophies
 + Minor code cleanup for Tech Dispenser patch
 + Updated description for Upgrade Module
++ Restored all removed items from Infinity Express (except Liquid Fuel)
++ Added Infinity Express item Raw Ham
++ Added Infinity Express item Green Apple
++ Added Infinity Express item Orange
++ Buy rates raised from 100% to 250% for Infinity Express
++ Moved shop item from Terramart to Infinity Express - Parasol
++ Moved shop item from Terramart to Infinity Express - Green Flashlight
++ Moved shop item from Terramart to Infinity Express - Red Flashlight
++ Moved shop item from Terramart to Infinity Express - Yellow Flashlight
 
 ### Avali
 + Price change from 12500 PIXELS to 11000 PIXELS for Avali Hoverbike Controller
