@@ -4,19 +4,14 @@
     "path": "/scriptConfig/conditions/0",
     "value": {
       "type": "gatherItem",
-      "itemName": "ironbar",
-      "count": 10,
-      "consume": true
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/conditions/-",
-    "value": {
-      "type": "gatherItem",
       "itemName": "techcard",
       "count": 6,
       "consume": true
     }
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "The ^orange;tech^white; I'm working on now is truly fantastic! It enables the user to compress into a small, spherical form ideal for moving around in tight spaces. I need some final components to finish it. ^green;Could you bring me ^orange;6 Tech Cards^white;?"
   }
 ]

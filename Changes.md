@@ -1345,3 +1345,11 @@
 ### Instru+
 + Changed hand-use to 1H for all 17 Instru+ instruments
 + Reduced rarity rank from Legendary to Rare for all 17 Instru+ instruments
+
+## Patch 5.1
++ Removed mission requirement involving Stim Pack from Let's Get Technical
++ Removed mission requirement involving Stim Pack from Jump-starting Development
++ Removed mission requirement involving Stim Pack from Rounding Up The Components
++ Updated quest text for Let's Get Technical
++ Updated quest text for Jump-starting Development
++ Updated quest text for Rounding Up The Components

@@ -4,19 +4,14 @@
     "path": "/scriptConfig/conditions/0",
     "value": {
       "type": "gatherItem",
-      "itemName": "greenstim",
-      "count": 1,
-      "consume": true
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/conditions/-",
-    "value": {
-      "type": "gatherItem",
       "itemName": "techcard",
       "count": 2,
       "consume": true
     }
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "I've been developing technology that will enable the user to swiftly dash from one point to another, but I'm lacking a few crucial components for my ^orange;prototype^white;. Could you help me by ^green;bringing me ^orange;2 Tech Cards^white;?"
   }
 ]

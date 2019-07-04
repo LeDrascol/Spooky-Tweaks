@@ -4,19 +4,14 @@
     "path": "/scriptConfig/conditions/0",
     "value": {
       "type": "gatherItem",
-      "itemName": "bluestim",
-      "count": 1,
-      "consume": true
-    }
-  },
-  {
-    "op": "add",
-    "path": "/scriptConfig/conditions/-",
-    "value": {
-      "type": "gatherItem",
       "itemName": "techcard",
       "count": 4,
       "consume": true
     }
+  },
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "I've been working on a new piece of tech that enables the user to perform a jump in mid-air, allowing them to reach incredible new heights! Unfortunately, I require a few more components before I can finish it. ^green;Could you bring me ^orange;4 Tech Cards^white;?"
   }
 ]
