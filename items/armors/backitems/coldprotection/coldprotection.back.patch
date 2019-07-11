@@ -2,7 +2,7 @@
   {
     "op": "add",
     "path": "/statusEffects/-",
-    "value": "lanternglow"
+    "value": "novakidglow"
   },
   {
     "op": "replace",

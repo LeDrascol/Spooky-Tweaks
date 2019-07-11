@@ -1353,3 +1353,4 @@
 + Updated quest text for Let's Get Technical
 + Updated quest text for Jump-starting Development
 + Updated quest text for Rounding Up The Components
++ Changed light type from LANTERNGLOW to NOVAKIDGLOW for EPPs
