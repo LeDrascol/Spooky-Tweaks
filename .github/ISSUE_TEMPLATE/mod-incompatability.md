@@ -12,4 +12,4 @@ Mod Name:
 URL: 
 
 ### Describe the issue
-__Issue__
+_Replace this text with the issue_
