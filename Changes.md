@@ -1326,7 +1326,7 @@
 + Updated normal (casual) mode respawn text to match mod changes
 + Reduced min flicker from 0.95 to 0.99 for Familiar Torch
 + Changed hand-use to 1H for Familiar Torch
-+ Added Familiars racial perk of Novakid Glow
++ Added Familiars racial effect Novakid Glow
 + Renamed Shiplocker to Familiar Ship Locker
 + Reduced item aging rate from 1.0 to 0.2 for Familiar Ship Locker
 + Fixed Familiar Ship Locker UI configuration issue
@@ -1368,6 +1368,15 @@
 + Changed play mode name EXPERT to SURVIVAL
 + Reverted money loss from 10% to 30% for Survival Mode
 + Removed all drop on death categories from Survival Mode
++ Added status effect Avian Agility (st_avianFallResist)
++ Added status effect Human Inferiority (st_humanInferiority)
++ Added status effect Familiar Power (st_familiarRacial)
++ Added Avian racial effect Avian Agility (st_avianFallResist)
++ Added Avian racial effect Human Inferiority (st_humanInferiority)
++ Added Avian racial effect Familiar Power (st_familiarRacial)
++ Added Glitch racial effect BREATH PROTECTION
++ Added Glitch racial effect RADIATION PROTECTION
++ Added Hylotl racial effect SWIM BOOST
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

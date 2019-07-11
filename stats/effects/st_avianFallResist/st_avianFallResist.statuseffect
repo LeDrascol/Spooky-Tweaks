@@ -1,0 +1,9 @@
+{
+  "name" : "st_avianFallResist",
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "st_avianFallResist.lua"
+  ]
+}

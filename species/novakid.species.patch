@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/charCreationTooltip/description",
     "value": "The Novakid are an ^red;ancient^reset; race of plasmatic ghosts. They have no charted settlements or history. No one knows what they are, nor where they're from. This is because ^red;The Ancients^reset; didn't care very much when making them. Your etheric nature ^green;causes you to glow^reset;."
+  },
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [ { "stat" : "biomeheatImmunity", "amount" : 1 } ]
   }
 ]

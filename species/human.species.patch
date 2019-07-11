@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/charCreationTooltip/description",
     "value": "Despite their petty boring existance, humans eventually dominanted the universe. They formed a club that would force everyone to think they're good for something, called The Terrene Protectorate. Luckily it was blown up, making you worthless again."
+  },
+  {
+    "op": "add",
+    "path": "/statusEffects",
+    "value": [ "st_humanInferiority" ]
   }
 ]

@@ -1,0 +1,12 @@
+{
+  "name" : "st_humanInferiority",
+  "effectConfig" : {},
+  "defaultDuration" : 1.0,
+
+  "scripts" : [
+    "st_humanInferiority.lua"
+  ],
+
+  "label" : "Human Inferiority",
+  "icon" : "/interface/statuses/oldpoison.png"
+}
