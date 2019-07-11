@@ -10,7 +10,13 @@ This project is open source. You may create a modular fork if you only want a ce
 ### Project Links
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=737895230)
 - [Chucklefish Forums](https://community.playstarbound.com/resources/spooky-tweaks.3931/)
+- [Starbound Nexus](https://community.playstarbound.com/resources/spooky-tweaks.3931/) (Not Maintained)
+
+
 - Complete Changelist
+- Project Wiki
+
+
 - [Logo Artist](https://steamcommunity.com/id/EvKem)
 
 # Project Highlights
@@ -183,3 +189,7 @@ The mods listed below are patched to use this mod's changes
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
+
+The mods listed below add optional new APIs used by this mod
+- [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)
+- [The Tabula Rasa](https://steamcommunity.com/sharedfiles/filedetails/?id=737353165)

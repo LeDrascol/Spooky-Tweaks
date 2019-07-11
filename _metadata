@@ -1,8 +1,9 @@
 {
-  "name" : "spookyTweaks",
   "friendlyName" : "Spooky Tweaks",
   "description" : "Major vanilla game overhaul bringing rebalances and streamlined gameplay.",
-  "version" : "1.5",
+  "name" : "spookyTweaks",
+  "priority" : 1,
   "steamContentId" : "737895230",
-  "priority" : 1
+  "tags" : "Crafting and Building|Miscellaneous|NPCs and Creatures|Weapons|Quests|User Interface|Furniture and Objects|Mechanics",
+  "version" : "1.5"
 }
