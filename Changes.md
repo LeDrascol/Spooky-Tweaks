@@ -1359,6 +1359,8 @@
 + Removed Frogg Furnishings set: Rusty
 + Removed Frogg Furnishings set: Wrecked
 + Removed Frogg Furnishings set: Unobtainable Paintings
++ Added new gas projectile Party Gas (st_partygas)
++ Added Status Pod effect Party Time
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

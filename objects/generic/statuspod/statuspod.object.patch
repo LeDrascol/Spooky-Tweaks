@@ -75,5 +75,13 @@
       "projectileType": "st_temporalgasprojectile",
       "projectileParams": {}
     }
+  },
+  {
+    "op": "add",
+    "path": "/projectileOptions/-",
+    "value": {
+      "projectileType": "st_partygasprojectile",
+      "projectileParams": {}
+    }
   }
 ]
