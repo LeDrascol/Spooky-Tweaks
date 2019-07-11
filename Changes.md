@@ -1361,6 +1361,10 @@
 + Removed Frogg Furnishings set: Unobtainable Paintings
 + Added new gas projectile Party Gas (st_partygas)
 + Added Status Pod effect Party Time
++ Fixed MOD recipe issue for Wall Mounted Button
++ Fixed MOD recipe issue for Standard Lever
++ Fixed MOD recipe issue for Hanging Basket (2)
++ Removed Wiring Station crafting for Hi-tech Turret
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
