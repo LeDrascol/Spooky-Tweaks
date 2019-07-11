@@ -6,8 +6,8 @@
   },
   {
     "op": "replace",
-    "path": "/survival/reviveCostPercentile",
-    "value": 0.1
+    "path": "/survival/deathDropItemTypes",
+    "value": "none"
   },
   {
     "op": "replace",

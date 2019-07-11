@@ -257,8 +257,8 @@
 
 # Update 1
 + Removed startup animation
-+ Changed play mode CASUAL to NORMAL
-+ Changed play mode NORMAL to EXPERT
++ Changed play mode name CASUAL to NORMAL
++ Changed play mode name NORMAL to EXPERT
 + Updated descriptions of play modes to reflect mod changes
 + Added 66 emotion chat triggers
 + Removed 5 emotion chat triggers
@@ -1365,6 +1365,9 @@
 + Fixed MOD recipe issue for Standard Lever
 + Fixed MOD recipe issue for Hanging Basket (2)
 + Removed Wiring Station crafting for Hi-tech Turret
++ Changed play mode name EXPERT to SURVIVAL
++ Reverted money loss from 10% to 30% for Survival Mode
++ Removed all drop on death categories from Survival Mode
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
