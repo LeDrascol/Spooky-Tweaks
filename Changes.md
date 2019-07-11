@@ -1377,6 +1377,8 @@
 + Added Glitch racial effect BREATH PROTECTION
 + Added Glitch racial effect RADIATION PROTECTION
 + Added Hylotl racial effect SWIM BOOST
++ Code cleanup for splash screen patch
++ Restored Chucklefish logo to splash screen
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

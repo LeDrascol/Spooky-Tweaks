@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/playerWarpCinemaMinimumTime",
     "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/introCinematic",
+    "value": "/cinematics/st_nocine.cinematic"
   }
 ]
