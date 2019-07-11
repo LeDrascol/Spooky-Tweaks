@@ -1,42 +1,66 @@
 [
-  {
-    "op": "add",
-    "path": "/storeInventory/furniture/-",
-    "value": "woodenarmchair2"
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/furniture/-",
-    "value": "hylotlsign1g"
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/furniture/-",
-    "value": "hylotlsymbolg"
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/featured/-",
-    "value": [ "ironbed", "ironswitch", "irondoor", "ironlight", "irontable", "irontoilet" ]
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/featured/-",
-    "value": [ "rainbowwoodbed", "rainbowwoodchair", "rainbowwoodsafe", "rainbowwooddoor", "rainbowwoodtable" ]
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/featured/-",
-    "value": [ "rustbed", "rustchair", "rustdoor", "rusttable", "irontoilet", "rustbush1", "rustbush2", "rustbush3", "rustbush4" ]
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/featured/-",
-    "value": [ "wreckchair", "wreckgenerator", "wreckwiresceiling", "wreckscreen", "wreckpanel1", "wrecktv", "wreckconsole3", "wreckturbine2", "wreckturbines", "wreckvat1", "wreckpanel2", "wrecksmalltable" ]
-  },
-  {
-    "op": "add",
-    "path": "/storeInventory/featured/-",
-    "value": [ "paintingbirthofapevenus", "paintingbirthofvenus", "paintingshakespeare", "paintingcreationofpixel", "paintingscream", "paintingpearlearring", "apexwallpainting2" ]
-  }
+  [
+    {
+      "op": "add",
+      "path": "/storeInventory/furniture/-",
+      "value": "woodenarmchair2"
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/furniture/-",
+      "value": "hylotlsign1g"
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/furniture/-",
+      "value": "hylotlsymbolg"
+    }
+  ],
+
+
+  [
+    {  "op": "test", "path": "/modTab", "inverse": true },
+    { "op": "add", "path": "/modTab", "value": [] }
+  ],
+
+  [
+    {
+      "op": "add",
+      "path": "/modTab/-",
+      "value": {
+        "file": "/interface/modsmenu/modicon.png",
+        "label": "Special",
+        "filter": [ "st_rotation"]
+      }
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/st_rotation",
+      "value": []
+    }
+  ],
+
+  [
+    {
+      "op": "add",
+      "path": "/storeInventory/st_rotation/-",
+      "value": [ "wreckchair", "wreckgenerator", "wreckwiresceiling", "wreckscreen", "wreckpanel1", "wrecktv", "wreckconsole3", "wreckturbine2", "wreckturbines", "wreckvat1", "wreckpanel2", "wrecksmalltable" ]
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/st_rotation/-",
+      "value": [ "rustbed", "rustchair", "rustdoor", "rusttable", "irontoilet", "rustbush1", "rustbush2", "rustbush3", "rustbush4" ]
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/st_rotation/-",
+      "value": [ "rainbowwoodbed", "rainbowwoodchair", "rainbowwoodsafe", "rainbowwooddoor", "rainbowwoodtable" ]
+    },
+    {
+      "op": "add",
+      "path": "/storeInventory/st_rotation/-",
+      "value": [ "ironbed", "ironswitch", "irondoor", "ironlight", "irontable", "irontoilet" ]
+    }
+  ]
+
 ]

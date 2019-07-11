@@ -1354,3 +1354,16 @@
 + Updated quest text for Jump-starting Development
 + Updated quest text for Rounding Up The Components
 + Changed light type from LANTERNGLOW to NOVAKIDGLOW for EPPs
++ Removed Frogg Furnishings set: Rainbow Wood
++ Removed Frogg Furnishings set: Sharp
++ Removed Frogg Furnishings set: Rusty
++ Removed Frogg Furnishings set: Wrecked
++ Removed Frogg Furnishings set: Unobtainable Paintings
+
+### Many Frogs
++ Added Frogg Furnishings rotating category Special (st_rotation)
++ Added Special category set: Rainbow Wood
++ Added Special category set: Sharp
++ Added Special category set: Rusty
++ Added Special category set: Wrecked
++ Added Special category set: Unobtainable Paintings
