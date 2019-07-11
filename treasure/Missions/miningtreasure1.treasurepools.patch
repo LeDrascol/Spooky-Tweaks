@@ -2,12 +2,7 @@
   {
     "op": "add",
     "path": "/miningtreasurelore/0/1/fill/-",
-    "value": {
-      "item": [
-        "supermatter",
-        20
-      ]
-    }
+    "value": { "item": [ "supermatter", 20 ] }
   },
   {
     "op": "replace",

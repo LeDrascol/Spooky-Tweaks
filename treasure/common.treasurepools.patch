@@ -3,58 +3,17 @@
     "op": "add",
     "path": "/endTreasureValuables",
     "value": [
-      [
-        0,
-        {
+      [ 0, {
           "pool": [
-            {
-              "weight": 0.5,
-              "item": [
-                "techcard",
-                9
-              ]
-            },
-            {
-              "weight": 0.5,
-              "item": [
-                "manipulatormodule",
-                12
-              ]
-            },
-            {
-              "weight": 0.5,
-              "item": [
-                "upgrademodule",
-                6
-              ]
-            },
-            {
-              "weight": 0.5,
-              "item": [
-                "teleportercore",
-                4
-              ]
-            },
-            {
-              "weight": 0.5,
-              "pool": "augments"
-            },
-            {
-              "weight": 0.5,
-              "pool": "petcollars"
-            },
-            {
-              "weight": 0.5,
-              "pool": "uniqueWeapon"
-            },
-            {
-              "weight": 0.5,
-              "pool": "rarefurniture"
-            },
-            {
-              "weight": 0.5,
-              "pool": "costume"
-            }
+            { "weight": 0.5, "item": [ "techcard", 9 ] },
+            { "weight": 0.5, "item": [ "manipulatormodule", 12 ] },
+            { "weight": 0.5, "item": [ "upgrademodule", 6 ] },
+            { "weight": 0.5, "item": [ "teleportercore", 4 ] },
+            { "weight": 0.5, "pool": "augments" },
+            { "weight": 0.5, "pool": "petcollars" },
+            { "weight": 0.5, "pool": "uniqueWeapon" },
+            { "weight": 0.5, "pool": "rarefurniture" },
+            { "weight": 0.5, "pool": "costume" }
           ]
         }
       ]
@@ -63,31 +22,14 @@
   {
     "op": "replace",
     "path": "/endTreasure/0",
-    "value": [
-      0,
-      {
+    "value": [ 0, {
         "fill": [
-          {
-            "item": [
-              "money",
-              85000
-            ]
-          },
-          {
-            "item": "finalpostcard-codex"
-          },
-          {
-            "pool": "endTreasureValuables"
-          },
-          {
-            "pool": "endTreasureValuables"
-          },
-          {
-            "pool": "endTreasureValuables"
-          },
-          {
-            "pool": "endTreasureValuables"
-          }
+          { "item": [ "money", 85000 ] },
+          { "item": "finalpostcard-codex" },
+          { "pool": "endTreasureValuables" },
+          { "pool": "endTreasureValuables" },
+          { "pool": "endTreasureValuables" },
+          { "pool": "endTreasureValuables" }
         ]
       }
     ]
@@ -96,21 +38,10 @@
     "op": "add",
     "path": "/valuableTreasureTicket",
     "value": [
-      [
-        0,
-        {
-            "fill": [
-              {
-                "item": [
-                  "winningticket",
-                  10
-                ]
-              },
-              {
-                "pool": "valuableTreasure"
-              }
-            ]
-        }
+      [ 0, {
+        "fill": [
+          { "item": [ "winningticket", 10 ] },
+          { "pool": "valuableTreasure" } ] }
       ]
     ]
   }

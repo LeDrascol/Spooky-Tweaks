@@ -12,10 +12,7 @@
   {
     "op": "replace",
     "path": "/dragonbosstreasure/0/1/pool/2/item",
-    "value": [
-      "techcard",
-      9
-    ]
+    "value": [ "techcard", 9 ]
   },
   {
     "op": "replace",
@@ -25,10 +22,7 @@
   {
     "op": "replace",
     "path": "/dragonbosstreasure/0/1/pool/3/item",
-    "value": [
-      "manipulatormodule",
-      9
-    ]
+    "value": [ "manipulatormodule", 9 ]
   },
   {
     "op": "replace",
