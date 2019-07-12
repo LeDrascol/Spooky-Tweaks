@@ -1,0 +1,11 @@
+[
+  {
+    "op": "remove",
+    "path": "/maxStack"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 10
+  }
+]

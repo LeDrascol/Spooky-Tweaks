@@ -1413,6 +1413,12 @@
 + Renamed Empty Nectar Bottle to Empty Gin Bottle
 + Renamed Empty Petal Nectar Bottle to Empty Liqueur Bottle
 + Renamed Empty Fancy Water Bottle to Empty Vodka Bottle
++ Removed Infinity Express Shop item Beach Ball
++ Reduced chat radius from 10 to 4 for Rob Repairo
++ Changed Water Cooler (outpost) from PROP to CRAFTING SHOP
++ Added Water Cooler (outpost) shop item Bottled Water
++ Removed stack size limits from Bottled Water
++ Price change from 20 PIXELS to 10 PIXELS for Bottled Water
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

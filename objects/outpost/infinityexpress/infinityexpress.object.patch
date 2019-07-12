@@ -34,11 +34,6 @@
     "value": { "item": "cottonwool" }
   },
   {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "beachball" }
-  },
-  {
     "op": "replace",
     "path": "/humanDescription",
     "value": "I hope they can give me my soda fix."

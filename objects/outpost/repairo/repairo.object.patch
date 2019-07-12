@@ -11,8 +11,11 @@
   {
     "op": "add",
     "path": "/radioMessagesOnPickup",
-    "value": [
-      "pickuprepairo"
-    ]
+    "value": [ "pickuprepairo" ]
+  },
+  {
+    "op": "replace",
+    "path": "/chatRadius",
+    "value": 4
   }
 ]

@@ -1,0 +1,24 @@
+[
+  {
+    "op": "add",
+    "path": "/interactAction",
+    "value": "OpenCraftingInterface"
+  },
+  {
+    "op": "add",
+    "path": "/interactData",
+    "value": {
+      "config": "/interface/windowconfig/craftingmerchant.config",
+      "paneLayoutOverride": {
+        "windowtitle": {
+          "title": "Water Cooler",
+          "subtitle": "Puts water into bottles.",
+          "icon": { "file": "/interface/crafting/drink.png" }
+        },
+        "imgPlayerMoneyIcon": { "visible": false },
+        "lblPlayerMoney": { "visible": false }
+      },
+      "filter": [ "outpostwatercooler" ]
+    }
+  }
+]
