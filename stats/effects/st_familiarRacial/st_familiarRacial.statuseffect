@@ -5,8 +5,5 @@
 
   "scripts" : [
     "st_familiarRacial.lua"
-  ],
-
-  "label" : "Human Inferiority",
-  "icon" : "/interface/statuses/oldpoison.png"
+  ]
 }
