@@ -2,6 +2,11 @@
   {
     "op": "replace",
     "path": "/shortdescription",
-    "value": "Totally legitimate non-drinks bar"
+    "value": "Black market goods and drowning your sorrows"
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Hire drinks to stave off your thirst!"
   }
 ]

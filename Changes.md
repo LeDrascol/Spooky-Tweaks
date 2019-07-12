@@ -1390,6 +1390,24 @@
 + Updated description for fuel (liquid) to reflect mod changes
 + Updated dialog for tenant type `lunarbase` to add spookiness
 + Updated SAIL radio message for moons to add spookiness
++ Code cleanup for dubloon recipe
++ Removed Beakeasy crafting for Simple Mech Blueprint
++ Removed Beakeasy crafting for Advanced Mech Blueprint
++ Removed Beakeasy crafting for High-Tech Mech Blueprint
++ Removed Beakeasy crafting for Experimental Mech Blueprint
++ Moved shop item from Beakeasy to Arcade Prize Counter - Penguin Costume
++ Replaced dungeon `outpost_beakeasy2` with Hyltol Prize Counter area
++ Updated shop description of Beakeasy
++ Updated object description of Penguin Bar Top
++ Added Beakeasy shop item Automato Shake
++ Added Beakeasy shop item Bloody Puss
++ Added Beakeasy shop item Mulled Fruit Drink
++ Added Beakeasy shop item Coffee
++ Added Beakeasy shop item Cyanider
++ Added Beakeasy shop item Flat White Coffee
++ Added Beakeasy shop item Mochaccino
++ Added Beakeasy shop item Reefshake
++ Moved shop item from Beakeasy to Treasured Trophies - Dubloon
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

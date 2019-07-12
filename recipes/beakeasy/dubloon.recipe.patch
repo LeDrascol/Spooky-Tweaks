@@ -1,12 +1,12 @@
 [
   {
     "op": "replace",
-    "path": "/input/0/item",
-    "value": "money"
+    "path": "/input/0",
+    "value": { "item" : "money", "count" : 5000 }
   },
   {
     "op": "replace",
-    "path": "/input/0/count",
-    "value": 5000
+    "path": "/groups/0",
+    "value": "treasuredtrophies"
   }
 ]

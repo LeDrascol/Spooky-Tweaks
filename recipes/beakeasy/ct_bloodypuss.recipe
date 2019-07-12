@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 250 }
+  ],
+  "output" : {
+    "item" : "automatoshake",
+    "count" : 1
+  },
+  "groups" : [ "beakeasy" ]
+}
