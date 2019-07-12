@@ -33,5 +33,15 @@
     "op": "replace",
     "path": "/converse/default/default/5",
     "value": "You're can stick around for a while, but don't touch anything - I don't want your savage filth."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/avian/4",
+    "value": "I think I got liquid Spookium in my feathers after refueling the ship earlier... He's going to find me..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/2",
+    "value": "I think I got liquid Spookium in my feathers after refueling the ship earlier... He's going to find me..."
   }
 ]

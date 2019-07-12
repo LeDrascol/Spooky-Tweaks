@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/speciesText/default/selectSpeech/text",
+    "value": "This Facility is the central source of Erchius Supermatter, which can upgrade and refuel your ship's FTL Drive."
+  }
+]

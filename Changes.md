@@ -788,19 +788,19 @@
 + Added Wrecked Vending Machine shop item Empty Petal Nectar Bottle
 + Added Wrecked Vending Machine shop item Empty Fancy Water Bottle
 + Removed Penguin Weapon Shop item Chromosword
-+ Added new gas projectile Bounce Gas (st_bouncegas)
-+ Added new gas projectile Rage Gas (st_ragegas)
-+ Added new gas projectile Low Gravity Gas (st_lowgravgas)
-+ Added new gas projectile Levitation Gas (st_levitationgas)
-+ Added new gas projectile Nude Gas (st_nudegas)
-+ Added new gas projectile Temporal Gas (st_temporalgas)
-+ Added new grenade projectile Levitation Status Projectile (st_levitationstatusprojectile)
-+ Added new grenade projectile Nude Status Projectile (st_nudestatusprojectile)
-+ Added new grenade projectile Temporal Gas Projectile(st_temporalgasprojectile)
-+ Fixed issue with Bounce Status Projectile (bouncystatusprojectile)
-+ Fixed effect duration for Glow Gas (glowgas) - 5s to 180s
-+ Fixed effect duration for Run Gas (rungas) - 6s to 180s
-+ Fixed effect duration for Jump Gas (jumpgas) - 6s to 180s
++ Added new gas projectile Bounce Gas (`st_bouncegas`)
++ Added new gas projectile Rage Gas (`st_ragegas`)
++ Added new gas projectile Low Gravity Gas (`st_lowgravgas`)
++ Added new gas projectile Levitation Gas (`st_levitationgas`)
++ Added new gas projectile Nude Gas (`st_nudegas`)
++ Added new gas projectile Temporal Gas (`st_temporalgas`)
++ Added new grenade projectile Levitation Status Projectile (`st_levitationstatusprojectile`)
++ Added new grenade projectile Nude Status Projectile (`st_nudestatusprojectile`)
++ Added new grenade projectile Temporal Gas Projectile(`st_temporalgasprojectile`)
++ Fixed issue with Bounce Status Projectile (`bouncystatusprojectile`)
++ Fixed effect duration for Glow Gas (`glowgas`) - 5s to 180s
++ Fixed effect duration for Run Gas (`rungas`) - 6s to 180s
++ Fixed effect duration for Jump Gas (`jumpgas`) - 6s to 180s
 + Fixed status effect duration on The Night Light
 + Added Status Pod effect Bouncy
 + Added Status Pod effect Glow
@@ -963,9 +963,9 @@
 + Updated outpost dialog for HUMAN-HYLOTL to better reflect humans' ego
 + Buy rates raised from 100% to 250% for Recherche Armaments (Weapon Shop)
 + ~~Updated description for Oil to indicate it's a ship fuel~~
-+ Added lighting type ST_BRIGHTNOVAGLOW - Soft ambient glow aura
-+ Changed NOVAKIDGLOW light type from NOVAKIDGLOW to ST_BRIGHTNOVAGLOW
-+ Changed SHIPGLOW light type from GLOW to ST_BRIGHTNOVAGLOW
++ Added lighting type `ST_BRIGHTNOVAGLOW` - Soft ambient glow aura
++ Changed NOVAKIDGLOW light type from NOVAKIDGLOW to `ST_BRIGHTNOVAGLOW`
++ Changed SHIPGLOW light type from GLOW to `ST_BRIGHTNOVAGLOW`
 + Renamed SHIPGLOW (Glow) to Chemist Glow
 + Changed mission requirement FROM 10 Copper to [Blue Stim Pack, 2 Tech Card] for Let's Get Technical
 + Changed mission requirement FROM 10 Silver to [Green Stim Pack, 4 Tech Card] for Jump-starting Development
@@ -1359,7 +1359,7 @@
 + Removed Frogg Furnishings set: Rusty
 + Removed Frogg Furnishings set: Wrecked
 + Removed Frogg Furnishings set: Unobtainable Paintings
-+ Added new gas projectile Party Gas (st_partygas)
++ Added new gas projectile Party Gas (`st_partygas`)
 + Added Status Pod effect Party Time
 + Fixed MOD recipe issue for Wall Mounted Button
 + Fixed MOD recipe issue for Standard Lever
@@ -1368,24 +1368,28 @@
 + Changed play mode name EXPERT to SURVIVAL
 + Reverted money loss from 10% to 30% for Survival Mode
 + Removed all drop on death categories from Survival Mode
-+ Added status effect Avian Agility (st_avianFallResist)
-+ Added status effect Human Inferiority (st_humanInferiority)
-+ Added status effect Familiar Power (st_familiarRacial)
-+ Added Avian racial effect Avian Agility (st_avianFallResist)
-+ Added Avian racial effect Human Inferiority (st_humanInferiority)
-+ Added Avian racial effect Familiar Power (st_familiarRacial)
++ Added status effect Avian Agility (`st_avianFallResist`)
++ Added status effect Human Inferiority (`st_humanInferiority`)
++ Added status effect Familiar Power (`st_familiarRacial`)
++ Added Avian racial effect Avian Agility (`st_avianFallResist`)
++ Added Avian racial effect Human Inferiority (`st_humanInferiority`)
++ Added Avian racial effect Familiar Power (`st_familiarRacial`)
 + Added Glitch racial effect BREATH PROTECTION
 + Added Glitch racial effect RADIATION PROTECTION
 + Added Hylotl racial effect SWIM BOOST
 + Code cleanup for splash screen patch
 + Restored Chucklefish logo to splash screen
-+ Lore update for codex `Humanity's Redemption`
-+ Lore update for codex `Our Duty to the Stars`
-+ Lore update for codex `A United Earth`
-+ Lore update for codex `The Protectorate Code`
-+ Lore update for codex `Human Census: Report`
-+ Updated description for codex `HUMANITY NEEDS YOU!`
++ Lore update for codex _Humanity's Redemption_
++ Lore update for codex _Our Duty to the Stars_
++ Lore update for codex _A United Earth_
++ Lore update for codex _The Protectorate Code_
++ Lore update for codex _Human Census: Report_
++ Lore update for codex _The Erchius Horror_
 + Updated crew dialogs for HUMAN to reflect ST lore
++ Updated description for codex item _HUMANITY NEEDS YOU!_
++ Updated description for fuel (liquid) to reflect mod changes
++ Updated dialog for tenant type `lunarbase` to add spookiness
++ Updated SAIL radio message for moons to add spookiness
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

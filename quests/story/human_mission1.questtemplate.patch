@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/text",
+    "value": "I can repair that ship, but it's gonna take 20 ^orange;Erchius Supermatter^reset;... You'd better ^green;get yerself over to the Erchius Mining Facility^reset;. I've sent the location coordinates to ^green;yer ship's SAIL^reset;."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/descriptions/findCrystals",
+    "value": "^green;Fetch ^orange;Erchius Supermatter^white; from the ^orange;Erchius Mining Facility^white;"
+  }
+]

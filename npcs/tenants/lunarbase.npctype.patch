@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/human/default/1",
+    "value": "I'm so sick of being around liquid Spookium. It makes me feel like I'm being watched."
+  }
+]
