@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "Many centuries ago the Earth was governed in a seemingly endless tide of shifting hierarchies; empires rose and fell, nations grew to prominence and collapsed, and wary peace was established only to implode. This volatility spanned millennia.\n\nThe Earth we know today was forged when Humankind turned to the stars. At this time resources, once scarce, became abundant, and a shift took place: we recognised both our significance and supremacy within the universe."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "Instead of expanding our settlements across the stars, we began to take from the alien savages, to strive for a sustainable way of life with our newly acquired resources, and to build a solid future for our beloved Earth."
+  }
+]

@@ -1379,6 +1379,13 @@
 + Added Hylotl racial effect SWIM BOOST
 + Code cleanup for splash screen patch
 + Restored Chucklefish logo to splash screen
++ Lore update for codex `Humanity's Redemption`
++ Lore update for codex `Our Duty to the Stars`
++ Lore update for codex `A United Earth`
++ Lore update for codex `The Protectorate Code`
++ Lore update for codex `Human Census: Report`
++ Updated description for codex `HUMANITY NEEDS YOU!`
++ Updated crew dialogs for HUMAN to reflect ST lore
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

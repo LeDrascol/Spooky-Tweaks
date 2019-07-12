@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/human/0",
+    "value": "Hello there, fellow master race! Wait, too soon?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Hey, a visitor? I don't like your kind, but it gets lonely out here."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Do you come in peace, savage?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Do you have your own ship? That's more than what your kind deserves!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "Wow, I, uh, didn't expect to see your kind around here."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "Did you come all the way out into deep space just to serve us? That's more like it!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "You're can stick around for a while, but don't touch anything - I don't want your savage filth."
+  }
+]

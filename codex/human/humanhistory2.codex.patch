@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/contentPages/0",
+    "value": "MANKIND'S TRUE CALLING\n\nIn recent years, mankind's devotion to uniting the true master race of the universe has shone a spotlight on Earth.\n\nAs more and more alien races visit our homeworld, bringing with them tales of their savage histories, it is easy to see how mankind is slowly becoming the \"champions\" of all life. Earth is now a beacon of our supremacy, a bright flame in what was once darkness."
+  },
+  {
+    "op": "replace",
+    "path": "/contentPages/1",
+    "value": "And we call for an organisation - one ruled by the purest of beings - to shield that flame, and to feed its warmth."
+  }
+]
