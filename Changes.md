@@ -1408,6 +1408,11 @@
 + Added Beakeasy shop item Mochaccino
 + Added Beakeasy shop item Reefshake
 + Moved shop item from Beakeasy to Treasured Trophies - Dubloon
++ Renamed Empty Cordial Bottle to Empty Wine Bottle
++ Renamed Empty Root Pop Bottle to Empty Whiskey Bottle
++ Renamed Empty Nectar Bottle to Empty Gin Bottle
++ Renamed Empty Petal Nectar Bottle to Empty Liqueur Bottle
++ Renamed Empty Fancy Water Bottle to Empty Vodka Bottle
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

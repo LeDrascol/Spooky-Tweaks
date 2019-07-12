@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "An empty bottle of Oculemon gin."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Empty Gin Bottle"
+  }
+]
