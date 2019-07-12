@@ -1419,6 +1419,7 @@
 + Added Water Cooler (outpost) shop item Bottled Water
 + Removed stack size limits from Bottled Water
 + Price change from 20 PIXELS to 10 PIXELS for Bottled Water
++ Adjusted status effect `intents` to block hunger
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
