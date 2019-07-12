@@ -1421,3 +1421,19 @@
 + Added Special category set: Rusty
 + Added Special category set: Wrecked
 + Added Special category set: Unobtainable Paintings
+
+### Restored Staves
++ Reduced charge time from 1.2 to 0.6 for Deadbolt Staff
++ Reduced charge time from 1.2 to 0.6 for Monkey Nut Staff
++ Reduced charge time from 1.2 to 0.6 for Quetzalcoatl's Quartz
++ Reduced charge time from 1.2 to 0.6 for Cardinal's Chalcedony
++ Reduced charge time from 1.2 to 0.6 for Petal Storm Staff
++ Reduced charge time from 1.2 to 0.6 for Leaf Flurry Staff
++ Reduced charge time from 1.2 to 0.6 for G4mE_bReÄK3r
++ Reduced charge time from 1.2 to 0.6 for Binary Breaker
++ Reduced charge time from 1.2 to 0.6 for Boom Blast Staff
++ Reduced charge time from 1.2 to 0.6 for Plasma Pulse Staff
++ Reduced charge time from 1.2 to 0.6 for Hylid's Pulse Staff
++ Reduced charge time from 1.2 to 0.6 for Sacred Splash Staff
++ Reduced charge time from 1.2 to 0.6 for Supergiant Orb
++ Reduced charge time from 1.2 to 0.6 for Red Giant Orb

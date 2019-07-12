@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/stances/charge/duration",
+    "value": 1.2
+  },
+  {
+    "op": "replace",
+    "path": "/stances/charge/duration",
+    "value": 0.6
+  }
+]
