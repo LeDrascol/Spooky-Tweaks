@@ -1,27 +1,38 @@
 [
-  {
-    "op": "add",
-    "path": "/tooltipKind",
-    "value": "gun"
-  },
-  {
-    "op": "replace",
-    "path": "/price",
-    "value": 2400
-  },
-  {
-    "op": "replace",
-    "path": "/primaryAbility/fireTime",
-    "value": 0.5
-  },
-  {
-    "op": "replace",
-    "path": "/primaryAbility/baseDps",
-    "value": 10
-  },
-  {
-    "op": "replace",
-    "path": "/primaryAbility/energyUsage",
-    "value": 50
-  }
+  [
+    {
+      "op": "replace",
+      "path": "/price",
+      "value": 2400
+    },
+    {
+      "op": "replace",
+      "path": "/primaryAbility/fireTime",
+      "value": 0.5
+    },
+    {
+      "op": "replace",
+      "path": "/primaryAbility/baseDps",
+      "value": 10
+    },
+    {
+      "op": "replace",
+      "path": "/primaryAbility/energyUsage",
+      "value": 50
+    }
+  ],
+
+  [
+    {
+      "op" : "test",
+      "path" : "/tooltipKind",
+      "value" : "LegendaryGun2H",
+      "inverse" : true
+    },
+    {
+      "op": "add",
+      "path": "/tooltipKind",
+      "value": "gun"
+    }
+  ]
 ]

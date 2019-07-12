@@ -1170,7 +1170,7 @@
 + Increased rarity rank from Legendary to Uncommon for Auto Drive
 + Renamed Fill 'Er Up to Ancient Superfuel
 + Updated description of Ancient Superfuel to feel more lore friendly
-+ Added tamper check to species descriptions to improve mod compatability
++ Added tamper check to species descriptions to improve mod compatibility
 + Renamed Matter Manipulator (X) to Matter Manipulator Prime
 + Updated tooltip for Matter Manipulator Prime with fitting flavor text
 + Updated description for Chucklefish with immense snark
@@ -1437,3 +1437,9 @@
 + Reduced charge time from 1.2 to 0.6 for Sacred Splash Staff
 + Reduced charge time from 1.2 to 0.6 for Supergiant Orb
 + Reduced charge time from 1.2 to 0.6 for Red Giant Orb
+
+### Legendary Tooltips
++ Added compatibility check for Doom Cannon
++ Added compatibility check for Ray Gun
++ Added compatibility check for Plasma Assault Rifle
++ Added compatibility check for Electro Baton

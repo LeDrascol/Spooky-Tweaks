@@ -1,15 +1,15 @@
 ---
-name: Mod Incompatability
+name: Mod Incompatibility
 about: Issue is caused when using other mods
-title: Compatability issue with with MOD NAME HERE
+title: Compatibility issue with MOD NAME HERE
 labels: Incompatible
 assignees: LeDrascol
 
 ---
 
 ### Conflicting mod information
-Mod Name: 
-URL: 
+Mod Name:
+URL:
 
 ### Describe the issue
 _Replace this text with the issue_

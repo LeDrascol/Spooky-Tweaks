@@ -1,12 +1,23 @@
 [
-  {
-    "op": "replace",
-    "path": "/price",
-    "value": 2000
-  },
-  {
-    "op": "replace",
-    "path": "/tooltipKind",
-    "value": "sword"
-  }
+  [
+    {
+      "op": "replace",
+      "path": "/price",
+      "value": 2000
+    }
+  ],
+
+  [
+    {
+      "op" : "test",
+      "path" : "/tooltipKind",
+      "value" : "LegendarySword",
+      "inverse" : true
+    },
+    {
+      "op": "replace",
+      "path": "/tooltipKind",
+      "value": "sword"
+    }
+  ]
 ]

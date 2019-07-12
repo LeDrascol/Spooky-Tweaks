@@ -1,17 +1,28 @@
 [
-  {
-    "op": "replace",
-    "path": "/price",
-    "value": 660
-  },
-  {
-    "op": "replace",
-    "path": "/tooltipKind",
-    "value": "gun"
-  },
-  {
-    "op": "replace",
-    "path": "/rarity",
-    "value": "Rare"
-  }
+  [
+    {
+      "op": "replace",
+      "path": "/price",
+      "value": 660
+    },
+    {
+      "op": "replace",
+      "path": "/rarity",
+      "value": "Rare"
+    }
+  ],
+
+  [
+    {
+      "op" : "test",
+      "path" : "/tooltipKind",
+      "value" : "LegendaryGun",
+      "inverse" : true
+    },
+    {
+      "op": "add",
+      "path": "/tooltipKind",
+      "value": "gun"
+    }
+  ]
 ]

@@ -1,12 +1,23 @@
 [
-  {
-    "op": "replace",
-    "path": "/price",
-    "value": 2060
-  },
-  {
-    "op": "replace",
-    "path": "/tooltipKind",
-    "value": "gun"
-  }
+  [
+    {
+      "op": "replace",
+      "path": "/price",
+      "value": 2060
+    }
+  ],
+
+  [
+    {
+      "op" : "test",
+      "path" : "/tooltipKind",
+      "value" : "LegendaryGun2H",
+      "inverse" : true
+    },
+    {
+      "op": "add",
+      "path": "/tooltipKind",
+      "value": "gun"
+    }
+  ]
 ]

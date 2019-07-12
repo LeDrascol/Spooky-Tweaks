@@ -193,3 +193,6 @@ The mods listed below are patched to use this mod's changes
 The mods listed below add optional new APIs used by this mod
 - [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)
 - [The Tabula Rasa](https://steamcommunity.com/sharedfiles/filedetails/?id=737353165)
+
+The mods listed below include special compatibility checks
+- [Legendary Tooltips](https://steamcommunity.com/sharedfiles/filedetails/?id=740863523)
