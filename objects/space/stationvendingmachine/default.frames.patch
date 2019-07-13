@@ -1,0 +1,7 @@
+[
+  {
+    "op": "replace",
+    "path": "/frameGrid/size/1",
+    "value": 40
+  }
+]

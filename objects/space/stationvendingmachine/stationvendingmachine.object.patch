@@ -61,5 +61,20 @@
   {
     "op": "remove",
     "path": "/npcToy"
+  },
+  {
+    "op": "add",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  },
+  {
+    "op": "add",
+    "path": "/orientations/1/collision",
+    "value": "platform"
+  },
+  {
+    "op": "replace",
+    "path": "/soundEffect",
+    "value": "/sfx/objects/fluorescent_light_quiet.ogg"
   }
 ]

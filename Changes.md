@@ -1455,6 +1455,17 @@
 + Added Kitchen Counter crafting for Roasted Mushrooms
 + Increased tree drop count from 0 to 2 for Raw Tentacle
 + Added learn on pickup for Cooked Tentacle to Raw Tentacle
++ Price change from 175 PIXELS to 900 PIXELS for Station Medical Scanner
++ Added status effect Ship Regeneration 4 to Station Medical Scanner
++ Updated item description for Station Medical Scanner to better reflect its effects
++ Changed collision type from NONE to PLATFORM for Small Barrel
++ Changed collision type from NONE to PLATFORM for Large Barrel
++ Changed collision type from NONE to PLATFORM for Radioactive Barrel (2)
++ Changed collision type from NONE to PLATFORM for Scrap Vending Machine
++ Changed collision type from SOLID to PLATFORM for Peacekeeper Teleporter
++ Removed object orientation patch from Peacekeeper Vending Machine
++ Reduced ambient sound volume for Scrap Vending Machine
++ Increased sprite height from 36px to 40px for Scrap Vending Machine
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
