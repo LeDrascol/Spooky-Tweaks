@@ -3,5 +3,10 @@
     "op": "replace",
     "path": "/description",
     "value": "A level one drill. Ever wanted your pickaxe to be louder?"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilityPerUse",
+    "value": 0
   }
 ]

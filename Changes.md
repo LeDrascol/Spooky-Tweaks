@@ -1425,6 +1425,18 @@
 + Compatibility improvements to distortion sphere techs
 + Compatibility improvements to jump techs
 + Renamed tech script files to match the 'st_' format
++ Removed durability from Copper Pickaxe
++ Removed durability from Copper Drill
++ Removed durability from Diamond Pickaxe
++ Removed durability from Diamond Drill
++ Removed durability from Gold Pickaxe
++ Removed durability from Gold Drill
++ Removed durability from Platinum Pickaxe
++ Removed durability from Platinum Drill
++ Removed durability from Silver Pickaxe
++ Removed durability from Silver Drill
++ Removed durability from Fishaxe
++ Removed entries from diggingTool to prevent pickaxe loot
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

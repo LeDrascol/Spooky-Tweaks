@@ -44,5 +44,13 @@
           { "pool": "valuableTreasure" } ] }
       ]
     ]
+  },
+  {
+    "op": "replace",
+    "path": "/diggingTool",
+    "value": [
+      [ 0, { "pool" : [ {"weight" : 0.7, "item" : "copperpickaxe"} ] } ]
+    ]
   }
+
 ]

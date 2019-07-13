@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/rarity",
     "value": "Uncommon"
+  },
+  {
+    "op": "replace",
+    "path": "/durabilityPerUse",
+    "value": 0
   }
 ]

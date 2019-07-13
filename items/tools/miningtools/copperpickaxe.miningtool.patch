@@ -3,5 +3,10 @@
     "op": "replace",
     "path": "/description",
     "value": "A level one pickaxe. Substantially less cool than your matter manipulator."
+  },
+  {
+    "op": "replace",
+    "path": "/durabilityPerUse",
+    "value": 0
   }
 ]

@@ -3,5 +3,10 @@
     "op": "replace",
     "path": "/description",
     "value": "A level five pickaxe. The best of all pickaxes, for obvious reasons."
+  },
+  {
+    "op": "replace",
+    "path": "/durabilityPerUse",
+    "value": 0
   }
 ]

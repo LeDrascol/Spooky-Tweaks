@@ -5,15 +5,15 @@
     "value": "fish.png"
   },
   {
-    "op": "replace",
-    "path": "/durability",
-    "value": 1000
-  },
-  {
     "op": "add",
     "path": "/radioMessagesOnPickup",
     "value": [
       "pickupfishaxe"
     ]
+  },
+  {
+    "op": "replace",
+    "path": "/durabilityPerUse",
+    "value": 0
   }
 ]

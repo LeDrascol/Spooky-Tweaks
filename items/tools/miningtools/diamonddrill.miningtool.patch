@@ -3,5 +3,10 @@
     "op": "replace",
     "path": "/description",
     "value": "A level five drill. The best kind of drill you're ever going to get."
+  },
+  {
+    "op": "replace",
+    "path": "/durabilityPerUse",
+    "value": 0
   }
 ]
