@@ -1180,7 +1180,7 @@
 + Allowed 3D printing for Cameron York Statue
 + Allowed 3D printing for Imagination Memorial
 + Allowed 3D printing for XOliver137 Statue
-+ Added default blueprint Cooked Tentacle
++ ~~Added default blueprint Cooked Tentacle~~
 + Added Wooden Workbench crafting for Cloud
 + Added Wooden Workbench crafting for Coconut Block
 + Added Wooden Workbench crafting for Crooked Bone Railing
@@ -1453,6 +1453,8 @@
 + Added Kitchen Counter crafting for Cooked Ham
 + Added Kitchen Counter crafting for Cooked Poultry
 + Added Kitchen Counter crafting for Roasted Mushrooms
++ Increased tree drop count from 0 to 2 for Raw Tentacle
++ Added learn on pickup for Cooked Tentacle to Raw Tentacle
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

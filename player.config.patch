@@ -357,11 +357,6 @@
 {
   "op": "add",
   "path": "/defaultBlueprints/tier1/0",
-  "value": { "item" : "cookedtentacle" }
-},
-{
-  "op": "add",
-  "path": "/defaultBlueprints/tier1/0",
   "value": { "item" : "shopline" }
 },
 {
