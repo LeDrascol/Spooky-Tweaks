@@ -1466,6 +1466,7 @@
 + Removed object orientation patch from Peacekeeper Vending Machine
 + Reduced ambient sound volume for Scrap Vending Machine
 + Increased sprite height from 36px to 40px for Scrap Vending Machine
++ PNG optimizations for all mod sprites
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
