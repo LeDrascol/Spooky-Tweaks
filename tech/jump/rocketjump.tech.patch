@@ -1,22 +1,32 @@
 [
-  {
-    "op": "replace",
-    "path": "/chargeTime",
-    "value": 0.05
-  },
-  {
-    "op": "replace",
-    "path": "/boostSpeed",
-    "value": 50
-  },
-  {
-    "op": "replace",
-    "path": "/scripts/0",
-    "value": "rocketjump_freedom.lua"
-  },
-  {
-    "op": "add",
-    "path": "/rocketCooldown",
-    "value": 1.2
-  }
+  [
+    {
+      "op" : "test",
+      "path" : "/scripts/0",
+      "value" : "rocketjump.lua"
+    },
+    {
+      "op": "replace",
+      "path": "/scripts/0",
+      "value": "st_rocketjump_freedom.lua"
+    }
+  ],
+
+  [
+    {
+      "op": "replace",
+      "path": "/chargeTime",
+      "value": 0.05
+    },
+    {
+      "op": "replace",
+      "path": "/boostSpeed",
+      "value": 50
+    },
+    {
+      "op": "add",
+      "path": "/rocketCooldown",
+      "value": 1.2
+    }
+  ]
 ]

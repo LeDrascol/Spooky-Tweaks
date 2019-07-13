@@ -1,47 +1,62 @@
 [
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/normalGroundFriction",
-    "value": 8
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/ambulatingGroundFriction",
-    "value": 0
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/airJumpProfile/jumpSpeed",
-    "value": 25
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidJumpProfile/jumpSpeed",
-    "value": 25
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidJumpProfile/jumpControlForce",
-    "value": 800
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidJumpProfile/multiJump",
-    "value": true
-  },
-  {
-    "op": "replace",
-    "path": "/energyCost",
-    "value": 15
-  },
-  {
-    "op": "replace",
-    "path": "/ballSpeed",
-    "value": 16
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Turn into a sphere that isn't as good as the others! ^green;[F]"
-  }
+  [
+    {
+      "op" : "test",
+      "path" : "/scripts/0",
+      "value" : "distortionsphere.lua"
+    },
+    {
+      "op": "replace",
+      "path": "/scripts/0",
+      "value": "st_distortionsphere_freedom.lua"
+    }
+  ],
+
+  [
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/normalGroundFriction",
+      "value": 8
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/ambulatingGroundFriction",
+      "value": 0
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/airJumpProfile/jumpSpeed",
+      "value": 25
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidJumpProfile/jumpSpeed",
+      "value": 25
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidJumpProfile/jumpControlForce",
+      "value": 800
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidJumpProfile/multiJump",
+      "value": true
+    },
+    {
+      "op": "replace",
+      "path": "/energyCost",
+      "value": 15
+    },
+    {
+      "op": "replace",
+      "path": "/ballSpeed",
+      "value": 16
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "Turn into a sphere that isn't as good as the others! ^green;[F]"
+    }
+  ]
 ]

@@ -1420,6 +1420,11 @@
 + Removed stack size limits from Bottled Water
 + Price change from 20 PIXELS to 10 PIXELS for Bottled Water
 + Adjusted status effect `intents` to block hunger
++ Removed unnecessary patches for Dash tech
++ Compatibility improvements to dash techs
++ Compatibility improvements to distortion sphere techs
++ Compatibility improvements to jump techs
++ Renamed tech script files to match the 'st_' format
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

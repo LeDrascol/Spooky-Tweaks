@@ -2,8 +2,6 @@
   {
     "op": "add",
     "path": "/sounds/dashCooldown",
-    "value": [
-      "/sfx/tech/tech_dash_cooldown1.ogg"
-    ]
+    "value": [ "/sfx/tech/tech_dash_cooldown1.ogg" ]
   }
 ]

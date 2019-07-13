@@ -53,7 +53,6 @@ This project is open source. You may create a modular fork if you only want a ce
 - Lava immunity status effect is now obtainable as Magma Mitigation
 - Electric aura status effect is now obtainable as Energy Aura
 - All instruments are now slightly cheaper and psychic (playing multiple at once will overload your brain)
-- All instruments have been made
 - New racial descriptions as part of Spooky Tweaks' gradual usurping of the lore
 - Teleporters are now platforms that can be walked past
 
@@ -85,7 +84,7 @@ This project is open source. You may create a modular fork if you only want a ce
 - Prize tickets are given out as rewards from loot bags
 - Station vending machines reworked to sell mech salvage
 - Buy your own personal Rob Repairo
-- Mech blueprints can be traded for at Beakeasy
+- ~Mech blueprints can be traded for at Beakeasy~
 - Mech Assembly Station can be purchased from the tech dispenser
 - Terramart Shipments buys items for their full value (Even with Enhanced Storage)
 - Terramart Shipments accept all mining materials

@@ -1,22 +1,32 @@
 [
-  {
-    "op": "replace",
-    "path": "/scripts/0",
-    "value": "sprint_freedom.lua"
-  },
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Replaces the dash with a sprint which costs 15 Energy/s!"
-  },
-  {
-    "op": "replace",
-    "path": "/dashSpeedModifier",
-    "value": 2
-  },
-  {
-    "op": "replace",
-    "path": "/groundOnly",
-    "value": false
-  }
+  [
+    {
+      "op" : "test",
+      "path" : "/scripts/0",
+      "value" : "sprint.lua"
+    },
+    {
+      "op": "replace",
+      "path": "/scripts/0",
+      "value": "st_sprint_freedom.lua"
+    }
+  ],
+
+  [
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "Replaces the dash with a sprint which costs 15 Energy/s!"
+    },
+    {
+      "op": "replace",
+      "path": "/dashSpeedModifier",
+      "value": 2
+    },
+    {
+      "op": "replace",
+      "path": "/groundOnly",
+      "value": false
+    }
+  ]
 ]

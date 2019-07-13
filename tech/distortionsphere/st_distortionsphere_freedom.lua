@@ -44,7 +44,7 @@ function update(args)
   if self.active then
     mcontroller.controlParameters(self.transformedMovementParameters)
 	-- remove energy regeneration block
-    status.setResourcePercentage("energyRegenBlock", 0.0)
+    -- status.setResourcePercentage("energyRegenBlock", 0.0)
 	-- status effect to disable fall damage when in morph
     status.setPersistentEffects("morphImmuneTo", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0}, {stat = "poisonStatusImmunity", amount = 1.0} })
 

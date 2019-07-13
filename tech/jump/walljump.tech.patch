@@ -1,12 +1,22 @@
 [
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Allows you to jump from vertical walls and in the air!"
-  },
-  {
-    "op": "replace",
-    "path": "/scripts/0",
-    "value": "walljump_freedom.lua"
-  }
+  [
+    {
+      "op" : "test",
+      "path" : "/scripts/0",
+      "value" : "walljump.lua"
+    },
+    {
+      "op": "replace",
+      "path": "/scripts/0",
+      "value": "st_walljump_freedom.lua"
+    }
+  ],
+
+  [
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "Allows you to jump from vertical walls and in the air!"
+    }
+  ]
 ]

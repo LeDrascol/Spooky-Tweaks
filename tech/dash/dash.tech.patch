@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/scripts/0",
-    "value": "dash_freedom.lua"
-  }
-]

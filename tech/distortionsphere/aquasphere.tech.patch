@@ -1,129 +1,115 @@
 [
-  {
-    "op": "add",
-    "path": "/customMovementParameters",
-    "value": {
-      "collisionPoly": [
-        [
-          -0.85,
-          -0.45
-        ],
-        [
-          -0.45,
-          -0.85
-        ],
-        [
-          0.45,
-          -0.85
-        ],
-        [
-          0.85,
-          -0.45
-        ],
-        [
-          0.85,
-          0.45
-        ],
-        [
-          0.45,
-          0.85
-        ],
-        [
-          -0.45,
-          0.85
-        ],
-        [
-          -0.85,
-          0.45
-        ]
-      ],
-      "gravityMultiplier": 0.25,
-      "liquidForce": 350,
-      "liquidFriction": 2.5,
-      "minimumLiquidPercentage": 0.1,
-      "liquidImpedance": 0.2,
-      "liquidBuoyancy": 0,
-      "groundForce": 450,
-      "normalGroundFriction": 1.5,
-      "ambulatingGroundFriction": 0.2,
-      "slopeSlidingFactor": 3,
-      "airJumpProfile": {
-        "jumpSpeed": 16,
-        "jumpControlForce": 800,
-        "jumpInitialPercentage": 1,
-        "jumpHoldTime": 0.1
-      },
-      "liquidJumpProfile": {
-        "jumpSpeed": 0,
-        "jumpControlForce": 0,
-        "multiJump": false,
-        "autoJump": false
-      }
+  [
+    {
+      "op" : "test",
+      "path" : "/scripts/0",
+      "value" : "aquasphere.lua"
+    },
+    {
+      "op": "replace",
+      "path": "/scripts/0",
+      "value": "st_aquasphere_freedom.lua"
     }
-  },
-  {
-    "op": "replace",
-    "path": "/scripts/0",
-    "value": "aquasphere_freedom.lua"
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidBuoyancy",
-    "value": 0
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/normalGroundFriction",
-    "value": 8
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/ambulatingGroundFriction",
-    "value": 0
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/airJumpProfile/jumpSpeed",
-    "value": 25
-  },
-  {
-    "op": "add",
-    "path": "/transformedMovementParameters/liquidJumpProfile/jumpInitialPercentage",
-    "value": 25
-  },
-  {
-    "op": "add",
-    "path": "/transformedMovementParameters/liquidJumpProfile/jumpHoldTime",
-    "value": 0.1
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidJumpProfile/jumpSpeed",
-    "value": 25
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidJumpProfile/jumpControlForce",
-    "value": 800
-  },
-  {
-    "op": "replace",
-    "path": "/transformedMovementParameters/liquidJumpProfile/multiJump",
-    "value": true
-  },
-  {
-    "op": "replace",
-    "path": "/ballSpeed",
-    "value": 16
-  },
-  {
-    "op": "replace",
-    "path": "/ballLiquidSpeed",
-    "value": 35
-  },
-  {
-    "op": "replace",
-    "path": "/energyCost",
-    "value": 30
-  }
+  ],
+  
+  [
+    {
+      "op": "add",
+      "path": "/customMovementParameters",
+      "value": {
+        "collisionPoly": [
+          [ -0.85, -0.45 ],
+          [ -0.45, -0.85 ],
+          [ 0.45, -0.85 ],
+          [ 0.85, -0.45 ],
+          [ 0.85, 0.45 ],
+          [ 0.45, 0.85 ],
+          [ -0.45, 0.85 ],
+          [ -0.85, 0.45 ]
+        ],
+        "gravityMultiplier": 0.25,
+        "liquidForce": 350,
+        "liquidFriction": 2.5,
+        "minimumLiquidPercentage": 0.1,
+        "liquidImpedance": 0.2,
+        "liquidBuoyancy": 0,
+        "groundForce": 450,
+        "normalGroundFriction": 1.5,
+        "ambulatingGroundFriction": 0.2,
+        "slopeSlidingFactor": 3,
+        "airJumpProfile": {
+          "jumpSpeed": 16,
+          "jumpControlForce": 800,
+          "jumpInitialPercentage": 1,
+          "jumpHoldTime": 0.1
+        },
+        "liquidJumpProfile": {
+          "jumpSpeed": 0,
+          "jumpControlForce": 0,
+          "multiJump": false,
+          "autoJump": false
+        }
+      }
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidBuoyancy",
+      "value": 0
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/normalGroundFriction",
+      "value": 8
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/ambulatingGroundFriction",
+      "value": 0
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/airJumpProfile/jumpSpeed",
+      "value": 25
+    },
+    {
+      "op": "add",
+      "path": "/transformedMovementParameters/liquidJumpProfile/jumpInitialPercentage",
+      "value": 25
+    },
+    {
+      "op": "add",
+      "path": "/transformedMovementParameters/liquidJumpProfile/jumpHoldTime",
+      "value": 0.1
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidJumpProfile/jumpSpeed",
+      "value": 25
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidJumpProfile/jumpControlForce",
+      "value": 800
+    },
+    {
+      "op": "replace",
+      "path": "/transformedMovementParameters/liquidJumpProfile/multiJump",
+      "value": true
+    },
+    {
+      "op": "replace",
+      "path": "/ballSpeed",
+      "value": 16
+    },
+    {
+      "op": "replace",
+      "path": "/ballLiquidSpeed",
+      "value": 35
+    },
+    {
+      "op": "replace",
+      "path": "/energyCost",
+      "value": 30
+    }
+  ]
 ]
