@@ -1467,6 +1467,16 @@
 + Reduced ambient sound volume for Scrap Vending Machine
 + Increased sprite height from 36px to 40px for Scrap Vending Machine
 + PNG optimizations for all mod sprites
++ Reduced energy cost from 24 to 16 for Adaptable Crossbow
++ Reduced energy cost from 24 to 16 for Adaptable Crossbow woodenbolt
++ Reduced energy cost from 48 to 40 for Adaptable Crossbow explosivebolt
++ Reduced energy cost from 36 to 28 for Adaptable Crossbow icebolt
++ Reduced energy cost from 36 to 28 for Adaptable Crossbow electricbolt
++ Reduced energy cost from 36 to 28 for Adaptable Crossbow poisonbolt
++ Reduced energy cost from 48 to 40 for Adaptable Crossbow hgravitybolt
++ Reduced energy cost from 48 to 40 for Adaptable Crossbow ngravitybolt
++ Reduced fire time from 1.0 to 0.8 for Adaptable Crossbow
++ Price change from 1500 PIXELS to 7500 PIXELS for Adaptable Crossbow
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

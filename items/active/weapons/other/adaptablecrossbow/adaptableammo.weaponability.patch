@@ -1,0 +1,37 @@
+[
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/0/energyUsage",
+    "value": 16
+  },
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/1/energyUsage",
+    "value": 40
+  },
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/2/energyUsage",
+    "value": 28
+  },
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/3/energyUsage",
+    "value": 28
+  },
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/4/energyUsage",
+    "value": 28
+  },
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/5/energyUsage",
+    "value": 40
+  },
+  {
+    "op": "replace",
+    "path": "/ability/ammoTypes/6/energyUsage",
+    "value": 40
+  }
+]
