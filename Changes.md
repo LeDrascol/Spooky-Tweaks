@@ -1437,6 +1437,22 @@
 + Removed durability from Silver Drill
 + Removed durability from Fishaxe
 + Removed entries from diggingTool to prevent pickaxe loot
++ Added Kitchen Counter crafting for Eggy Toast
++ Added Kitchen Counter crafting for Baked Potato
++ Added Kitchen Counter crafting for Potato Grids
++ Added Kitchen Counter crafting for Cooked Steak
++ Added Kitchen Counter crafting for Cooked Fish
++ Added Kitchen Counter crafting for Cooked Ribs
++ Added Kitchen Counter crafting for Cooked Tentacle
++ Added Kitchen Counter crafting for Boiled Rice
++ Added Kitchen Counter crafting for Cooked Tomato
++ Added Kitchen Counter crafting for Popcorn
++ Added Kitchen Counter crafting for Roasted Carrot
++ Added Kitchen Counter crafting for Cooked Bacon
++ Added Kitchen Counter crafting for Boiled Pearlpeas
++ Added Kitchen Counter crafting for Cooked Ham
++ Added Kitchen Counter crafting for Cooked Poultry
++ Added Kitchen Counter crafting for Roasted Mushrooms
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
