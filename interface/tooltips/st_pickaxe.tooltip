@@ -1,4 +1,19 @@
 {
+  "st_speedIcon" : {
+    "type" : "image",
+    "position" : [10, 76],
+    "file" : "/interface/st_pickspeed.png",
+    "maxSize" : [10, 10],
+    "minSize" : [10, 10]
+  },
+  "st_speedLabel" : {
+    "type" : "label",
+    "position" : [22, 84],
+    "hAnchor" : "left",
+    "vAnchor" : "top",
+    "value" : "0"
+  },
+
   "background" : {
     "type" : "background",
     "fileHeader" : "/interface/tooltips/header.png",
@@ -35,22 +50,7 @@
     "position" : [70, 100],
     "centered" : true,
     "file" : "/interface/money.png",
-    "maxSize" : [100, 52],
-    "minSize" : [100, 52]
-  },
-
-  "st_speedIcon" : {
-    "type" : "image",
-    "position" : [5, 71],
-    "file" : "/interface/crafting/tabicon_crafting.png",
-    "maxSize" : [10, 10],
-    "minSize" : [10, 10]
-  },
-  "st_speedLabel" : {
-    "type" : "label",
-    "position" : [15, 79],
-    "hAnchor" : "left",
-    "vAnchor" : "top",
-    "value" : "0"
+    "maxSize" : [52, 52],
+    "minSize" : [52, 52]
   }
 }

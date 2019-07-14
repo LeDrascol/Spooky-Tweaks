@@ -1493,6 +1493,9 @@
 + Added Agricultural Station crafting for Gold Drill
 + Added Agricultural Station crafting for Platinum Drill
 + Added Agricultural Station crafting for Diamond Drill
++ Add new itemdescription type `st_pickaxe`
++ Added custom interface icon for `st_pickaxe`
++ Changed icon size restriction from 100x52 to 52x52 for `st_pickaxe`
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
