@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/objectName",
+    "value": "avalichamber1"
+  },
+  {
+    "op": "replace",
+    "path": "/sitStatusEffects/0",
+    "value": "bed3"
+  }
+]

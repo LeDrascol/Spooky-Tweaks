@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "avalitier2barrier"
+  },
+  {
+    "op": "replace",
+    "path": "/level",
+    "value": 2
+  }
+]

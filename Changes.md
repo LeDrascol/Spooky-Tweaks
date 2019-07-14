@@ -1518,3 +1518,21 @@
 + Added compatibility check for Ray Gun
 + Added compatibility check for Plasma Assault Rifle
 + Added compatibility check for Electro Baton
+
+### Avali
++ Moved crafting from Basic Crafting to Engineer's Table for Avali Nanolathe
++ Moved crafting from Basic Crafting to Engineer's Table for Avali Nanoloom
++ Moved crafting from Basic Crafting to Architect's Table for Weapon Workbench
++ Increased crafting cost for Avali Nanolathe
++ Increased crafting cost for Avali Nanoloom
++ Increased crafting cost for Weapon Workbench
++ Changed crafting for Avali Grappling Hook to match changes to vanilla Grappling Hook
++ Removed durability from Avali Pickaxe
++ Improved description for Avali Pickaxe
++ Changed tooltip type from TOOL to ST_PICKAXE for Avali Pickaxe
++ Increased rank of Rest from 1 to 3 for Sleep Chamber
++ Increased item level from 1 to 2 for Scout's Shield
++ Increased item level from 1 to 3 for Soldier's Field Emitter
++ Increased item level from 1 to 4 for Assault Field Emitter
++ Fixed category for Soldier's Field Emitter
++ Fixed category for Avali Pickaxe

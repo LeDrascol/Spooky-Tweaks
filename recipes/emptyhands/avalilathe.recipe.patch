@@ -1,0 +1,20 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "avalilathe"
+  },
+  {
+    "op": "replace",
+    "path": "/input",
+    "value": [
+      { "item" : "titaniumbar", "count" : 15 },
+      { "item" : "craftinganvil", "count" : 10}
+    ]
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "inventorstable2", "craftingstations", "all" ]
+  }
+]

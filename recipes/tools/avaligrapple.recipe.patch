@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "avaligrapple"
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 10
+  },
+  {
+    "op": "replace",
+    "path": "/input/4/count",
+    "value": 2
+  }
+]
