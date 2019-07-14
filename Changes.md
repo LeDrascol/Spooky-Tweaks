@@ -1375,7 +1375,7 @@
 + Added Avian racial effect Human Inferiority (`st_humanInferiority`)
 + Added Avian racial effect Familiar Power (`st_familiarRacial`)
 + Added Glitch racial effect BREATH PROTECTION
-+ Added Glitch racial effect RADIATION PROTECTION
++ Added Glitch racial effect RADIATION PROTECTION at 75%
 + Added Hylotl racial effect SWIM BOOST
 + Code cleanup for splash screen patch
 + Restored Chucklefish logo to splash screen
@@ -1435,8 +1435,7 @@
 + Removed durability from Platinum Drill
 + Removed durability from Silver Pickaxe
 + Removed durability from Silver Drill
-+ Removed durability from Fishaxe
-+ Removed entries from diggingTool to prevent pickaxe loot
++ Removed loot table entries from diggingTool (except Copper Pickaxe)
 + Added Kitchen Counter crafting for Eggy Toast
 + Added Kitchen Counter crafting for Baked Potato
 + Added Kitchen Counter crafting for Potato Grids
@@ -1466,7 +1465,7 @@
 + Removed object orientation patch from Peacekeeper Vending Machine
 + Reduced ambient sound volume for Scrap Vending Machine
 + Increased sprite height from 36px to 40px for Scrap Vending Machine
-+ PNG optimizations for all mod sprites
++ Optimized sprites for all PNG files
 + Reduced energy cost from 24 to 16 for Adaptable Crossbow
 + Reduced energy cost from 24 to 16 for Adaptable Crossbow woodenbolt
 + Reduced energy cost from 48 to 40 for Adaptable Crossbow explosivebolt
@@ -1497,6 +1496,21 @@
 + Add new itemdescription type `st_pickaxe`
 + Added custom interface icon for `st_pickaxe`
 + Changed icon size restriction from 100x52 to 52x52 for `st_pickaxe`
++ Added learn on pickup for Copper Drill to Copper Pickaxe
++ Added learn on pickup for Silver Drill to Silver Pickaxe
++ Added learn on pickup for Gold Drill to Gold Pickaxe
++ Added learn on pickup for Platinum Drill to Platinum Pickaxe
++ Added learn on pickup for Diamond Drill to Diamond Pickaxe
++ Added Arcade Prize Counter shop item Air Hockey Table
++ Added Arcade Prize Counter shop item Football
++ Added Arcade Prize Counter shop item Plutonium Sample
++ Fixed broken crafting for Bottled Healing Water
++ Changed crafting for Nanostove to use pixels
++ Added Industrial Workbench crafting for Microwave
++ Price change from 15000 PIXELS to 1500 PIXELS for Penguin Costume
++ Price change from 15000 PIXELS to 1500 PIXELS for Plutonium Sample
++ Reduced rarity rank from Legendary to Uncommon for Penguin Costume
++ Reduced rarity rank from Legendary to Uncommon for Plutonium Sample
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
@@ -1521,17 +1535,6 @@
 + Reduced charge time from 1.2 to 0.6 for Sacred Splash Staff
 + Reduced charge time from 1.2 to 0.6 for Supergiant Orb
 + Reduced charge time from 1.2 to 0.6 for Red Giant Orb
-+ Added learn on pickup for Copper Drill to Copper Pickaxe
-+ Added learn on pickup for Silver Drill to Silver Pickaxe
-+ Added learn on pickup for Gold Drill to Gold Pickaxe
-+ Added learn on pickup for Platinum Drill to Platinum Pickaxe
-+ Added learn on pickup for Diamond Drill to Diamond Pickaxe
-+ Added Arcade Prize Counter shop item Air Hockey Table
-+ Added Arcade Prize Counter shop item Football
-+ Added Arcade Prize Counter shop item Plutonium Sample
-+ Fixed broken crafting for Bottled Healing Water
-+ Changed crafting for Nanostove to use pixels
-+ Added Industrial Workbench crafting for Microwave
 
 ### Legendary Tooltips
 + Added compatibility check for Doom Cannon
