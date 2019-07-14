@@ -2,11 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A level two drill. Still just as loud as the copper one."
+    "value": "Still just as loud as the copper one."
   },
   {
     "op": "replace",
     "path": "/durabilityPerUse",
     "value": 0
-  }
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "st_pickaxe"
+  },
+	{
+		"op": "add",
+		"path": "/builder",
+		"value": "/items/buildscripts/st_buildpickaxe.lua"
+	}
 ]

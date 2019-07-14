@@ -7,13 +7,16 @@
   {
     "op": "add",
     "path": "/radioMessagesOnPickup",
-    "value": [
-      "pickupfishaxe"
-    ]
+    "value": [ "pickupfishaxe" ]
   },
   {
     "op": "replace",
-    "path": "/durabilityPerUse",
-    "value": 0
-  }
+    "path": "/tooltipKind",
+    "value": "st_pickaxe"
+  },
+	{
+		"op": "add",
+		"path": "/builder",
+		"value": "/items/buildscripts/st_buildpickaxe.lua"
+	}
 ]

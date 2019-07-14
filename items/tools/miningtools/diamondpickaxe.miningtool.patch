@@ -2,11 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A level five pickaxe. The best of all pickaxes, for obvious reasons."
+    "value": "The best of all pickaxes, for obvious reasons."
   },
   {
     "op": "replace",
     "path": "/durabilityPerUse",
     "value": 0
-  }
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "st_pickaxe"
+  },
+	{
+		"op": "add",
+		"path": "/builder",
+		"value": "/items/buildscripts/st_buildpickaxe.lua"
+	}
 ]

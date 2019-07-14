@@ -2,11 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A level five drill. The best kind of drill you're ever going to get."
+    "value": "The best kind of drill you're ever going to get. (Not actually the best)"
   },
   {
     "op": "replace",
     "path": "/durabilityPerUse",
     "value": 0
-  }
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "st_pickaxe"
+  },
+	{
+		"op": "add",
+		"path": "/builder",
+		"value": "/items/buildscripts/st_buildpickaxe.lua"
+	}
 ]

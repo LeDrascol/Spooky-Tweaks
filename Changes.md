@@ -1477,6 +1477,17 @@
 + Reduced energy cost from 48 to 40 for Adaptable Crossbow ngravitybolt
 + Reduced fire time from 1.0 to 0.8 for Adaptable Crossbow
 + Price change from 1500 PIXELS to 7500 PIXELS for Adaptable Crossbow
++ Add new tooltip type `st_pickaxe`
++ Changed tooltip type from TOOL to ST_PICKAXE for Copper Pickaxe
++ Changed tooltip type from TOOL to ST_PICKAXE for Silver Pickaxe
++ Changed tooltip type from TOOL to ST_PICKAXE for Gold Pickaxe
++ Changed tooltip type from TOOL to ST_PICKAXE for Platinum Pickaxe
++ Changed tooltip type from TOOL to ST_PICKAXE for Diamond Pickaxe
++ Changed tooltip type from TOOL to ST_PICKAXE for Copper Drill
++ Changed tooltip type from TOOL to ST_PICKAXE for Silver Drill
++ Changed tooltip type from TOOL to ST_PICKAXE for Gold Drill
++ Changed tooltip type from TOOL to ST_PICKAXE for Platinum Drill
++ Changed tooltip type from TOOL to ST_PICKAXE for Diamond Drill
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

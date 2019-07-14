@@ -2,7 +2,7 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A level three pickaxe. Despite being a terrible tool material, it's better."
+    "value": "Despite being a terrible tool material, it mines well."
   },
   {
     "op": "replace",
@@ -13,5 +13,15 @@
     "op": "replace",
     "path": "/durabilityPerUse",
     "value": 0
-  }
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "st_pickaxe"
+  },
+	{
+		"op": "add",
+		"path": "/builder",
+		"value": "/items/buildscripts/st_buildpickaxe.lua"
+	}
 ]

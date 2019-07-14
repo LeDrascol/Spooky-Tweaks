@@ -2,11 +2,21 @@
   {
     "op": "replace",
     "path": "/description",
-    "value": "A level one drill. Ever wanted your pickaxe to be louder?"
+    "value": "Ever wanted your pickaxe to be louder?"
   },
   {
     "op": "replace",
     "path": "/durabilityPerUse",
     "value": 0
-  }
+  },
+  {
+    "op": "replace",
+    "path": "/tooltipKind",
+    "value": "st_pickaxe"
+  },
+	{
+		"op": "add",
+		"path": "/builder",
+		"value": "/items/buildscripts/st_buildpickaxe.lua"
+	}
 ]
