@@ -1,0 +1,8 @@
+{
+  "input" : [
+    { "item" : "sand2", "count" : 5 },
+    { "item" : "coalore", "count" : 1 }
+  ],
+  "output" : { "item" : "stickofram", "count" : 1 },
+  "groups" : [ "craftingfurnace3", "ingredients", "all" ]
+}

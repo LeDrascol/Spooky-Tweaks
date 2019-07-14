@@ -1477,6 +1477,7 @@
 + Reduced energy cost from 48 to 40 for Adaptable Crossbow ngravitybolt
 + Reduced fire time from 1.0 to 0.8 for Adaptable Crossbow
 + Price change from 1500 PIXELS to 7500 PIXELS for Adaptable Crossbow
++ Add Atomic Furnace crafting for Stick of Ram
 + Add new tooltip type `st_pickaxe`
 + Changed tooltip type from TOOL to ST_PICKAXE for Copper Pickaxe
 + Changed tooltip type from TOOL to ST_PICKAXE for Silver Pickaxe
@@ -1525,6 +1526,12 @@
 + Added learn on pickup for Gold Drill to Gold Pickaxe
 + Added learn on pickup for Platinum Drill to Platinum Pickaxe
 + Added learn on pickup for Diamond Drill to Diamond Pickaxe
++ Added Arcade Prize Counter shop item Air Hockey Table
++ Added Arcade Prize Counter shop item Football
++ Added Arcade Prize Counter shop item Plutonium Sample
++ Fixed broken crafting for Bottled Healing Water
++ Changed crafting for Nanostove to use pixels
++ Added Industrial Workbench crafting for Microwave
 
 ### Legendary Tooltips
 + Added compatibility check for Doom Cannon

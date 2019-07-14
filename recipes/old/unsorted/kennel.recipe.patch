@@ -2,10 +2,6 @@
   {
     "op": "replace",
     "path": "/groups",
-    "value": [
-      "craftingfurniture",
-      "decoration",
-      "all"
-    ]
+    "value": [ "craftingfurniture", "decoration", "all" ]
   }
 ]

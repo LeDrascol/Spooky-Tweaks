@@ -1,0 +1,9 @@
+{
+  "input" : [
+    { "item" : "ironbar", "count" : 10 },
+    { "item" : "battery", "count" : 1 },
+    { "item" : "wire", "count" : 6 }
+  ],
+  "output" : { "item" : "microwave", "count" : 1 },
+  "groups" : [ "craftingfurniture2", "decoration", "all" ]
+}

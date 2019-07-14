@@ -1,11 +1,7 @@
 {
-  "input" : [   
-    { "item" : "campfire", "count" : 1 },
-	{ "item" : "titaniumbar", "count" : 1 }
+  "input" : [
+    { "item" : "money", "count" : 90 }
   ],
-  "output" : {
-    "item" : "nanostove",
-    "count" : 1
-  },
-  "groups" : [ "plain", "survival", "objects" ]
+  "output" : { "item" : "nanostove", "count" : 1 },
+  "groups" : [ "objects", "plain" ]
 }
