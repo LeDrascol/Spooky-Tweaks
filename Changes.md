@@ -1559,3 +1559,10 @@
 + Increased item level from 1 to 4 for Assault Field Emitter
 + Fixed category for Soldier's Field Emitter
 + Fixed category for Avali Pickaxe
+
+### Enhanced Storage
++ Sell rates raised from 20% to 100% for Enhanced Storage shipments
++ Updated description for Terramart Shipments
++ Updated description for Terramart Shipments 2.0
++ Updated description for Enhanced Shipments
++ Updated description for Enhanced Shipments 2.0

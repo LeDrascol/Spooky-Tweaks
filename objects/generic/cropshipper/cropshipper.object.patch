@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/description",
+    "value": "Sell food and produce with a value of 30% to Terramart, by blasting it into space.\n^red;Can only be used in open spaces.^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Sell food, produce, and ore to Terramart at full value, by blasting it into space.\n^red;Can only be used outside.^white;"
+  }
+]

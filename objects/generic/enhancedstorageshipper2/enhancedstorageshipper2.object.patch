@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/description",
+    "value": "Sell all goods with a value of 20%, by teleporting to the Outpost.\n^green;Can be used anywhere.^white;"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Sell all goods at full value, by teleporting them to the Outpost.\n^green;Can be used anywhere.^white;"
+  }
+]
