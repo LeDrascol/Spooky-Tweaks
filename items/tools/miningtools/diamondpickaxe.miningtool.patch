@@ -18,5 +18,10 @@
 		"op": "add",
 		"path": "/builder",
 		"value": "/items/buildscripts/st_buildpickaxe.lua"
-	}
+	},
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "diamonddrill" ]
+  }
 ]

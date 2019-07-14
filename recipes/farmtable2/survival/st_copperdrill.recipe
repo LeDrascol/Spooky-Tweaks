@@ -1,0 +1,7 @@
+{
+  "input" : [
+    { "item" : "titaniumbar", "count" : 8 },
+    { "item" : "copperbar", "count" : 15 }
+  ],
+  "output" : { "item" : "copperdrill", "count" : 1 },
+  "groups" : [ "craftingfarm", "survival" ]}

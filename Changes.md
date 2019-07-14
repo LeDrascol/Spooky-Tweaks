@@ -1488,6 +1488,11 @@
 + Changed tooltip type from TOOL to ST_PICKAXE for Gold Drill
 + Changed tooltip type from TOOL to ST_PICKAXE for Platinum Drill
 + Changed tooltip type from TOOL to ST_PICKAXE for Diamond Drill
++ Added Agricultural Station crafting for Copper Drill
++ Added Agricultural Station crafting for Silver Drill
++ Added Agricultural Station crafting for Gold Drill
++ Added Agricultural Station crafting for Platinum Drill
++ Added Agricultural Station crafting for Diamond Drill
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
@@ -1512,6 +1517,11 @@
 + Reduced charge time from 1.2 to 0.6 for Sacred Splash Staff
 + Reduced charge time from 1.2 to 0.6 for Supergiant Orb
 + Reduced charge time from 1.2 to 0.6 for Red Giant Orb
++ Added learn on pickup for Copper Drill to Copper Pickaxe
++ Added learn on pickup for Silver Drill to Silver Pickaxe
++ Added learn on pickup for Gold Drill to Gold Pickaxe
++ Added learn on pickup for Platinum Drill to Platinum Pickaxe
++ Added learn on pickup for Diamond Drill to Diamond Pickaxe
 
 ### Legendary Tooltips
 + Added compatibility check for Doom Cannon
