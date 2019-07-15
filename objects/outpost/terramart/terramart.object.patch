@@ -12,6 +12,11 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
+    "value": { "item": "relocator" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/-",
     "value": { "item": "broom" }
   },
   {

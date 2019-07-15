@@ -1541,6 +1541,9 @@
 + Moved crafting from Atomic Furnace to Industrial Furnace for Silicon Board
 + Moved crafting from Atomic Furnace to Industrial Furnace for AA Battery
 + Moved crafting from Atomic Furnace to Industrial Furnace for Copper Wire
++ Price change from 1500 PIXELS to 2000 PIXELS for Relocator
++ Reduced rarity rank from Legendary to Rare for Relocator
++ Added Terramart shop item Relocator
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
