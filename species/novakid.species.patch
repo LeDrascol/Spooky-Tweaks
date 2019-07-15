@@ -12,6 +12,9 @@
   {
     "op": "add",
     "path": "/statusEffects",
-    "value": [ { "stat" : "biomeheatImmunity", "amount" : 1 } ]
+    "value": [
+      { "stat" : "biomeheatImmunity", "amount" : 1 },
+      "novakidglow"
+    ]
   }
 ]

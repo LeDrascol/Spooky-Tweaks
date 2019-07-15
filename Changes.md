@@ -1535,6 +1535,7 @@
 + Reduced time for teleport out from 1 to 0.2
 + Reduced animation time for teleport in from 1 to 0.2
 + Reduced animation time for teleport out from 0.75 to 0.2
++ Fixed MOD missing glow effect for Novakid
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
