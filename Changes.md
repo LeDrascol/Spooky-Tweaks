@@ -148,9 +148,9 @@
 + Additional Basic Un-Crafting added for 10k Voxel (Admin Only!)
 + Updated accuracy of dialogs for Tech Lab Scientist
 + Renamed Tech Console Dispenser to Tech Dispenser
-+ Added Tech Dispenser item Upgrade Module
-+ Added Tech Dispenser item Manipulator Module
-+ Added Tech Dispenser item Tech Card
++ Added Tech Dispenser shop item Upgrade Module
++ Added Tech Dispenser shop item Manipulator Module
++ Added Tech Dispenser shop item Tech Card
 + Updated description of Tech Console Dispenser to reflect mod changes
 + Updated racial descriptions of Tech Console Dispenser to reflect mod changes
 + Updated description of Closed Penguin Bay to indicate it opens later
@@ -161,7 +161,7 @@
 + Sell rates raised from 20% to 100% for Tech Console Dispenser
 + Sell rates raised from 20% to 80% for Infinity Express
 + Sell rates raised from 20% to 65% for Penguin Bay
-+ Sell rates raised from 20% to 65% for Shipyard Captain
++ Sell rates raised from 20% to 65% for Penguin Pete
 + Sell rates raised from 20% to 80% for Terramart
 + Sell rates raised from 20% to 90% for Ursa Miner
 + Buy rates lowered from 500% to 100% for Infinity Express
@@ -252,8 +252,8 @@
 + Changed Mazebound64 (Closed) from PROP to SHOP
 + Changed Mazebound64 from UNFINISHED MINIGAME to SHOP (Curtis' Band Supply)
 + Added Curtis' Band Supply (Music Shop) to Speakeasy Bar in The Outpost
-+ Added Curtis' Band Supply items - All 30 musical instruments
-+ Added Terramart item Capture Pod
++ Added Curtis' Band Supply shop items - All 30 musical instruments
++ Added terramart shop item Capture Pod
 
 # Update 1
 + Removed startup animation
@@ -277,15 +277,15 @@
 + Added Treasured Trophies crafting for Translocator
 + Updated helpfulness of description on Translocator
 + Fixed tooltip issues for Translocator
-+ Added Terramart item Broom
-+ Added Infinity Express item Parasol
-+ Added Infinity Express item Green Flashlight
-+ Added Infinity Express item Red Flashlight
-+ Added Infinity Express item Yellow Flashlight
++ Added terramart shop item Broom
++ Added Infinity Express shop item Parasol
++ Added Infinity Express shop item Green Flashlight
++ Added Infinity Express shop item Red Flashlight
++ Added Infinity Express shop item Yellow Flashlight
 + Reduced rarity rank from Legendary to Uncommon for Parasol
 + Changed hand-use to 1H for Chainsaw
 + Price change on Chainsaw to 150 PIXELS
-+ Added Ursa Miner item Chainsaw
++ Added Ursa Miner shop item Chainsaw
 + Updated description for Chainsaw to indicate it deals no damage
 + Fixed incorrect large image for Fishaxe
 + Fixed incorrect large image for Super Fishaxe
@@ -308,7 +308,7 @@
 + Reduced damage factor from 9 to 0 for Rocket Spear ability (still deals damage)
 + Reduced energy cost from 45 to 10 for Rocket Spear ability
 + Raised boost force from 100 to 200 for Rocket Spear ability
-+ Added Infinity Express item Beachball
++ Added Infinity Express shop item Beachball
 + Price change from 4375 PIXELS to 16800 PIXELS for Protector's Broadsword
 + Raised damage factor from 10 to 12 on Protector's Broadsword
 + Raised maximum stack size from 1 to 1000 for Super Reward Bag
@@ -326,7 +326,7 @@
 + Price change on Parachute from 5000 PIXELS to 250 PIXELS
 + Reduced rarity rank from Legendary to Common for Parachute
 + Updated description for Parachute to indicate it no longer functions
-+ Added Infinity Express item Parachute
++ Added Infinity Express shop item Parachute
 + Renamed Parachute to Pilot's Backpack
 + Added a 10% drop chance for Shockhopper MK I Figurine to Shockhopper Mk I
 + Updated helpfulness of dialogs in Visit The Outpost mission
@@ -389,8 +389,8 @@
 ## Patch 2.1
 + Buy rates raised from 150% to 200% for Ursa Miner (in-mod change)
 + Crafting for Energy Pickaxe moved from Treasured Trophies to Separator's Table
-+ Removed Infinity Express item Chocolate
-+ Removed Infinity Express item Parachute (in-mod change)
++ Removed Infinity Express shop item Chocolate
++ Removed Infinity Express shop item Parachute (in-mod change)
 + Price change on Canned Food from 40 PIXELS to 850 PIXELS
 + Updated description of Canned Food to reflect it's immense value
 + Price change on Energy Pickaxe from 5000 PIXELS to 3000 PIXELS
@@ -401,7 +401,7 @@
 + Optimized patch for respawn flavor text
 + Updated spookiness of description on Mr. Spooks (Erchius Ghost)
 + Fixed grammar on descriptions for all 2-Stop Teleshop teleporters
-+ Restored Infinity Express item Chocolate (in-mod change)
++ Restored Infinity Express shop item Chocolate (in-mod change)
 + Price change on Chocolate from 150 PIXELS to 200 PIXELS
 + Changed inventory text 'ARMOUR SLOTS' to 'ARMOR SLOTS'
 
@@ -522,7 +522,7 @@
 + Price change from 50 PIXELS to 20000 PIXELS for Rob Repairo
 + Updated Tutorial radio messages to comment on Rob Repairo
 + Added Architect's Table crafting for Mech Assembly Station
-+ Added Tech Dispenser item Mech Assembly Station
++ Added Tech Dispenser shop item Mech Assembly Station
 + Price change from 0 PIXELS to 5000 PIXELS for Mech Assembly Station
 + Added Unapparent Apparel item Industrial Crew Helmet
 + Added Unapparent Apparel item Mech Pilot Helmet
@@ -673,7 +673,7 @@
 + Renamed Garden Salad to Mixed Salad
 + Updated description of Garden Salad to fit it's new name
 + Raised maximum stack size from 1 to 50 for Thorn Fruit
-+ Added Terramart item Cotton Wool
++ Added terramart shop item Cotton Wool
 + Added effect SWIMBOOST to Oxygen Tank
 + Price change from 3000 PIXELS to 1200 PIXELS for Grappling Hook
 + Added Ursa Miner shop item Ore Detector
@@ -983,13 +983,13 @@
 + Renamed all race flags to use 'Flag - Race' format instead of 'Race Flag'
 + Added Ursa Miner shop item Drill Mech Arm
 + Added Ursa Miner shop item Beam Drill Mech Arm
-+ Removed Infinity Express item Chocolate (AGAIN)
-+ Removed Infinity Express item Liquid Spookium
++ Removed Infinity Express shop item Chocolate (AGAIN)
++ Removed Infinity Express shop item Liquid Spookium
 + Updated Human racial description for Infinity Express
 + Updated UI subtitle for Infinity Express
 + Moved shop item from Terramart to Infinity Express - Cotton Wool
 + Updated item organization for Tech Dispenser
-+ ~~Added Infinity Express item Pizza Slice~~
++ ~~Added Infinity Express shop item Pizza Slice~~
 + Added new Rocket Jump parameter rocketCooldown
 + Rocket Jump tech now recharges via cooldown in the air
 + Added Rocket Jump sound queue dashCooldown
@@ -1237,8 +1237,8 @@
 + Restored Industrial Workbench crafting for Neon Block
 + Restored Kitchen Counter crafting for Pizza
 + Price change from 4 PIXELS to 20 PIXELS for Red Apple
-+ Added Tech Dispenser item Processor after quest Dreadwing the Penguin
-+ Added Tech Dispenser item TV Station
++ Added Tech Dispenser shop item Processor after quest Dreadwing the Penguin
++ Added Tech Dispenser shop item TV Station
 + Added blueprint unlock on Metal Coated Wood for Rusty Bed
 + Added blueprint unlock on Metal Coated Wood for Rusty Chair
 + Added blueprint unlock on Metal Coated Wood for Rusty Door
@@ -1294,9 +1294,9 @@
 + Minor code cleanup for Tech Dispenser patch
 + Updated description for Upgrade Module
 + Restored all removed items from Infinity Express (except Liquid Fuel)
-+ Added Infinity Express item Raw Ham
-+ Added Infinity Express item Green Apple
-+ Added Infinity Express item Orange
++ Added Infinity Express shop item Raw Ham
++ Added Infinity Express shop item Green Apple
++ Added Infinity Express shop item Orange
 + Buy rates raised from 100% to 250% for Infinity Express
 + Moved shop item from Terramart to Infinity Express - Parasol
 + Moved shop item from Terramart to Infinity Express - Green Flashlight
