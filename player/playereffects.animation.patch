@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/animatedParts/stateTypes/teleport/states/defaultIn/cycle",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/stateTypes/teleport/states/defaultOut/cycle",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/stateTypes/teleport/states/beamIn/cycle",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/animatedParts/stateTypes/teleport/states/beamOut/cycle",
+    "value": 0.2
+  }
+]

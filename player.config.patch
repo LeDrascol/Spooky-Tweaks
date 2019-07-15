@@ -575,5 +575,27 @@
       { "item" : "nanostove" },
       { "item" : "throwingblock" }
   ]
-}
+},
+
+  {
+    "op": "replace",
+    "path": "/movementParameters/airFriction",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/movementParameters/airJumpProfile/jumpSpeed",
+    "value": 27
+  },
+  {
+    "op": "replace",
+    "path": "/teleportInTime",
+    "value": 0.2
+  },
+  {
+    "op": "replace",
+    "path": "/teleportOutTime",
+    "value": 0.2
+  }
+
 ]

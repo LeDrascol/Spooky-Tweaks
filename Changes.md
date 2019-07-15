@@ -1529,6 +1529,12 @@
 + Reduced energy cost from 15 to 0 for Distortion Sphere
 + Reduced energy cost from 30 to 0 for Sonic Sphere
 + Reduced energy cost from 50 to 0 for Spike Sphere
++ Increased player jump velocity from 23 to 27
++ Reduced player air friction from 0.5 to 0.2
++ Reduced time for teleport in from 1 to 0.2
++ Reduced time for teleport out from 1 to 0.2
++ Reduced animation time for teleport in from 1 to 0.2
++ Reduced animation time for teleport out from 0.75 to 0.2
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
