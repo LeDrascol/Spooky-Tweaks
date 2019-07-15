@@ -29,6 +29,7 @@ function update(args)
 	-- patch
 	local jumpActivated = args.moves["jump"] and not self.lastJump
     self.lastJump = args.moves["jump"]
+
     if jumpActivated and not self.toggle then
       self.toggle = true
     elseif jumpActivated and self.toggle then
@@ -38,19 +39,26 @@ function update(args)
       if args.moves["up"] then
         mcontroller.addMomentum({0,2.0})
       end
+
       if args.moves["down"] then
         mcontroller.addMomentum({0,-1.5})
       end
     end
 	-- /patch
 
-    if inLiquid then
-      self.transformedMovementParameters.runSpeed = self.ballLiquidSpeed
-      self.transformedMovementParameters.walkSpeed = self.ballLiquidSpeed
-    else
-      self.transformedMovementParameters.runSpeed = self.ballSpeed
-      self.transformedMovementParameters.walkSpeed = self.ballSpeed
-    end
+  if inLiquid then
+    self.transformedMovementParameters.runSpeed = self.ballLiquidSpeed
+    self.transformedMovementParameters.walkSpeed = self.ballLiquidSpeed
+
+    self.customMovementParameters.runSpeed = self.ballLiquidSpeed
+    self.customMovementParameters.walkSpeed = self.ballLiquidSpeed
+  else
+    self.transformedMovementParameters.runSpeed = self.ballSpeed
+    self.transformedMovementParameters.walkSpeed = self.ballSpeed
+
+    self.customMovementParameters.runSpeed = self.ballSpeed
+    self.customMovementParameters.walkSpeed = self.ballSpeed
+  end
 
 	-- patch
     --mcontroller.controlParameters(self.transformedMovementParameters)
@@ -66,10 +74,10 @@ function update(args)
 	-- /patch
 
   -- Prevent energy regeneration blocking
-    --status.setResourcePercentage("energyRegenBlock", 1.0)
+    --status.setResourcePercentage("energyRegenBlock", 0.0)
 
   -- Prevent fall damage
-    status.setPersistentEffects("morphImmuneTo", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0}, {stat = "poisonStatusImmunity", amount = 1.0} })
+    status.setPersistentEffects("morphSafeFall", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0}, {stat = "poisonStatusImmunity", amount = 1.0} })
 
     local controlDirection = 0
     if args.moves["right"] then controlDirection = controlDirection - 1 end

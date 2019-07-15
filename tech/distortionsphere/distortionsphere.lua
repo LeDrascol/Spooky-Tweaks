@@ -43,10 +43,12 @@ function update(args)
 
   if self.active then
     mcontroller.controlParameters(self.transformedMovementParameters)
+
 	-- remove energy regeneration block
     -- status.setResourcePercentage("energyRegenBlock", 0.0)
+
 	-- status effect to disable fall damage when in morph
-    status.setPersistentEffects("morphImmuneTo", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0}, {stat = "poisonStatusImmunity", amount = 1.0} })
+    status.setPersistentEffects("morphSafeFall", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0} })
 
     updateAngularVelocity(args.dt)
     updateRotationFrame(args.dt)
@@ -109,10 +111,6 @@ end
 function storePosition()
   if self.active then
     storage.restorePosition = restorePosition()
-
-    -- try to restore position. if techs are being switched, this will work and the storage will
-    -- be cleared anyway. if the client's disconnecting, this won't work but the storage will remain to
-    -- restore the position later in update()
     if storage.restorePosition then
       storage.lastActivePosition = mcontroller.position()
       mcontroller.setPosition(storage.restorePosition)
@@ -122,7 +120,6 @@ end
 
 function restoreStoredPosition()
   if storage.restorePosition then
-    -- restore position if the player was logged out (in the same planet/universe) with the tech active
     if vec2.mag(vec2.sub(mcontroller.position(), storage.lastActivePosition)) < 1 then
       mcontroller.setPosition(storage.restorePosition)
     end
@@ -133,8 +130,6 @@ end
 
 function updateAngularVelocity(dt)
   if mcontroller.groundMovement() then
-    -- If we are on the ground, assume we are rolling without slipping to
-    -- determine the angular velocity
     local positionDiff = world.distance(self.lastPosition or mcontroller.position(), mcontroller.position())
     self.angularVelocity = -vec2.mag(positionDiff) / dt / self.ballRadius
 
@@ -147,8 +142,6 @@ end
 function updateRotationFrame(dt)
   self.angle = math.fmod(math.pi * 2 + self.angle + self.angularVelocity * dt, math.pi * 2)
 
-  -- Rotation frames for the ball are given as one *half* rotation so two
-  -- full cycles of each of the ball frames completes a total rotation.
   local rotationFrame = math.floor(self.angle / math.pi * self.ballFrames) % self.ballFrames
   animator.setGlobalTag("rotationFrame", rotationFrame)
 end
@@ -203,8 +196,10 @@ function activate()
   tech.setParentOffset({0, positionOffset()})
   tech.setToolUsageSuppressed(true)
   status.setPersistentEffects("movementAbility", {{stat = "activeMovementAbilities", amount = 1}})
+
   -- status effect to disable fall damage when in morph
-  status.setPersistentEffects("morphImmuneTo", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0}, {stat = "poisonStatusImmunity", amount = 1.0} })
+  status.setPersistentEffects("morphSafeFall", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0} })
+
   self.active = true
 end
 
@@ -223,8 +218,10 @@ function deactivate()
   tech.setParentOffset({0, 0})
   tech.setToolUsageSuppressed(false)
   status.clearPersistentEffects("movementAbility")
+
   -- clear the fall damage immunity when leaving morph
-  status.clearPersistentEffects("morphImmuneTo")
+  status.clearPersistentEffects("morphSafeFall")
+
   self.angle = 0
   self.active = false
 end

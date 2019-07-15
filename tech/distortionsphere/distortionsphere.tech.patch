@@ -1,16 +1,4 @@
 [
-  [
-    {
-      "op" : "test",
-      "path" : "/scripts/0",
-      "value" : "distortionsphere.lua"
-    },
-    {
-      "op": "replace",
-      "path": "/scripts/0",
-      "value": "st_distortionsphere_freedom.lua"
-    }
-  ],
 
   [
     {
@@ -46,7 +34,7 @@
     {
       "op": "replace",
       "path": "/energyCost",
-      "value": 15
+      "value": 0
     },
     {
       "op": "replace",

@@ -886,8 +886,8 @@
 + Removed momentum penalty when using Air Dash
 + Wall jump tech now refreshes jumps when touching a wall
 + Rocket jump boost speed raised from 40 to 50 for
-+ Morph ball no longer blocks energy regeneration
-+ Morph ball now blocks fall damage (thank you to Distortion Sphere Tweaks Plus)
++ Distortion spheres no longer blocks energy regeneration
++ Distortion spheres now blocks fall damage (thank you to Distortion Sphere Tweaks Plus)
 + Sonic sphere jump boost raised from 12 to 25
 + Sonic sphere water jump boost raised from 12 to 25
 + Sonic sphere water jump control raised from 0 to 800
@@ -1512,13 +1512,23 @@
 + Price change from 15000 PIXELS to 1500 PIXELS for Plutonium Sample
 + Reduced rarity rank from Legendary to Uncommon for Penguin Costume
 + Reduced rarity rank from Legendary to Uncommon for Plutonium Sample
-+ Fixed MOD inconsistent effects for Aqua Sphere
 + Removed default blueprint for Pizza
 + Added learn on pickup for Pizza to Pizza Slice
 + Increased food value from 200 to 225 for Pizza
 + Reduced rarity from Legendary to Uncommon for Pizza
 + Price change from 1125 PIXELS to 1000 PIXELS for Pizza
 + Price change from 215 PIXELS to 200 PIXELS for Pizza Slice
++ Removed status effect TOXIC IMMUNITY from distortion spheres
++ Fixed MOD fall immunity not applying for Aqua Sphere
++ Fixed MOD fall immunity not applying for Sonic Sphere
++ Fixed MOD fall immunity not applying for Spike Sphere
++ Fixed MOD incorrect handling for Aqua Sphere
++ Fixed MOD tooltip for Spike Sphere
++ Code cleanup for distortion sphere scripts
++ Reduced energy cost from 30 to 0 for Aqua Sphere
++ Reduced energy cost from 15 to 0 for Distortion Sphere
++ Reduced energy cost from 30 to 0 for Sonic Sphere
++ Reduced energy cost from 50 to 0 for Spike Sphere
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
