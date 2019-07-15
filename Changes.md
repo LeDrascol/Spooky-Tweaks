@@ -1536,6 +1536,11 @@
 + Reduced animation time for teleport in from 1 to 0.2
 + Reduced animation time for teleport out from 0.75 to 0.2
 + Fixed MOD missing glow effect for Novakid
++ Moved crafting from Atomic Furnace to Industrial Furnace for Stick of RAM
++ Moved crafting from Atomic Furnace to Industrial Furnace for Battery
++ Moved crafting from Atomic Furnace to Industrial Furnace for Silicon Board
++ Moved crafting from Atomic Furnace to Industrial Furnace for AA Battery
++ Moved crafting from Atomic Furnace to Industrial Furnace for Copper Wire
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
