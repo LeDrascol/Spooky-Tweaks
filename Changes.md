@@ -1476,6 +1476,7 @@
 + Reduced energy cost from 48 to 40 for Adaptable Crossbow ngravitybolt
 + Reduced fire time from 1.0 to 0.8 for Adaptable Crossbow
 + Price change from 1500 PIXELS to 7500 PIXELS for Adaptable Crossbow
++ Updated dialogs for Esther to fit into ST's human lore
 + Add Atomic Furnace crafting for Stick of Ram
 + Add new tooltip type `st_pickaxe`
 + Changed tooltip type from TOOL to ST_PICKAXE for Copper Pickaxe
@@ -1511,6 +1512,13 @@
 + Price change from 15000 PIXELS to 1500 PIXELS for Plutonium Sample
 + Reduced rarity rank from Legendary to Uncommon for Penguin Costume
 + Reduced rarity rank from Legendary to Uncommon for Plutonium Sample
++ Fixed MOD inconsistent effects for Aqua Sphere
++ Removed default blueprint for Pizza
++ Added learn on pickup for Pizza to Pizza Slice
++ Increased food value from 200 to 225 for Pizza
++ Reduced rarity from Legendary to Uncommon for Pizza
++ Price change from 1125 PIXELS to 1000 PIXELS for Pizza
++ Price change from 215 PIXELS to 200 PIXELS for Pizza Slice
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

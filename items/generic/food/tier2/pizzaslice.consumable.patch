@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 200
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup/-",
+    "value": "pizza"
+  }
+]

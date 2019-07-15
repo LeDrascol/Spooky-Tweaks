@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/converse/default/default/0",
+    "value": "I'm here whenever you need menial tasks, dear. Especially if you'd like to help me study these inferior races."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "Stop fooling around and serve me, dear."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "My empire won't rebuild itself, dear."
+  },
+  {
+    "op": "add",
+    "path": "/scriptConfig/dialog/converse/default/default/-",
+    "value": "The Protectorate is no more. You serve me now, dear."
+  },
+  {
+    "op": "replace",
+    "path": "/scriptConfig/dialog/arkOpened/default/default/0",
+    "value": "I've opened the Ark! Defeat the monster that destroyed my empire, dear."
+  }
+]

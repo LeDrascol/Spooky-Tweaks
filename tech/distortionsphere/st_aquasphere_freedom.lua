@@ -2,11 +2,11 @@ require "/tech/distortionsphere/distortionsphere.lua"
 
 function init()
   initCommonParameters()
-  
+
   -- patch
   self.toggle = false
   self.customMovementParameters = config.getParameter("customMovementParameters")
-  -- patch
+  -- /patch
 
   self.ballLiquidSpeed = config.getParameter("ballLiquidSpeed")
 end
@@ -25,6 +25,7 @@ function update(args)
 
   if self.active then
     local inLiquid = mcontroller.liquidPercentage() > 0.2
+
 	-- patch
 	local jumpActivated = args.moves["jump"] and not self.lastJump
     self.lastJump = args.moves["jump"]
@@ -41,22 +42,14 @@ function update(args)
         mcontroller.addMomentum({0,-1.5})
       end
     end
-	-- patch
-	
+	-- /patch
+
     if inLiquid then
-	  -- patch
-      self.transformedMovementParameters.runSpeed = self.ballLiquidSpeed
-      self.transformedMovementParameters.walkSpeed = self.ballLiquidSpeed
-	  -- patch
       self.transformedMovementParameters.runSpeed = self.ballLiquidSpeed
       self.transformedMovementParameters.walkSpeed = self.ballLiquidSpeed
     else
       self.transformedMovementParameters.runSpeed = self.ballSpeed
       self.transformedMovementParameters.walkSpeed = self.ballSpeed
-	  -- patch
-      self.customMovementParameters.runSpeed = self.ballSpeed
-      self.customMovementParameters.walkSpeed = self.ballSpeed
-	  -- patch
     end
 
 	-- patch
@@ -70,8 +63,13 @@ function update(args)
         mcontroller.controlParameters(self.transformedMovementParameters)
       end
     end
-	-- patch
-    status.setResourcePercentage("energyRegenBlock", 1.0)
+	-- /patch
+
+  -- Prevent energy regeneration blocking
+    --status.setResourcePercentage("energyRegenBlock", 1.0)
+
+  -- Prevent fall damage
+    status.setPersistentEffects("morphImmuneTo", { {stat = "fallDamageMultiplier", effectiveMultiplier = 0.0}, {stat = "poisonStatusImmunity", amount = 1.0} })
 
     local controlDirection = 0
     if args.moves["right"] then controlDirection = controlDirection - 1 end
@@ -90,8 +88,6 @@ end
 
 function updateAngularVelocity(dt, inLiquid, controlDirection)
   if mcontroller.isColliding() then
-    -- If we are on the ground, assume we are rolling without slipping to
-    -- determine the angular velocity
     local positionDiff = world.distance(self.lastPosition or mcontroller.position(), mcontroller.position())
     self.angularVelocity = -vec2.mag(positionDiff) / dt / self.ballRadius
 
