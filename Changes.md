@@ -1544,6 +1544,12 @@
 + Price change from 1500 PIXELS to 2000 PIXELS for Relocator
 + Reduced rarity rank from Legendary to Rare for Relocator
 + Added Terramart shop item Relocator
++ Renamed Peace Credit to Peacekeeper Prize Ticket
++ Updated description for Peace Credit to reflect name changes
++ Updated description for Peacekeeper Store to reflect ticket name changes
++ Updated description for Peacekeeper Store to reflect ticket name changes
++ Updated shop description for Peacekeeper Store to reflect ticket name changes
++ Changed collision type from NONE to PLATFORM for Peacekeeper Store (4)
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)

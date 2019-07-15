@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A store for Peacekeeper prizes."
+  },
+  {
+    "op": "replace",
+    "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "^#b9b5b2;Turn in Peacekeeper Prize Tickets for rewards!"
+  },
+  {
+    "op": "add",
+    "path": "/orientations/0/collision",
+    "value": "platform"
+  }
+]

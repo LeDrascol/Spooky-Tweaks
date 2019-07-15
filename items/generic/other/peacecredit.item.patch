@@ -7,8 +7,16 @@
   {
     "op": "add",
     "path": "/itemTags",
-    "value": [
-      "reagent"
-    ]
+    "value": [ "reagent" ]
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A prize ticket used to reward members of the Terrene Peacekeepers."
+  },
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Peacekeeper Prize Ticket"
   }
 ]
