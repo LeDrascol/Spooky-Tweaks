@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/hyperspaceSpeedupTime",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/flyingTimer",
+    "value": 1.5
+  },
+  {
+    "op": "replace",
+    "path": "/hyperspaceSlowdownTime",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/disembarkPath/0/time",
+    "value": 1
+  },
+  {
+    "op": "replace",
+    "path": "/arrivalPath/0/time",
+    "value": 1
+  }
+]

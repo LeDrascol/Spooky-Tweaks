@@ -1550,6 +1550,11 @@
 + Updated description for Peacekeeper Store to reflect ticket name changes
 + Updated shop description for Peacekeeper Store to reflect ticket name changes
 + Changed collision type from NONE to PLATFORM for Peacekeeper Store (4)
++ Reduced time for ship hyperspace speedup from 2.4 to 1
++ Reduced time for ship hyperspace slowdown from 2 to 1
++ Reduced time for ship flying timer from 4 to 1.5
++ Reduced time for ship disembark path from 2 to 1
++ Reduced time for ship arrival time from 2 to 1
 
 ### Many Frogs
 + Added Frogg Furnishings rotating category Special (st_rotation)
