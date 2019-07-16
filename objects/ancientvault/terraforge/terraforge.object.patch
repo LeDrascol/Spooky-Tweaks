@@ -1,0 +1,17 @@
+[
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "decorative"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 60000
+  },
+  {
+    "op": "replace",
+    "path": "/printable",
+    "value": true
+  }
+]

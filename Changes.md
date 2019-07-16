@@ -1597,3 +1597,10 @@
 + Added new GUI asset `st_tabfiller`
 + Changed GUI type from `craftingmerchant` to `st_prizecounter` for Hylotl Prize Counter
 + Applied new crafting categories to all Arcade Prize Counter items
++ Crafting for Weapon Upgrade Anvil moved from Treasured Trophies to Terraforge
++ Changed crafting for Weapon Upgrade Anvil to require a Basic Anvil
++ Updated UI subtitle of Terraforge to reflect mod changes
++ Removed crafting for Terraforge
++ Price change from 0 PIXELS to 60000 PIXELS for Terraforge
++ Allowed 3D printing for Terraforge
++ Changed category from OTHER to DECORATIVE for Terraforge

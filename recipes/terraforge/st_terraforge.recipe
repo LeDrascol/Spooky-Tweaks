@@ -1,11 +1,12 @@
 {
   "input" : [
     { "item" : "vaultkey", "count" : 1 },
+    { "item" : "ancientblock", "count" : 200 },
     { "item" : "essence", "count" : 20000 }
   ],
   "output" : {
     "item" : "terraforge",
     "count" : 1
   },
-  "groups" : [ "treasuredtrophies" ]
+  "groups" : [ "terraforge", "all" ]
 }
