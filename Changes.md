@@ -1521,3 +1521,73 @@
 + Added Penguin Weapon Shop item Neo Shotgun
 + Added Penguin Weapon Shop item Neo Tommy Gun
 + Added Penguin Weapon Shop item Neo Uzi
++ Added Arcade Prize Counter shop item Cosmic Intruder Figurine
++ Added Arcade Prize Counter shop item Swansong Figurine
++ Added Arcade Prize Counter shop item Dreadwing Figurine
++ Added Arcade Prize Counter shop item Shockhopper MK I Figurine
++ Added Arcade Prize Counter shop item Smoglin Figurine
++ Added Arcade Prize Counter shop item Yokat Figurine
++ Added Arcade Prize Counter shop item Wisper Figurine
++ Added Arcade Prize Counter shop item Voltip Figurine
++ Added Arcade Prize Counter shop item Squeem Figurine
++ Added Arcade Prize Counter shop item Snaunt Figurine
++ Added Arcade Prize Counter shop item Spookit Figurine
++ Added Arcade Prize Counter shop item Sporgus Figurine
++ Added Arcade Prize Counter shop item Snaggler Figurine
++ Added Arcade Prize Counter shop item Tintic Figurine
++ Added Arcade Prize Counter shop item Taroni Figurine
++ Added Arcade Prize Counter shop item Trictus Figurine
++ Added Arcade Prize Counter shop item Bone Dragon Figurine
++ Added Arcade Prize Counter shop item Erchius Horror Figurine
++ Added Arcade Prize Counter shop item Ixodoom Figurine
++ Added Arcade Prize Counter shop item Asra Nox Figurine
++ Added Arcade Prize Counter shop item Kluex Avatar Figurine
++ Added Arcade Prize Counter shop item Toumingo Figurine
++ Added Arcade Prize Counter shop item Triplod Figurine
++ Added Arcade Prize Counter shop item Skimbus Figurine
++ Added Arcade Prize Counter shop item Scaveran Figurine
++ Added Arcade Prize Counter shop item Scandroid Figurine
++ Added Arcade Prize Counter shop item Ringram Figurine
++ Added Arcade Prize Counter shop item Quagmutt Figurine
++ Added Arcade Prize Counter shop item Pyromantle Figurine
++ Added Arcade Prize Counter shop item Pulpin Figurine
++ Added Arcade Prize Counter shop item Pteropod Figurine
++ Added Arcade Prize Counter shop item Poptop Figurine
++ Added Arcade Prize Counter shop item Pipkin Figurine
++ Added Arcade Prize Counter shop item Petricub Figurine
++ Added Arcade Prize Counter shop item Peblit Figurine
++ Added Arcade Prize Counter shop item Paratail Figurine
++ Added Arcade Prize Counter shop item Orbide Figurine
++ Added Arcade Prize Counter shop item Oogler Figurine
++ Added Arcade Prize Counter shop item Oculob Figurine
++ Added Arcade Prize Counter shop item Nutmidge Figurine
++ Added Arcade Prize Counter shop item Narfin Figurine
++ Added Arcade Prize Counter shop item Hemogoblin Figurine
++ Added Arcade Prize Counter shop item Gleap Figurine
++ Added Arcade Prize Counter shop item Fennix Figurine
++ Added Arcade Prize Counter shop item Crutter Figurine
++ Added Arcade Prize Counter shop item Crustoise Figurine
++ Added Arcade Prize Counter shop item Crabcano Figurine
++ Added Arcade Prize Counter shop item Capricoat Figurine
++ Added Arcade Prize Counter shop item Bulbop Figurine
++ Added Arcade Prize Counter shop item Bobot Figurine
++ Added Arcade Prize Counter shop item Bobfae Figurine
++ Added Arcade Prize Counter shop item Batong Figurine
++ Added Arcade Prize Counter shop item Anglure Figurine
++ Added Arcade Prize Counter shop item Hypnare Figurine
++ Added Arcade Prize Counter shop item Iguarmor Figurine
++ Added Arcade Prize Counter shop item Ignome Figurine
++ Added Arcade Prize Counter shop item Hypnare Figurine
++ Added Arcade Prize Counter shop item Lilodon Figurine
++ Added Arcade Prize Counter shop item Monopus Figurine
++ Added Arcade Prize Counter shop item Miasmop Figurine
++ Added Arcade Prize Counter shop item Mandraflora Figurine
++ Added Arcade Prize Counter shop item Lumoth Figurine
++ Added Arcade Prize Counter shop item Gosmet Figurine
++ Added Arcade Prize Counter shop item Parasprite Figurine
++ Added Arcade Prize Counter shop item Snuffish Figurine
++ Added Arcade Prize Counter shop item Agrobat Figurine
++ Added Arcade Prize Counter shop item Adult Poptop Figurine
++ Added Arcade Prize Counter shop item Ixoling Figurine
++ Added Arcade Prize Counter shop item Kluex Sentry Figurine
++ Added Arcade Prize Counter shop item Snuffish Figurine
