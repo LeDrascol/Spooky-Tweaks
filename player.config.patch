@@ -561,6 +561,11 @@
 },
 {
   "op": "add",
+  "path": "/defaultBlueprints/tier1/0",
+  "value": { "item" : "keypad" }
+},
+{
+  "op": "add",
   "path": "/defaultBlueprints/portable3dprinter",
   "value": [
       { "item" : "futurelight" },

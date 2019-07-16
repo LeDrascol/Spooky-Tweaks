@@ -1512,3 +1512,12 @@
 + Reduced time for ship flying timer from 4 to 1.5
 + Reduced time for ship disembark path from 2 to 1
 + Reduced time for ship arrival path from 2 to 1
++ Reduced time for bounty board fake loading from 1.5 to 0.5
++ Added Wiring Station crafting for Keypad
++ Renamed Stun Grenade to Time-Shock Grenade
++ Updated description for Stun Grenade to match the time aesthetic
++ Increased base damage from 6.25 to 7 for Neo Magnum
++ Added Penguin Weapon Shop item Neo Pistol
++ Added Penguin Weapon Shop item Neo Shotgun
++ Added Penguin Weapon Shop item Neo Tommy Gun
++ Added Penguin Weapon Shop item Neo Uzi

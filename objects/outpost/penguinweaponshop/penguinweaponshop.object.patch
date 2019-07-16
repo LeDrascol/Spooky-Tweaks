@@ -47,6 +47,13 @@
     "op": "add",
     "path": "/interactData/items",
     "value": [
+      { "item": { "name": "erchiuseye" }, "prerequisiteQuest": "human_mission1" },
+      { "item": { "name": "ixodoomclaw" }, "prerequisiteQuest": "floran_mission2" },
+      { "item": { "name": "soluskatana" }, "prerequisiteQuest": "hylotl_mission2" },
+      { "item": { "name": "kluexstaff" }, "prerequisiteQuest": "avian_mission2" },
+      { "item": { "name": "miniknoglauncher" }, "prerequisiteQuest": "apex_mission2" },
+      { "item": { "name": "dragonhead" }, "prerequisiteQuest": "glitch_mission2" },
+
       { "item": "clawglove" },
       { "item": "fireboomerang" },
       { "item": "hardchakram" },
@@ -87,12 +94,11 @@
       { "item": "raygun" },
       { "item": "spaceplasmarifle" },
       { "item": "stoneblade" },
-      { "item": { "name": "erchiuseye" }, "prerequisiteQuest": "human_mission1" },
-      { "item": { "name": "ixodoomclaw" }, "prerequisiteQuest": "floran_mission2" },
-      { "item": { "name": "soluskatana" }, "prerequisiteQuest": "hylotl_mission2" },
-      { "item": { "name": "kluexstaff" }, "prerequisiteQuest": "avian_mission2" },
-      { "item": { "name": "miniknoglauncher" }, "prerequisiteQuest": "apex_mission2" },
-      { "item": { "name": "dragonhead" }, "prerequisiteQuest": "glitch_mission2" }
+
+      { "item": { "name": "neopistol" }, "prerequisiteQuest": "bountyassignment" },
+      { "item": { "name": "neoshotgun" }, "prerequisiteQuest": "bountyassignment" },
+      { "item": { "name": "neotommygun" }, "prerequisiteQuest": "bountyassignment" },
+      { "item": { "name": "neouzi" }, "prerequisiteQuest": "bountyassignment" }
     ]
   },
   {

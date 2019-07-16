@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/shortdescription",
+    "value": "Time-Shock Grenade"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A grenade that creates a localised tachyon field to freeze hostiles in time."
+  }
+]
