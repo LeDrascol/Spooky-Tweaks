@@ -6,5 +6,5 @@
     "item" : "bowlingpin",
     "count" : 10
   },
-  "groups" : [ "hylotlprizecounter" ]
+  "groups" : [ "hylotlprizecounter", "prize_normal" ]
 }

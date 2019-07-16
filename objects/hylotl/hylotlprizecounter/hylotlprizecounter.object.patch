@@ -8,7 +8,7 @@
     "op": "add",
     "path": "/interactData",
     "value": {
-      "config": "/interface/windowconfig/craftingmerchant.config",
+      "config": "/interface/windowconfig/st_prizecounter.config",
       "paneLayoutOverride": {
         "windowtitle": {
           "title": "Arcade Prizes",

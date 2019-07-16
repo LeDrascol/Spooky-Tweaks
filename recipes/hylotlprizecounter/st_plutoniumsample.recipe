@@ -6,5 +6,5 @@
     "item" : "plutoniumsample",
     "count" : 1
   },
-  "groups" : [ "hylotlprizecounter" ]
+  "groups" : [ "hylotlprizecounter", "prize_normal" ]
 }

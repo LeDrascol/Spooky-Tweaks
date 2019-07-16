@@ -6,5 +6,5 @@
     "item" : "redtoyblock",
     "count" : 50
   },
-  "groups" : [ "hylotlprizecounter" ]
+  "groups" : [ "hylotlprizecounter", "prize_normal" ]
 }

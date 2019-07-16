@@ -6,5 +6,5 @@
     "item" : "bobotaf",
     "count" : 1
   },
-  "groups" : [ "hylotlprizecounter", "figurine" ]
+  "groups" : [ "hylotlprizecounter", "prize_figurine" ]
 }

@@ -1591,3 +1591,9 @@
 + Added Arcade Prize Counter shop item Ixoling Figurine
 + Added Arcade Prize Counter shop item Kluex Sentry Figurine
 + Added Arcade Prize Counter shop item Snuffish Figurine
++ Added crafting category `prize_normal`
++ Added crafting category `prize_figurine`
++ Added new GUI type `st_prizecounter`
++ Added new GUI asset `st_tabfiller`
++ Changed GUI type from `craftingmerchant` to `st_prizecounter` for Hylotl Prize Counter
++ Applied new crafting categories to all Arcade Prize Counter items
