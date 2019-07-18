@@ -8,5 +8,10 @@
     "op": "replace",
     "path": "/stances/charge/duration",
     "value": 0.6
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
   }
 ]
