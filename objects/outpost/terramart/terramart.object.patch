@@ -18,25 +18,5 @@
     "op": "add",
     "path": "/interactData/items/-",
     "value": { "item": "broom" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "parasol" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "greenflashlight" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "redflashlight" }
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": "yellowflashlight" }
   }
 ]

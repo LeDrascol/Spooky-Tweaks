@@ -1607,3 +1607,24 @@
 + Allowed 3D printing for Terraforge
 + Changed category from OTHER to DECORATIVE for Terraforge
 + Added new quest `shopitemlock`
++ Restricted Infinity Express shop item Liquid Fuel
++ Restricted Ursa Miner shop item Copper Pickaxe
++ Restricted Ursa Miner shop item Silver Pickaxe
++ Restricted Ursa Miner shop item Gold Pickaxe
++ Restricted Ursa Miner shop item Copper Drill
++ Restricted Ursa Miner shop item Platinum Pickaxe
++ Restricted Ursa Miner shop item Silver Drill
++ Restricted Ursa Miner shop item Diamond Pickaxe
++ Restricted Ursa Miner shop item Gold Drill
++ Restricted Ursa Miner shop item Platinum Drill
++ Restricted Ursa Miner shop item Diamond Drill
++ Removed Ursa Miner shop item Platinum Bar
++ Sell rates reduced from 90% to 80% for Ursa Miner
++ Reverted price change for chocolate
++ Added crafting requirement SUGAR to chocolate
++ Moved shop item from Terramart to Hylotl Prize Counter - Parasol
++ Moved shop item from Terramart to Infinity Express - Green Flashlight
++ Moved shop item from Terramart to Infinity Express - Red Flashlight
++ Moved shop item from Terramart to Infinity Express - Yellow Flashlight
++ Added Kitchen Counter crafting for Soda
++ Added self learn on pickup for Soda

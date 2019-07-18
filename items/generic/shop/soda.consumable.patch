@@ -7,11 +7,11 @@
   {
     "op": "replace",
     "path": "/effects/0",
-    "value": [
-      {
-        "effect": "maxenergyscalingboostfood",
-        "duration": 3
-      }
-    ]
+    "value": [ { "effect": "maxenergyscalingboostfood", "duration": 3 } ]
+  },
+  {
+    "op": "add",
+    "path": "/learnBlueprintsOnPickup",
+    "value": [ "soda" ]
   }
 ]

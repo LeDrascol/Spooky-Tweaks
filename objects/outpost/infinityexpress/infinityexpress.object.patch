@@ -10,8 +10,9 @@
     "value": 0.8
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/5"
+    "op": "replace",
+    "path": "/interactData/items/5",
+    "value": { "item" : { "name" : "liquidfuel" }, "prerequisiteQuest" : "shopitemlock" }
   },
   {
     "op": "add",
@@ -32,6 +33,21 @@
     "op": "add",
     "path": "/interactData/items/-",
     "value": { "item": "cottonwool" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/1",
+    "value": { "item": "greenflashlight" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/2",
+    "value": { "item": "redflashlight" }
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/3",
+    "value": { "item": "yellowflashlight" }
   },
   {
     "op": "replace",

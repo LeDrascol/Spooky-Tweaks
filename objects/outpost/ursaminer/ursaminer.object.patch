@@ -12,39 +12,49 @@
   {
     "op": "replace",
     "path": "/interactData/sellFactor",
-    "value": 0.9
+    "value": 0.8
+  },
+  {
+    "op": "add",
+    "path": "/interactData/items/5/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
     "op": "remove",
     "path": "/interactData/items/6/prerequisiteQuest"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/7/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/7/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
     "op": "remove",
     "path": "/interactData/items/8/prerequisiteQuest"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/9/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/9/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/10/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/10/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
     "op": "remove",
     "path": "/interactData/items/11/prerequisiteQuest"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/12/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/12/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/13/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/13/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
     "op": "remove",
@@ -59,29 +69,28 @@
     "path": "/interactData/items/16/prerequisiteQuest"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/17/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/17/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/18/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/18/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
     "op": "remove",
     "path": "/interactData/items/19/prerequisiteQuest"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/20/prerequisiteQuest"
+    "op": "replace",
+    "path": "/interactData/items/20/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
-    "op": "remove",
-    "path": "/interactData/items/21/prerequisiteQuest"
-  },
-  {
-    "op": "add",
-    "path": "/interactData/items/-",
-    "value": { "item": { "name": "platinumbar" } }
+    "op": "replace",
+    "path": "/interactData/items/21/prerequisiteQuest",
+    "value": "shopitemlock"
   },
   {
     "op": "add",
@@ -91,6 +100,7 @@
   {
     "op": "add",
     "path": "/interactData/items/-",
-    "value": { "item": { "name": "plutoniumrod" } }
+    "value": { "item": { "name": "plutoniumrod" }
+    }
   }
 ]

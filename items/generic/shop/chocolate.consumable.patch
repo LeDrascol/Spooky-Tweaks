@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/price",
-    "value": 200
-  }
-]
