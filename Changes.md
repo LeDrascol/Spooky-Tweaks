@@ -1514,6 +1514,8 @@
 + Reduced time for ship arrival path from 2 to 1
 + Reduced time for bounty board fake loading from 1.5 to 0.5
 + Added Wiring Station crafting for Keypad
++ Changed alt ability type from spinslash to parry for Broken Broadsword
++ Updated description for Broken Broadsword with better wording
 + Renamed Stun Grenade to Time-Shock Grenade
 + Updated description for Stun Grenade to match the time aesthetic
 + Increased base damage from 6.25 to 7 for Neo Magnum

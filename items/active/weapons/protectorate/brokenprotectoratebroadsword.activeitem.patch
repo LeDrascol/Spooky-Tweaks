@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A finely crafted sword in poor condition. It can work as a shield in a pinch."
+  },
+  {
+    "op": "replace",
+    "path": "/altAbilityType",
+    "value": "parry"
+  }
+]
