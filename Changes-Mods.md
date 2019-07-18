@@ -91,6 +91,8 @@
 + Increased item level from 1 to 4 for Assault Field Emitter
 + Fixed category for Soldier's Field Emitter
 + Fixed category for Avali Pickaxe
++ Reduced beam level from 5 to 2 for Avali Utility light(s)
++ Reduced beam ambience from 0.5 to 0 for Avali Utility light(s)
 
 ### Enhanced Storage
 + Sell rates raised from 20% to 100% for Enhanced Storage shipments

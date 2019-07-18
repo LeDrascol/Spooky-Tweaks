@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "avaliutilitylight3"
+  },
+  {
+    "op": "replace",
+    "path": "/beamLevel",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/beamAmbience",
+    "value": 0.0
+  }
+]
