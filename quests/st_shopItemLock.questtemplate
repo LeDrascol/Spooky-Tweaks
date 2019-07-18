@@ -1,0 +1,15 @@
+{
+  "id" : "shopitemlock",
+  "title" : "^orange;Item Locking Queset",
+  "text" : "This is a placeholder quest to lock shop items from showing up. This method is used instead of removing them to avoid shuffling lists and causing incompatabilities",
+  "completionText" : "You monster, what have you done?!",
+  "moneyRange" : [0, 0],
+  "canBeAbandoned" : true,
+
+  "updateDelta" : 1000,
+  "script" : "/quests/scripts/main.lua",
+  "scriptConfig" : {
+    "portraits" : { "default" : "player" },
+    "conditions" : [ ]
+  }
+}

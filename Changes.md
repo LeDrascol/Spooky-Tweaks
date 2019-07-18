@@ -1606,3 +1606,4 @@
 + Price change from 0 PIXELS to 60000 PIXELS for Terraforge
 + Allowed 3D printing for Terraforge
 + Changed category from OTHER to DECORATIVE for Terraforge
++ Added new quest `shopitemlock`
