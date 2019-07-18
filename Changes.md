@@ -1628,3 +1628,9 @@
 + Moved shop item from Terramart to Infinity Express - Yellow Flashlight
 + Added Kitchen Counter crafting for Soda
 + Added self learn on pickup for Soda
++ Reduced fire time from 0.8 to 0.625 for Broken Broadsword
++ Changed primary ability type from Broadsword Combo to Shortsword Combo for Broken Broadsword
++ Changed animation type from Combo Broadsword to Combo Shortsword for Broken Broadsword
++ Changed category from broadsword to shortsword for Broken Broadsword
++ Price change from 500 PIXELS to 0 PIXELS for Broken Broadsword
++ Renamed Broken Broadsword to Broken Protector's Sword

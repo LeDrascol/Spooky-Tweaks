@@ -1,12 +1,52 @@
 [
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "A finely crafted sword in poor condition. It can work as a shield in a pinch."
-  },
-  {
-    "op": "replace",
-    "path": "/altAbilityType",
-    "value": "parry"
-  }
+  [
+    {
+      "op": "replace",
+      "path": "/shortdescription",
+      "value": "Broken Protector's Sword"
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "A finely crafted sword in poor condition. It can work as a shield in a pinch."
+    },
+    {
+      "op": "replace",
+      "path": "/price",
+      "value": 0
+    },
+    {
+      "op": "replace",
+      "path": "/primaryAbility/fireTime",
+      "value": 0.625
+    },
+    {
+      "op": "replace",
+      "path": "/altAbilityType",
+      "value": "parry"
+    }
+  ],
+  [
+    {
+      "op" : "test",
+      "path" : "/itemTags/3",
+      "value" : "upgradeableWeapon",
+      "inverse" : true
+    },
+    {
+      "op": "replace",
+      "path": "/category",
+      "value": "shortsword"
+    },
+    {
+      "op": "replace",
+      "path": "/primaryAbilityType",
+      "value": "shortswordcombo"
+    },
+    {
+      "op": "replace",
+      "path": "/animation",
+      "value": "/items/active/weapons/melee/shortsword/comboshortsword.animation"
+    }
+  ]
 ]
