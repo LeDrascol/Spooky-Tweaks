@@ -33,5 +33,15 @@
     "op": "replace",
     "path": "/miningtreasurelore/0/1/pool/5/item/1",
     "value": 3
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasure/0/1/pool/2/weight",
+    "value": 0
+  },
+  {
+    "op": "replace",
+    "path": "/miningtreasure/0/1/pool/3/weight",
+    "value": 0
   }
 ]

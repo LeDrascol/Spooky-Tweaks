@@ -1606,6 +1606,8 @@
 + Price change from 0 PIXELS to 60000 PIXELS for Terraforge
 + Allowed 3D printing for Terraforge
 + Changed category from OTHER to DECORATIVE for Terraforge
++ Removed loot chance from Lunar Mining Facility: Copper Pickaxe
++ Removed loot chance from Lunar Mining Facility: Silver Pickaxe
 + Added new quest `shopitemlock`
 + Restricted Infinity Express shop item Liquid Fuel
 + Restricted Ursa Miner shop item Copper Pickaxe
