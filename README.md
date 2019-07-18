@@ -188,6 +188,7 @@ The mods listed below are patched to use this mod's changes
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
+- [HD Pianos](https://steamcommunity.com/sharedfiles/filedetails/?id=893572258)
 
 The mods listed below add optional new APIs used by this mod
 - [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)

@@ -39,8 +39,9 @@
 + Added Familiar racial description to Avali Teleporter
 
 ### Instru+
-+ Changed hand-use to 1H for all 17 Instru+ instruments
-+ Reduced rarity rank from Legendary to Rare for all 17 Instru+ instruments
++ **For all 17 instruments:**
++ Changed hand-use to 1H
++ Reduced rarity rank from Legendary to Rare
 
 ## Update 6
 ### Many Frogs
@@ -97,3 +98,9 @@
 + Updated description for Terramart Shipments 2.0
 + Updated description for Enhanced Shipments
 + Updated description for Enhanced Shipments 2.0
+
+### HD Pianos
++ **For all 3 instruments:**
++ Changed hand-use to 1H
++ Increased rarity rank from Common to Rare
++ Price change from 100 PIXELS to 2000 PIXELS
