@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/groups/0",
+    "value": "craftinganvil2"
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "sa_instrument", "inst_instruplus" ]
+  }
+]

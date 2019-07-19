@@ -1643,3 +1643,11 @@
 + Increased mining radius from 2 to 3 for Platinum Drill
 + Increased mining radius from 2 to 3 for Diamond Drill
 + Updated description for Diamond Drill with accuracy
++ Added new GUI type `st_instrumentbuilder`
++ Added crafting category `sa_instrument`
++ Added crafting category `inst_vanilla`
++ Added crafting category `inst_instruplus`
++ Added crafting category `inst_misc`
++ Changed shop type from VENDINGMACHINE to `st_instrumentbuilder` for Chip Tunes
++ Price change from 2200 to 2000 for all 32 musical instruments
++ Added Chip Tunes crafting for all 32 instruments

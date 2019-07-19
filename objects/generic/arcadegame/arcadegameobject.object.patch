@@ -73,59 +73,21 @@
   {
     "op": "replace",
     "path": "/interactAction",
-    "value": "OpenMerchantInterface"
+    "value": "OpenCraftingInterface"
   },
   {
     "op": "replace",
     "path": "/interactData",
     "value": {
-      "config" : "/interface/windowconfig/vendingmachine.config",
-      "paneLayoutOverride": {
-        "windowtitle": {
-          "title": "Chip Tunes",
-          "subtitle": "Unlimited self-provided music",
-			"icon" : {
-			  "file" : "/interface/songbook/iconSongbook.png"
-			}
+      "config" : "/interface/windowconfig/sa_instrumentbuilder.config",
+      "paneLayoutOverride" : {
+        "windowtitle" : {
+          "title" : " Chip Tunes",
+          "subtitle" : " Unlimited self-provided music",
+          "icon" : { "file" : "/interface/songbook/iconSongbook.png" }
         }
       },
-      "buyFactor": 1,
-      "sellFactor": 0,
-      "items": [
-        { "item" : "accordion" },
-        { "item" : "acousticguitar" },
-        { "item" : "banjo" },
-        { "item" : "bassguitar" },
-        { "item" : "bones" },
-        { "item" : "brightpiano" },
-        { "item" : "clarinet" },
-        { "item" : "drumkit" },
-        { "item" : "dulcimer" },
-        { "item" : "electricbass" },
-        { "item" : "flute" },
-        { "item" : "harmonica" },
-        { "item" : "harp" },
-        { "item" : "keyboard" },
-        { "item" : "koto" },
-        { "item" : "leadguitar" },
-        { "item" : "microphone" },
-        { "item" : "microphonefem" },
-        { "item" : "musicbox" },
-        { "item" : "nylonguitar" },
-        { "item" : "oboe" },
-        { "item" : "ocarina" },
-        { "item" : "overdriveguitar" },
-        { "item" : "piano" },
-        { "item" : "reedorgan" },
-        { "item" : "rockorgan" },
-        { "item" : "saxophone" },
-        { "item" : "steeldrum" },
-        { "item" : "trumpet" },
-        { "item" : "violin" },
-        { "item" : "spaceorgan" },
-        { "item" : "squarewave" },
-        { "item" : "arcadegameobject" }
-      ]
+      "filter" : [ "sa_instrument" ]
     }
   },
   {
@@ -133,18 +95,13 @@
     "path": "/orientations/0",
     "value": {
       "image": "arcadegame.png:<color>.<frame>",
-      "imagePosition": [
-        -8,
-        0
-      ],
+      "imagePosition": [ -8, 0 ],
       "direction": "left",
       "flipImages": true,
       "frames": 2,
       "animationCycle": 0.6,
       "spaceScan": 0.1,
-      "anchors": [
-        "bottom"
-      ],
+      "anchors": [ "bottom" ],
       "collision": "platform"
     }
   },
@@ -153,17 +110,12 @@
     "path": "/orientations/1",
     "value": {
       "image": "arcadegame.png:<color>.<frame>",
-      "imagePosition": [
-        -8,
-        0
-      ],
+      "imagePosition": [ -8, 0 ],
       "direction": "right",
       "frames": 2,
       "animationCycle": 0.6,
       "spaceScan": 0.1,
-      "anchors": [
-        "bottom"
-      ],
+      "anchors": [ "bottom" ],
       "collision": "platform"
     }
   },

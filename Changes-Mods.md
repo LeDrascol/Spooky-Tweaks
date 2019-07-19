@@ -106,3 +106,7 @@
 + Changed hand-use to 1H
 + Increased rarity rank from Common to Rare
 + Price change from 100 PIXELS to 2000 PIXELS
++ Moved crafting from Spinning Wheel to Chip Tunes
+
+### Instru+
++ Moved crafting from Forge to Chip Tunes for all 17 instruments

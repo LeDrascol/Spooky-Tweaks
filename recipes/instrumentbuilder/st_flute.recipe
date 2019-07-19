@@ -1,0 +1,10 @@
+{
+  "input" : [
+    { "item" : "money", "count" : 2000 }
+  ],
+  "output" : {
+    "item" : "flute",
+    "count" : 1
+  },
+  "groups" : [ "sa_instrument", "inst_vanilla" ]
+}
