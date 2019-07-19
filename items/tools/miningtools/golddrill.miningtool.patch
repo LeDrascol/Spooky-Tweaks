@@ -23,5 +23,10 @@
 		"op": "add",
 		"path": "/builder",
 		"value": "/items/buildscripts/st_buildpickaxe.lua"
-	}
+	},
+  {
+    "op": "replace",
+    "path": "/blockRadius",
+    "value": 3
+  }
 ]

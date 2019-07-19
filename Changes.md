@@ -1636,3 +1636,10 @@
 + Changed category from broadsword to shortsword for Broken Broadsword
 + Price change from 500 PIXELS to 0 PIXELS for Broken Broadsword
 + Renamed Broken Broadsword to Broken Protector's Sword
++ Increased tile damage from 0.7 to 2.0 for Drill Mech Arm
++ Increased mining radius from 2 to 3 for Copper Drill
++ Increased mining radius from 2 to 3 for Silver Drill
++ Increased mining radius from 2 to 3 for Gold Drill
++ Increased mining radius from 2 to 3 for Platinum Drill
++ Increased mining radius from 2 to 3 for Diamond Drill
++ Updated description for Diamond Drill with accuracy

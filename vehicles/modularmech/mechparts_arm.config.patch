@@ -181,5 +181,10 @@
   {
     "op": "remove",
     "path": "/neolaser/animationCustom/sounds/<armName>Windup/0"
+  },
+  {
+    "op": "replace",
+    "path": "/drill/partParameters/tileDamage",
+    "value": 2
   }
 ]
