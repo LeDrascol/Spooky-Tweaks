@@ -83,6 +83,17 @@
 + Reduced beam level from 5 to 2 for Avali Utility light(s)
 + Reduced beam ambience from 0.5 to 0 for Avali Utility light(s)
 
+### Avali Modular Mech
++ Increased energy from 5 to 8 for MM4-AP Body
++ Increased protection from 7 to 8 for MM4-AP Body
++ Increased protection from 5 to 7 for MM4-N Body
++ Increased speed from 6 to 8 for MM4-AP Boosters
++ Increased speed from 5 to 7 for MM4-AN Boosters
++ Increased speed from 6 to 7 for MM4-A Legs
++ Increased control from 6 to 8 for MM4-AP Boosters
++ Increased jump from 6 to 7 for MM4-A Legs
++ Changed crafting for MM4-A Body to match vanilla cost
+
 ### Enhanced Storage
 + Sell rates raised from 20% to 100% for Enhanced Storage shipments
 + Updated description for Terramart Shipments
