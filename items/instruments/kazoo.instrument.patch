@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "kazoo"
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A favorite of kids everywhere."
+  }
+]

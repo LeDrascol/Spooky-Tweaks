@@ -1,0 +1,27 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "otamatoneblack"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 1500
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "Igor Bogdanoff's favorite instrument."
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

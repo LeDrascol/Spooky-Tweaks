@@ -110,3 +110,47 @@
 
 ### Instru+
 + Moved crafting from Forge to Chip Tunes for all 17 instruments
+
+### Dubstep Gun
++ Moved crafting from Accelerator Table to Chip Tunes for Dubstep Gun
+
+### Otamatone Instrument
++ **For all 5 instruments:**
++ Changed hand-use to 1H
++ Increased rarity rank from Common to Rare
++ Price change from 1 PIXELS to 1500 PIXELS
++ Updated description to reflect that it is NOT the best instrument
++ Moved crafting from Empty Hands to Chip Tunes
+
+### Chiptune Synthesizer
++ **For the one instrument:**
++ Changed hand-use to 1H
++ Increased rarity rank from Common to Rare
++ Price change from 5000 PIXELS to 2000 PIXELS
++ Reduced crafting cost from 5000 PIXELS to 2000 PIXELS
++ Moved crafting from Inventor's Table to Chip Tunes
++ Updated description to reflect that it's a better Square Wave
+
+### The Musical Frying Pan
++ **For the one instrument:**
++ Increased rarity rank from Common to Rare
++ Moved crafting from Anvil to Chip Tunes
+
+### Kazoo
++ **For the one instrument:**
++ Increased rarity rank from Common to Rare
++ Moved crafting from Empty Hands to Chip Tunes
++ Updated description to be less nonsensical
+
+### Bagpipe
++ **For the one instrument:**
++ Increased rarity rank from Common to Rare
++ Moved crafting from Empty Hands to Chip Tunes
++ Price change from 3000 PIXELS to 200 PIXELS
+
+### Steven's Ukelele
++ **For the one instrument:**
++ Increased rarity rank from Common to Rare
++ Moved crafting from Empty Hands to Chip Tunes
++ Price change from 360 PIXELS to 2000 PIXELS
++ Increased crafting cost from 100 PIXELS to 2000 PIXELS

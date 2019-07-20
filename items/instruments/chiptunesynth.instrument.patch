@@ -1,0 +1,27 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "chiptunesynth"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 2000
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  },
+  {
+    "op": "replace",
+    "path": "/description",
+    "value": "A high quality version of the classic Square Wave"
+  }
+]

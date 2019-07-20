@@ -187,9 +187,18 @@ This project is open source. You may create a modular fork if you only want a ce
 The mods listed below are patched to use this mod's balance
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
+- [Avali Modular Mech](https://steamcommunity.com/sharedfiles/filedetails/?id=950340366)
+
+The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
 - [HD Pianos](https://steamcommunity.com/sharedfiles/filedetails/?id=893572258)
-- [Avali Modular Mech](https://steamcommunity.com/sharedfiles/filedetails/?id=950340366)
+- [Dubstep Gun](https://steamcommunity.com/sharedfiles/filedetails/?id=1647512084)
+- [Otamatone Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=1534390516)
+- [Chiptune Synthesizer](https://steamcommunity.com/sharedfiles/filedetails/?id=1207308106)
+- [The Musical Frying Pan](https://steamcommunity.com/sharedfiles/filedetails/?id=1382195713)
+- [Kazoo](https://steamcommunity.com/sharedfiles/filedetails/?id=911689682)
+- [Bagpipe](https://steamcommunity.com/sharedfiles/filedetails/?id=880497316)
+- [Steven's Ukelele](https://steamcommunity.com/sharedfiles/filedetails/?id=756993265)
 
 The mods listed below add optional new APIs used by this mod
 - [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)
