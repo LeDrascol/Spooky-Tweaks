@@ -1024,8 +1024,7 @@
 + Reduced beam ambience from 0.4 to 0 for Yellow Flashlight
 + Reduced beam ambience from 0.2 to 0 for Scanning Mode
 + Changed hand-use to 1H for Scanning Mode
-
-
++ _Discontinue Patch 4.1 in favor of Update 5_
 + Increased durability from 750 to 1000 for Mining Laser
 + Reduced energy cost from 20 to 0 for Mining Laser
 + Price change from 1500 PIXELS to 800 PIXELS for Mining Laser

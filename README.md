@@ -11,12 +11,6 @@ This project is open source. You may create a modular fork if you only want a ce
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=737895230)
 - [Chucklefish Forums](https://community.playstarbound.com/resources/spooky-tweaks.3931/)
 - [Starbound Nexus](https://community.playstarbound.com/resources/spooky-tweaks.3931/) (Not Maintained)
-
-
-- Complete Changelist
-- Project Wiki
-
-
 - [Logo Artist](https://steamcommunity.com/id/EvKem)
 
 # Project Highlights
