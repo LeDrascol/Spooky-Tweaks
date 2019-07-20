@@ -1,0 +1,22 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "chem_clarinet"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 2000
+  },
+  {
+    "op": "replace",
+    "path": "/rarity",
+    "value": "Rare"
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]

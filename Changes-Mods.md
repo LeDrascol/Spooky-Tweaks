@@ -173,3 +173,19 @@
 + Changed hand-use to 1H for Glitch Explorer Pod
 + Changed hand-use to 1H for Hylotl Explorer Pod
 + Changed hand-use to 1H for Novakid Explorer Pod
+
+### Annoying Dog Instrument
++ **For the one instrument:**
++ Reduced rarity rank from Legendary to Rare
++ Moved crafting from Beakeasy to Chip Tunes
++ Price change from 1 PIXELS to 2000 PIXELS
++ Increased crafting cost from 1 PIXELS to 2000 PIXELS
++ Changed hand-use to 1H
+
+### Mighty Music Instruments
++ **For all 15 instruments:**
++ Changed hand-use to 1H
++ Changed crafting cost to 2000 PIXELS
++ Changed rarity rank to Rare
++ Moved crafting from Tabula Rasa to Chip Tunes
++ Price change to 2000 PIXELS

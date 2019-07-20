@@ -203,6 +203,8 @@ The mods listed below are music mods integrated into the Chip Tunes shop
 - [Kazoo](https://steamcommunity.com/sharedfiles/filedetails/?id=911689682)
 - [Bagpipe](https://steamcommunity.com/sharedfiles/filedetails/?id=880497316)
 - [Steven's Ukelele](https://steamcommunity.com/sharedfiles/filedetails/?id=756993265)
+- [Annoying Dog Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=733366979)
+- [Mighty Music Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=740921702)
 
 The mods listed below add optional new APIs used by this mod
 - [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)

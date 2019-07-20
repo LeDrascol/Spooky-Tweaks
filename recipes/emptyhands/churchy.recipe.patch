@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "churchy"
+  },
+  {
+    "op": "replace",
+    "path": "/groups",
+    "value": [ "sa_instrument", "inst_instruplus" ]
+  },
+  {
+    "op": "replace",
+    "path": "/input/0/count",
+    "value": 2000
+  }
+]
