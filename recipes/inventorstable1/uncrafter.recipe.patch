@@ -1,0 +1,23 @@
+[
+  {
+    "op": "test",
+    "path": "/output/item",
+    "value": "uncrafter"
+  },
+  {
+    "op": "replace",
+    "path": "/groups/0",
+    "value": "inventorstable3"
+  },
+  {
+    "op": "replace",
+    "path": "/input",
+    "value": [
+      { "item" : "durasteelbar", "count" : 10 },
+      { "item" : "silverbar", "count" : 5 },
+      { "item" : "siliconboard", "count" : 2 },
+      { "item" : "wire", "count" : 10 },
+      { "item" : "battery", "count" : 1 }
+    ]
+  }
+]

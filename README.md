@@ -190,6 +190,7 @@ The mods listed below are patched to use this mod's balance
 - [Avali Modular Mech](https://steamcommunity.com/sharedfiles/filedetails/?id=950340366)
 - [Enhanced Storage](https://steamcommunity.com/workshop/filedetails/?id=731220462)
 - [Restored Staves](https://steamcommunity.com/sharedfiles/filedetails/?id=1597203850)
+- [Universal Uncrafter](https://steamcommunity.com/sharedfiles/filedetails/?id=729532886)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

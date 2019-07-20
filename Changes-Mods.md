@@ -154,3 +154,8 @@
 + Moved crafting from Empty Hands to Chip Tunes
 + Price change from 360 PIXELS to 2000 PIXELS
 + Increased crafting cost from 100 PIXELS to 2000 PIXELS
+
+### Universal Uncrafter
++ **For the Universal Uncrafter:**
++ Moved crafting from Inventor's Table to Architect's Table
++ Changed crafting to match Wiring Station
