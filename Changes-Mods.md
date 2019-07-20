@@ -147,6 +147,7 @@
 + Increased rarity rank from Common to Rare
 + Moved crafting from Empty Hands to Chip Tunes
 + Price change from 3000 PIXELS to 200 PIXELS
++ Changed hand-use to 1H
 
 ### Steven's Ukelele
 + **For the one instrument:**
@@ -154,8 +155,21 @@
 + Moved crafting from Empty Hands to Chip Tunes
 + Price change from 360 PIXELS to 2000 PIXELS
 + Increased crafting cost from 100 PIXELS to 2000 PIXELS
++ Changed hand-use to 1H
 
 ### Universal Uncrafter
 + **For the Universal Uncrafter:**
 + Moved crafting from Inventor's Table to Architect's Table
 + Changed crafting to match Wiring Station
+
+### Explorerpod
++ Price change from 35000 PIXELS to 30000 PIXELS for Explorer Pod
++ Price change from 38000 PIXELS to 30000 PIXELS for Avian Explorer Pod
++ Price change from 38000 PIXELS to 30000 PIXELS for Glitch Explorer Pod
++ Price change from 40000 PIXELS to 30000 PIXELS for Hylotl Explorer Pod
++ Price change from 40000 PIXELS to 30000 PIXELS for Novakid Explorer Pod
++ Changed hand-use to 1H for Explorer Pod
++ Changed hand-use to 1H Avian Explorer Pod
++ Changed hand-use to 1H for Glitch Explorer Pod
++ Changed hand-use to 1H for Hylotl Explorer Pod
++ Changed hand-use to 1H for Novakid Explorer Pod

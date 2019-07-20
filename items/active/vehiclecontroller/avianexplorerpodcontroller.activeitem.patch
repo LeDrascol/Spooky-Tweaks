@@ -1,0 +1,17 @@
+[
+  {
+    "op": "test",
+    "path": "/itemName",
+    "value": "avianexplorerpodcontroller"
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 30000
+  },
+  {
+    "op": "replace",
+    "path": "/twoHanded",
+    "value": false
+  }
+]
