@@ -207,3 +207,25 @@
 + Renamed from Erchius Radiation Shield to Spookproof Augment
 + Updated description to match mod spookiness
 + Crafting moved from Anvil to Research Station
+
+### Expanded Magnorbs
++ Removed secondary ability energy cost for Durable Magnorbs
++ Removed secondary ability energy cost for Makeshift Magnorbs
++ Removed secondary ability energy cost for Shiny Magnorbs
++ Removed secondary ability energy cost for Sturdy Magnorbs
++ Removed secondary ability energy cost for High-Count Magnorbs
++ Removed secondary ability energy cost for High-Speed Magnorbs
++ Removed secondary ability energy cost for High-Velocity Magnorbs
++ Removed secondary ability energy cost for Long Range Magnorbs
++ Removed secondary ability energy cost for Multiple Magnorbs
++ Removed secondary ability energy cost for Shredding Magnorbs
++ Removed secondary ability energy cost for Solarium Bracer
++ Removed secondary ability energy cost for Chilled Magnorbs
++ Removed secondary ability energy cost for Electrified Magnorbs
++ Removed secondary ability energy cost for Heated Magnorbs
++ Removed secondary ability energy cost for Poisoned Magnorbs
++ Removed secondary ability energy cost for Unstable Magnorbs
++ Removed secondary ability energy cost for Magnorbs
++ Changed tooltip type from VANILLAMAGNORB to MAGNORB for Magnorbs
++ Fixed missing attributes for Magnorbs
++ Reduced secondary strength from UNKNOWN to 130 for Magnorbs

@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/category",
+    "value": "magnorb"
+  },
+  {
+    "op": "replace",
+    "path": "/shieldEnergyCost",
+    "value": 0
+  }
+]
