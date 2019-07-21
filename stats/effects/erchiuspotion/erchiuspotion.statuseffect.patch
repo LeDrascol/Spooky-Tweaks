@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "path": "/name",
+    "value": "erchiuspotion"
+  },
+  {
+    "op": "replace",
+    "path": "/label",
+    "value": "Spook Resistance"
+  }
+]

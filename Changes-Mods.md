@@ -189,3 +189,13 @@
 + Changed rarity rank to Rare
 + Moved crafting from Tabula Rasa to Chip Tunes
 + Price change to 2000 PIXELS
+
+### The Erchius EPP
++ Renamed status effect Erchius Resistance to Spook Resistance
++ Reduced effect duration from 666 to 180 for Purple Stim Pack
++ Reduced rarity rank from Essential to Uncommon for Erchius EPP (basic)
++ Updated description for Erchius EPP (basic)
++ Renamed Erchius EPP (basic) to 'EPP - Pheochromocytoma'
++ Removed crafting for Erchius EPP (advanced)
++ Changed crafting for Erchius EPP (basic) to use more thematic materials
++ Fixed status effects for Erchius EPP (basic)
