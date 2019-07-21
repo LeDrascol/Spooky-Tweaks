@@ -199,3 +199,11 @@
 + Removed crafting for Erchius EPP (advanced)
 + Changed crafting for Erchius EPP (basic) to use more thematic materials
 + Fixed status effects for Erchius EPP (basic)
+
+### No Ghost Augment
++ Updated radio message to match mod changes
++ **For the one augment:**
++ Price change from 10000 PIXELS to 1000 PIXELS
++ Renamed from Erchius Radiation Shield to Spookproof Augment
++ Updated description to match mod spookiness
++ Crafting moved from Anvil to Research Station

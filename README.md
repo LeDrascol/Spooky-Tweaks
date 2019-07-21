@@ -187,6 +187,7 @@ The mods listed below are patched to use this mod's balance
 - [Universal Uncrafter](https://steamcommunity.com/sharedfiles/filedetails/?id=729532886)
 - [Explorerpod](https://steamcommunity.com/sharedfiles/filedetails/?id=738601381)
 - [The Erchius EPP](https://steamcommunity.com/sharedfiles/filedetails/?id=777298973)
+- [No Ghost Augment](https://steamcommunity.com/sharedfiles/filedetails/?id=948495958)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
