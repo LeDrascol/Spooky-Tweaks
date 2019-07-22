@@ -1650,3 +1650,14 @@
 + Changed shop type from VENDINGMACHINE to `st_instrumentbuilder` for Chip Tunes
 + Price change from 2200 to 2000 for all 32 musical instruments
 + Added Chip Tunes crafting for all 32 instruments
++ Changed category from Junk to Crafting Material for Platinum Ore
++ Added item tag REAGENT to Platinum Ore
++ Added SAIL pickup radio message for Platinum Ore
++ Added SAIL pickup radio message for Sulphur
++ Added SAIL pickup radio message for Lead
++ Price change from 0 PIXELS TO 20 PIXELS for Platinum Ore
++ Price change from 0 PIXELS TO 20 PIXELS for Sulphur
++ Price change from 0 PIXELS TO 20 PIXELS for Lead
++ Added Atomic Furnace crafting for Plutonium Rod
++ Added Atomic Furnace crafting for Uranium Rod
++ Added learn on pickup for Uranium Rod to Uranium Ore

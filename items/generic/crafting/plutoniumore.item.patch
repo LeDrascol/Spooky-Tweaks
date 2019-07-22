@@ -7,8 +7,11 @@
   {
     "op": "add",
     "path": "/itemTags",
-    "value": [
-      "reagent"
-    ]
-  }
+    "value": [ "reagent" ]
+  },
+  {
+  "op": "add",
+  "path": "/learnBlueprintsOnPickup",
+  "value": [ "plutoniumrod" ]
+}
 ]

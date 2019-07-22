@@ -1,0 +1,22 @@
+[
+  {
+    "op": "add",
+    "path": "/itemTags",
+    "value": [ "reagent" ]
+  },
+  {
+    "op": "add",
+    "path": "/radioMessagesOnPickup",
+    "value": [ "pickupore" ]
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 20
+  },
+  {
+    "op": "replace",
+    "path": "/category",
+    "value": "craftingMaterial"
+  }
+]
