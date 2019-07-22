@@ -189,6 +189,7 @@ The mods listed below are patched to use this mod's balance
 - [The Erchius EPP](https://steamcommunity.com/sharedfiles/filedetails/?id=777298973)
 - [No Ghost Augment](https://steamcommunity.com/sharedfiles/filedetails/?id=948495958)
 - [Expanded Magnorbs](https://steamcommunity.com/sharedfiles/filedetails/?id=746884345)
+- [EE for Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104)
 
 The mods listed below are music mods integrated into the Chip Tunes shop
 - [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)

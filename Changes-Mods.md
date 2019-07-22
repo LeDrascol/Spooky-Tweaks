@@ -100,6 +100,8 @@
 + Updated description for Terramart Shipments 2.0
 + Updated description for Enhanced Shipments
 + Updated description for Enhanced Shipments 2.0
++ Price change from 0 PIXELS to 20 PIXELS for Storage Matter
++ Price change from 0 PIXELS to 2 PIXELS for Storage Matter Fragment
 
 ### HD Pianos
 + **For all 3 instruments:**
@@ -229,3 +231,15 @@
 + Changed tooltip type from VANILLAMAGNORB to MAGNORB for Magnorbs
 + Fixed missing attributes for Magnorbs
 + Reduced secondary strength from UNKNOWN to 130 for Magnorbs
+
+### EE for Starbound
++ Added T1 Mine transmutation for Lead
++ Added T1 Mine transmutation for Sulphur
++ Added T2 Mine transmutation for Storage Matter
++ Added T2 Mine transmutation for Storage Matter Fragment
++ Added T2 Mine transmutation for Uranium Ore
++ Added T2 Mine transmutation for Plutonium Ore
++ Added T2 Mine transmutation for Moonstone Ore
++ Added T2 Mine transmutation for Trianglium Ore
++ Added T2 Mine transmutation for Platinum Ore
++ Added T3 Mine transmutation for Prism Shard
