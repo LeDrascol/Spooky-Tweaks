@@ -49,14 +49,21 @@ This project is open source. You may create a modular fork if you only want a ce
 - All instruments are now slightly cheaper and psychic (playing multiple at once will overload your brain)
 - New racial descriptions as part of Spooky Tweaks' gradual usurping of the lore
 - Teleporters are now platforms that can be walked past
-
-**Latest Update**
 - Items with no interaction or placement ability moved to materials tab
 - Glow effects reworked for better ambient lighting
 - Learn any race's flag by picking it up
 - Flashlight beams are almost identical to the scanner's light
-- A lot of 'spooky' things are more serious again
-- Major cross-mod compatibility pass
+
+**Latest Update**
+- Racial bonuses for Avian, Human, Familiar, Glitch, and Hylotl
+- Splash screen is back, but silent and won't interrupt loading
+- Human codexes follow the mod's lore tweaks
+- Uncensored names for breakable alcohol bottles
+- Tents block hunger just like beds
+- New tooltip information to show mining speeds for tools
+- Jump height increased to between that of release and beta
+- Teleportation only takes 0.2 seconds, with no fake loading times
+- No fake loading time for the Bounty Board
 
 ## Economy
 - New Shop: Chip Tunes - Selling all vanilla musical instruments (replaces Mazebound64)
@@ -83,8 +90,6 @@ This project is open source. You may create a modular fork if you only want a ce
 - Terramart Shipments buys items for their full value (Even with Enhanced Storage)
 - Terramart Shipments accept all mining materials
 - Lana's supply business has improved to compete with augment crafting
-
-**Latest Update**
 - Vending machines don't buy things from you
 - Peacekeeper shop items moved to places that make more sense
 - Fake ship licenses are 50% more expensive
@@ -93,6 +98,15 @@ This project is open source. You may create a modular fork if you only want a ce
 - Teleporters require cores AND relevant materials
 - Five new otherwise unobtainable sets in Frogg Furnishings
 - 49 more unused items sold at the outpost
+
+**Latest Update**
+- Beakeasy is an actual drinks serving bar
+- Hyltol prize counter joins the outpost, with 70+ new categorized items
+- Terramart sells the Relocator
+- Penguin weapon shop sells Neo weapons
+- Ancient items move to the Terraforge instead of Treasured Trophies
+- New safer method to remove shop items
+- Overhaul to Chip Tunes with tabs and mod support
 
 ## Tech
 - Tech descriptions are more helpful
@@ -108,10 +122,11 @@ This project is open source. You may create a modular fork if you only want a ce
 - Aqua Sphere can move freely in water instead of on top as a boat
 - Blink dash can blink further, in mid-air, and without landing
 - Wall jumping refreshes it's double jump ability
+- Spike Sphere seriously for real this time won't fall off things
+- Tech missions require tech cards instead of ingots
 
 **Latest Update**
-- Spike Sphere seriously for real this time won't fall off things
-- Tech missions have more reasonable requirements
+- Fixes and cleanup for sphere tech
 
 ## Balance
 - All staves and wands charge significantly faster
@@ -121,7 +136,7 @@ This project is open source. You may create a modular fork if you only want a ce
 - Challenge doors stay around twice as long (Reduced in Update 2)
 - Teleporters are not destroyed when broken
 - Tech consoles are not destroyed when broken
-- Money loss removed for casual and reduced for survival
+- Money loss removed for casual
 - Value, speed, and power of unique weapons raised to be more worthwhile
 - Creatures can be attacked while frozen in time
 - Racial storage lockers hold 64 items instead of 48
@@ -151,16 +166,19 @@ This project is open source. You may create a modular fork if you only want a ce
 - Ship lights are harder to accidentally break
 - Drill Spear mobility buffed for maximum heavens piercing potential
 - Mech arm attachments reworked for usability
-
-**Latest Update**
 - Higher tier mech bodies are more energy efficient
 - Ship lockers make food rot 80% slower
+
+**Latest Update**
+- No dropping items on death in Survival mode, but money drop restored to 30%
+- Mining tools don't use durability, and drills mine in a 3x3 area
+- Adaptable crossbow requires less energy to fire
+- Broken Broadsword attacks faster and provides a defensive ability
 
 ## Crafting
 - Augments can be crafted at the Research Station, and specify their exact functions
 - Restored crafting for disabled items such as Perfect Armor, Tall Chair, and Valentines Heart Forge
-- Ancient themed items can be 3D printed
-- Vending machines can be 3D printed
+- 3D printing for ancient themed items and vending machines
 
 **Updates**
 - Energy pickaxe is craftable and slightly improved
@@ -170,14 +188,39 @@ This project is open source. You may create a modular fork if you only want a ce
 - Restored crafting for Toymaker's Table and glow grenades
 - More Protectorate items at the Industrial Workbench
 - Boss doors are now printable for all your one-way needs
-
-**Latest Update**
 - The orange stimpack returns
 - Mining tools can be made at an Agricultural Station
 - 62 more unused items made craftable
 - Stimpacks moved from the Medical Station to the Apothecary
 
-## Official Integration
+**Latest Update**
+- Water coolers dispense water into empty bottles
+- Pickaxes must be crafted, rather than found as loot or purchased
+- All Campfire crafting is accessible from the Kitchen Counter
+- Components are craftable in the tier two furnace, including RAM
+- Many improvements to learn on pickup
+- Soda is craftable like other foods
+
+## Mod Changes
+**General**
+- Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
+- Themed alternative items match vanilla tweaks (ex Avali Flashlight)
+- Crafting stations moved to different tiers of the inventors table
+- Teleporters are platforms, and can be recovered when broken
+- Moon related things are just as spooky
+- Staves and wands take 0.6s to charge
+
+**Mod Specific**
+- Magnorb shields have no energy cost when using Expanded Magnorbs
+- Endgame Avali items are more powerful than vanilla items
+- All in one Erchius EPP can't be crafted due to being OP
+- No Ghost Augment is worth less to prevent money exploits
+- Explorepods are sold for 30,000 pixels
+- Purple Stim Pack only lasts for 180s
+- Shipments always sell for 100%
+- Transmutation tables support unused ore items
+
+# Official Integration
 The mods listed below are patched to use this mod's balance
 - [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
 - [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
