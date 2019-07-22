@@ -1,83 +1,52 @@
 [
-  [
-    {
-      "op": "replace",
-      "path": "/skull/stats/protection",
-      "value": 6
-    },
-    {
-      "op": "replace",
-      "path": "/shark/stats/energy",
-      "value": 7
-    },
-    {
-      "op": "replace",
-      "path": "/shark/stats/protection",
-      "value": 7
-    },
-    {
-      "op": "replace",
-      "path": "/exodus/stats/energy",
-      "value": 6
-    },
-    {
-      "op": "replace",
-      "path": "/iris/stats/protection",
-      "value": 6
-    },
-    {
-      "op": "replace",
-      "path": "/cultist2/stats/energy",
-      "value": 7
-    },
-    {
-      "op": "replace",
-      "path": "/protector/stats/energy",
-      "value": 7
-    },
-    {
-      "op": "replace",
-      "path": "/protector/stats/protection",
-      "value": 7
-    },
-    {
-      "op": "replace",
-      "path": "/peacekeeper/stats/energy",
-      "value": 7
-    },
-    {
-      "op": "replace",
-      "path": "/peacekeeper/stats/protection",
-      "value": 7
-    }
-  ],
-  [
-    {
-      "op": "test",
-      "path": "/mechbodynaeroap/stats/energy",
-      "value": 5
-    },
-    {
-      "op": "replace",
-      "path": "/mechbodynaeroap/stats/protection",
-      "value": 8
-    },
-    {
-      "op": "replace",
-      "path": "/mechbodynaeroap/stats/energy",
-      "value": 8
-    }
-  ],
-  [
-    {
-      "op": "test",
-      "path": "/mechbodynaeroan/stats/protection",
-      "value": 5
-    },
-    {
-      "op": "replace",
-      "path": "/mechbodynaeroan/stats/protection",
-      "value": 7
-    }
-  ]
+  {
+    "op": "replace",
+    "path": "/skull/stats/protection",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/shark/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/shark/stats/protection",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/exodus/stats/energy",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/iris/stats/protection",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/cultist2/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/protector/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/protector/stats/protection",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/peacekeeper/stats/energy",
+    "value": 7
+  },
+  {
+    "op": "replace",
+    "path": "/peacekeeper/stats/protection",
+    "value": 7
+  }
 ]

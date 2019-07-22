@@ -5,15 +5,5 @@
   "priority" : 1,
   "steamContentId" : "737895230",
   "tags" : "Crafting and Building|Miscellaneous|NPCs and Creatures|Weapons|Quests|User Interface|Furniture and Objects|Mechanics",
-  "version" : "1.6",
-  "includes" : [
-    "Avali", "Familiars", "mechavali",
-    "Enhanced Storage", "az-restoredstaves",
-    "Universal Uncrafter v1.46", "Explorerpod",
-    "The Erchius EPP", "GhostBlocker", "InstruPlus",
-    "hdpianos", "Dubstep Gun", "Otamatone Instrument",
-    "Chiptune Synthesizer", "The Musical Frying Pan", "Kazoo",
-    "Bagpipe", "Steven's Ukelele", "Annoying dog instrument",
-    "Mighty Music Instruments!", "az-expandedmagnorbs"
-    ]
+  "version" : "1.6"
 }

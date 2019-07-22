@@ -6,6 +6,9 @@ This mod adds no __new__ save-altering content! You can add and remove it at any
 
 This project is open source. You may create a modular fork if you only want a certain feature or small set of features. It would be appreciated if these are called 'Spooky Modules', but you have the freedom to do what you'd prefer.
 
+### Addons
+- [Spooky Integrations](https://github.com/LeDrascol/Spooky-Integrations)
+- Spooky Additions (Unreleased)
 
 ### Project Links
 - [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=737895230)
@@ -221,32 +224,6 @@ This project is open source. You may create a modular fork if you only want a ce
 - Transmutation tables support unused ore items
 
 # Official Integration
-The mods listed below are patched to use this mod's balance
-- [Avali (Triage) Race](https://steamcommunity.com/workshop/filedetails/?id=729558042)
-- [Familiars Race](https://steamcommunity.com/sharedfiles/filedetails/?id=729597107)
-- [Avali Modular Mech](https://steamcommunity.com/sharedfiles/filedetails/?id=950340366)
-- [Enhanced Storage](https://steamcommunity.com/workshop/filedetails/?id=731220462)
-- [Restored Staves](https://steamcommunity.com/sharedfiles/filedetails/?id=1597203850)
-- [Universal Uncrafter](https://steamcommunity.com/sharedfiles/filedetails/?id=729532886)
-- [Explorerpod](https://steamcommunity.com/sharedfiles/filedetails/?id=738601381)
-- [The Erchius EPP](https://steamcommunity.com/sharedfiles/filedetails/?id=777298973)
-- [No Ghost Augment](https://steamcommunity.com/sharedfiles/filedetails/?id=948495958)
-- [Expanded Magnorbs](https://steamcommunity.com/sharedfiles/filedetails/?id=746884345)
-- [EE for Starbound](https://steamcommunity.com/sharedfiles/filedetails/?id=1790667104)
-
-The mods listed below are music mods integrated into the Chip Tunes shop
-- [Instru+](https://steamcommunity.com/sharedfiles/filedetails/?id=1522930020)
-- [HD Pianos](https://steamcommunity.com/sharedfiles/filedetails/?id=893572258)
-- [Dubstep Gun](https://steamcommunity.com/sharedfiles/filedetails/?id=1647512084)
-- [Otamatone Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=1534390516)
-- [Chiptune Synthesizer](https://steamcommunity.com/sharedfiles/filedetails/?id=1207308106)
-- [The Musical Frying Pan](https://steamcommunity.com/sharedfiles/filedetails/?id=1382195713)
-- [Kazoo](https://steamcommunity.com/sharedfiles/filedetails/?id=911689682)
-- [Bagpipe](https://steamcommunity.com/sharedfiles/filedetails/?id=880497316)
-- [Steven's Ukelele](https://steamcommunity.com/sharedfiles/filedetails/?id=756993265)
-- [Annoying Dog Instrument](https://steamcommunity.com/sharedfiles/filedetails/?id=733366979)
-- [Mighty Music Instruments](https://steamcommunity.com/sharedfiles/filedetails/?id=740921702)
-
 The mods listed below add optional new APIs used by this mod
 - [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)
 - [The Tabula Rasa](https://steamcommunity.com/sharedfiles/filedetails/?id=737353165)

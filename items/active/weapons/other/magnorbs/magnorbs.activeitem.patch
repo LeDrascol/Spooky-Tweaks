@@ -1,56 +1,17 @@
 [
-  [
-    {
-      "op": "replace",
-      "path": "/projectileParameters/power",
-      "value": 3.25
-    },
-    {
-      "op": "replace",
-      "path": "/shieldEnergyCost",
-      "value": 20
-    },
-    {
-      "op": "replace",
-      "path": "/price",
-      "value": 9000
-    }
-  ],
-  [
-    {
-      "op": "test",
-      "path": "/tooltipKind",
-      "value": "vanillamagnorb"
-    },
-    {
-      "op": "add",
-      "path": "/builder",
-      "value": "/scripts/buildnorb.lua"
-    },
-    {
-      "op": "add",
-      "path": "/orbTotal",
-      "value": 3
-    },
-    {
-      "op": "add",
-      "path": "/shieldHealth",
-      "value": 130
-    },
-    {
-      "op": "replace",
-      "path": "/tooltipKind",
-      "value": "magnorb"
-    },
-    {
-      "op": "replace",
-      "path": "/scripts/0",
-      "value": "/scripts/dynamicnorb.lua"
-    },
-    {
-      "op": "replace",
-      "path": "/shieldEnergyCost",
-      "value": 0
-    }
-  ]
+  {
+    "op": "replace",
+    "path": "/projectileParameters/power",
+    "value": 3.25
+  },
+  {
+    "op": "replace",
+    "path": "/shieldEnergyCost",
+    "value": 20
+  },
+  {
+    "op": "replace",
+    "path": "/price",
+    "value": 9000
+  }
 ]
