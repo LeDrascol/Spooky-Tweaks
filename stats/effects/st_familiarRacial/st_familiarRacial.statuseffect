@@ -1,9 +1,0 @@
-{
-  "name" : "st_familiarRacial",
-  "effectConfig" : {},
-  "defaultDuration" : 1.0,
-
-  "scripts" : [
-    "st_familiarRacial.lua"
-  ]
-}
