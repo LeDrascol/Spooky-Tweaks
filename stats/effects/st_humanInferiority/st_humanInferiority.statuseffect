@@ -1,6 +1,12 @@
 {
   "name" : "st_humanInferiority",
-  "effectConfig" : {},
+
+  "effectConfig" : {
+    "multFalling": 10,
+    "multAttack": 1.3,
+    "statHealth": 0.7,
+    "statEnergy": 0.7
+  },
   "defaultDuration" : 1.0,
 
   "scripts" : [

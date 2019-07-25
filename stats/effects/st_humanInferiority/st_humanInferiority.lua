@@ -1,13 +1,15 @@
 function init()
-  -- Increase falls
-  effect.addStatModifierGroup( { {stat = "fallDamageMultiplier", effectiveMultiplier = 10 } } )
 
-  -- Reduce health by 30%
-  effect.addStatModifierGroup( { {stat = "maxHealth", effectiveMultiplier = 0.7 } } )
+  -- Get configuration settings
+  multFalling = config.getParameter("multFalling", 1)
+  multAttack = config.getParameter("multAttack", 1)
+  statHealth = config.getParameter("statHealth", 1)
+  statEnergy = config.getParameter("statEnergy", 1)
 
-  -- Reduce energy by 30%
-  effect.addStatModifierGroup( { {stat = "maxEnergy", effectiveMultiplier = 0.7 } } )
+  -- Set penalties based on config values
+  effect.addStatModifierGroup( { {stat = "fallDamageMultiplier", effectiveMultiplier = multFalling } } )
+  effect.addStatModifierGroup( { {stat = "powerMultiplier", effectiveMultiplier = multAttack } } )
+  effect.addStatModifierGroup( { {stat = "maxHealth", effectiveMultiplier = statHealth } } )
+  effect.addStatModifierGroup( { {stat = "maxEnergy", effectiveMultiplier = statEnergy } } )
 
-  -- Increase damage by 30%
-  effect.addStatModifierGroup( { {stat = "powerMultiplier", effectiveMultiplier = 1.3 } } )
 end

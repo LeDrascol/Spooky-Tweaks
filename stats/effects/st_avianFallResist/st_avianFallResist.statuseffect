@@ -1,9 +1,8 @@
 {
   "name" : "st_avianFallResist",
-  "effectConfig" : {},
+
+  "effectConfig" : { "multFalling": 0.25 },
   "defaultDuration" : 1.0,
 
-  "scripts" : [
-    "st_avianFallResist.lua"
-  ]
+  "scripts" : [ "st_avianFallResist.lua" ]
 }

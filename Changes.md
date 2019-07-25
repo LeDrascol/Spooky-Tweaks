@@ -1661,3 +1661,7 @@
 + Added Atomic Furnace crafting for Plutonium Rod
 + Added Atomic Furnace crafting for Uranium Rod
 + Added learn on pickup for Uranium Rod to Uranium Ore
++ Added configuration support for script for `st_avianFallResist`
++ Added configuration support for script for `st_humanInferiority`
++ Added effect configuration for `st_avianFallResist`
++ Added effect configuration for `st_humanInferiority`
