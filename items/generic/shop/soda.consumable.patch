@@ -1,17 +1,27 @@
 [
-  {
-    "op": "replace",
-    "path": "/description",
-    "value": "Slowly killing yourself from the inside has never tasted so good! You'd better drink a lot to keep feeling the high."
-  },
-  {
-    "op": "replace",
-    "path": "/effects/0",
-    "value": [ { "effect": "maxenergyscalingboostfood", "duration": 3 } ]
-  },
-  {
-    "op": "add",
-    "path": "/learnBlueprintsOnPickup",
-    "value": [ "soda" ]
-  }
+  [
+    {
+      "op": "test",
+      "path": "/description",
+      "value": "A refreshing can of soda full of exploitation.",
+      "inverse": true
+    },
+    {
+      "op": "replace",
+      "path": "/description",
+      "value": "Slowly killing yourself from the inside has never tasted so good! You'd better drink a lot to keep feeling the high."
+    }
+  ],
+  [
+    {
+      "op": "replace",
+      "path": "/effects/0",
+      "value": [ { "effect": "maxenergyscalingboostfood", "duration": 3 } ]
+    },
+    {
+      "op": "add",
+      "path": "/learnBlueprintsOnPickup",
+      "value": [ "soda" ]
+    }
+  ]
 ]

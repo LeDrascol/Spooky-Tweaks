@@ -1668,3 +1668,4 @@
 + Updated descriptions of all seven fuel hatches to use broader definitions of fuel
 + Updated subtitle for Research Station to indicate it crafts augments
 + Updated racial descriptions for Research Station to indicate it crafts augments
++ Added compatibility check for Summer Sale Soda Mod
