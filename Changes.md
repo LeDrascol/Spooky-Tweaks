@@ -1665,3 +1665,6 @@
 + Added configuration support for script for `st_humanInferiority`
 + Added effect configuration for `st_avianFallResist`
 + Added effect configuration for `st_humanInferiority`
++ Updated descriptions of all seven fuel hatches to use broader definitions of fuel
++ Updated subtitle for Research Station to indicate it crafts augments
++ Updated racial descriptions for Research Station to indicate it crafts augments

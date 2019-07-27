@@ -7,21 +7,21 @@
   {
     "op": "replace",
     "path": "/interactData/paneLayoutOverride/windowtitle/subtitle",
-    "value": " Develop specialized technologies"
+    "value": " Develop specialized augmentations"
   },
   {
     "op": "replace",
     "path": "/apexDescription",
-    "value": "I can create specialized stations and devices with this."
+    "value": "I can create augment chips with this."
   },
   {
     "op": "replace",
     "path": "/humanDescription",
-    "value": "I can craft specialized items here!"
+    "value": "I can craft augments here!"
   },
   {
     "op": "replace",
     "path": "/novakidDescription",
-    "value": "I can create all kinda specialized things here!"
+    "value": "I can create all kinda augments here!"
   }
 ]
