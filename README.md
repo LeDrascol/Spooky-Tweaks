@@ -204,25 +204,6 @@ This project is open source. You may create a modular fork if you only want a ce
 - Many improvements to learn on pickup
 - Soda is craftable like other foods
 
-## Mod Changes
-**General**
-- Instruments are one handed, rare, worth 2000 pixels, and sold by Chip Tunes
-- Themed alternative items match vanilla tweaks (ex Avali Flashlight)
-- Crafting stations moved to different tiers of the inventors table
-- Teleporters are platforms, and can be recovered when broken
-- Moon related things are just as spooky
-- Staves and wands take 0.6s to charge
-
-**Mod Specific**
-- Magnorb shields have no energy cost when using Expanded Magnorbs
-- Endgame Avali items are more powerful than vanilla items
-- All in one Erchius EPP can't be crafted due to being OP
-- No Ghost Augment is worth less to prevent money exploits
-- Explorepods are sold for 30,000 pixels
-- Purple Stim Pack only lasts for 180s
-- Shipments always sell for 100%
-- Transmutation tables support unused ore items
-
 # Official Integration
 The mods listed below add optional new APIs used by this mod
 - [Many Frogs](https://steamcommunity.com/sharedfiles/filedetails/?id=1111078158)
