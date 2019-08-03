@@ -1673,3 +1673,8 @@
 ## Patch 6.1
 + Added debug macro `unlocktech` - Unlocks all vanilla tech
 + Reverted level for Soulseeker
++ Reverted durability for Copper Pickaxe
++ Reverted durability for Diamond Pickaxe
++ Reverted durability for Gold Pickaxe
++ Reverted durability for Platinum Pickaxe
++ Reverted durability for Silver Pickaxe
