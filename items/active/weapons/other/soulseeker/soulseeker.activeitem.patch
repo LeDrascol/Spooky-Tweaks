@@ -1,11 +1,6 @@
 [
   {
     "op": "replace",
-    "path": "/level",
-    "value": 6
-  },
-  {
-    "op": "replace",
     "path": "/price",
     "value": 4600
   },

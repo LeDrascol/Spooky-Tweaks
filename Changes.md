@@ -1669,3 +1669,6 @@
 + Updated subtitle for Research Station to indicate it crafts augments
 + Updated racial descriptions for Research Station to indicate it crafts augments
 + Added compatibility check for Summer Sale Soda Mod
+
+## Patch 6.1
++ Reverted level for Soulseeker
