@@ -1671,4 +1671,5 @@
 + Added compatibility check for Summer Sale Soda Mod
 
 ## Patch 6.1
++ Added debug macro `unlocktech` - Unlocks all vanilla tech
 + Reverted level for Soulseeker

@@ -1,0 +1,20 @@
+[
+  {
+    "op": "add",
+    "path": "/unlocktech",
+    "value": [
+      "/enabletech sprint",
+      "/enabletech doublejump",
+      "/enabletech multijump",
+      "/enabletech rocketjump",
+      "/enabletech walljump",
+      "/enabletech distortionsphere",
+      "/enabletech spikesphere",
+      "/enabletech aquasphere",
+      "/enabletech sonicsphere",
+      "/enabletech dash",
+      "/enabletech airdash",
+      "/enabletech blinkdash"
+    ]
+  }
+]
