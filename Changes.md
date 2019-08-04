@@ -1678,3 +1678,5 @@
 + Reverted durability for Gold Pickaxe
 + Reverted durability for Platinum Pickaxe
 + Reverted durability for Silver Pickaxe
++ Increased drop rates by 2x for all ancient vault pots
++ Increased drop rates by 2x for ancient vault chests

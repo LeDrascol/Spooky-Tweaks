@@ -51,6 +51,30 @@
     "value": [
       [ 0, { "pool" : [ {"weight" : 0.7, "item" : "copperpickaxe"} ] } ]
     ]
+  },
+  {
+    "op": "replace",
+    "path": "/essenceBurst/0/1/pool/0/item/1",
+    "value": 16
+  },
+  {
+    "op": "replace",
+    "path": "/essenceBurst/0/1/pool/1/item/1",
+    "value": 18
+  },
+  {
+    "op": "replace",
+    "path": "/essenceBurst/0/1/pool/2/item/1",
+    "value": 20
+  },
+  {
+    "op": "replace",
+    "path": "/essenceBurst/0/1/pool/3/item/1",
+    "value": 22
+  },
+  {
+    "op": "replace",
+    "path": "/essenceBurst/0/1/pool/4/item/1",
+    "value": 24
   }
-
 ]

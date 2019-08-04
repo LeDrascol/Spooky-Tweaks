@@ -1,0 +1,27 @@
+[
+  {
+    "op": "replace",
+    "path": "/ancientPotSmall/0/1/pool/0/item/1",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/ancientPotMedium/0/1/pool/0/item/1",
+    "value": 2
+  },
+  {
+    "op": "replace",
+    "path": "/ancientPotMedium/0/1/pool/1/item/1",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/ancientPotLarge/0/1/pool/0/item/1",
+    "value": 4
+  },
+  {
+    "op": "replace",
+    "path": "/ancientPotLarge/0/1/pool/1/item/1",
+    "value": 6
+  }
+]
