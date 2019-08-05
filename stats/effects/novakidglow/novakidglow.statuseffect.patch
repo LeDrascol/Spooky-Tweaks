@@ -1,5 +1,11 @@
 [
   {
+    "op": "test",
+    "path": "/scripts",
+    "value": ["/scripts/spectra.lua"],
+    "inverse": true
+  },
+  {
     "op": "replace",
     "path": "/animationConfig",
     "value": "st_brightnovaglow.animation"
