@@ -1680,3 +1680,17 @@
 + Reverted durability for Silver Pickaxe
 + Increased drop rates by 2x for all ancient vault pots
 + Increased drop rates by 2x for ancient vault chests
++ Reduced maximum scaling for NPC armor to 60
++ Reduced scaling for NPC armor by 20%
++ Reduced scaling for monster health by 0.20
++ Reduced scaling for monster damage 5-10 by 0.3
++ Reduced scaling for space monster health 5 from 7.0 to 6.5
++ Reduced scaling for space monster health 6 from 8.5 to 7.0
++ Reduced scaling for space monster health 7 from 12.0 to 8.0
++ Reduced scaling for space monster damage 4 from 6.5 to 5.25
++ Reduced scaling for space monster damage 5 from 12.0 to 7.00
++ Reduced scaling for space monster damage 6 from 20.0 to 8.75
++ Increased scaling for player damage 5 from 3.0 to 3.5
++ Increased scaling for player damage 6-10 by 1.0
++ Increased scaling range for space monster damage from 7 to 10
++ Increased scaling range for space monster health from 7 to 10

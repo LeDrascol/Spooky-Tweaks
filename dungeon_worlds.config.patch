@@ -1,0 +1,22 @@
+[
+  {
+    "op": "replace",
+    "path": "/ancientvault_poison/threatLevel",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/ancientvault_electric/threatLevel",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/ancientvault_fire/threatLevel",
+    "value": 6
+  },
+  {
+    "op": "replace",
+    "path": "/ancientvault_ice/threatLevel",
+    "value": 6
+  }
+]
