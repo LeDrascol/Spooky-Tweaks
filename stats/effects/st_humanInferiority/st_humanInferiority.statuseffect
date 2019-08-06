@@ -2,7 +2,7 @@
   "name" : "st_humanInferiority",
 
   "effectConfig" : {
-    "multFalling": 10,
+    "multFalling": 1,
     "multAttack": 1.3,
     "statHealth": 0.7,
     "statEnergy": 0.7

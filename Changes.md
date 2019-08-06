@@ -1695,3 +1695,4 @@
 + Increased scaling range for space monster damage from 7 to 10
 + Increased scaling range for space monster health from 7 to 10
 + Added compatibility check for Solar Spectra
++ Reduced fall damage penalty from 10x to 1x for `st_humanInferiority`
