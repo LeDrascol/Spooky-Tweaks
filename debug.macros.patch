@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/unlocktech",
+    "path": "/enablealltech",
     "value": [
       "/enabletech sprint",
       "/enabletech doublejump",
@@ -15,6 +15,14 @@
       "/enabletech dash",
       "/enabletech airdash",
       "/enabletech blinkdash"
+    ]
+  },
+  {
+    "op": "add",
+    "path": "/enablemech",
+    "value": [
+      "/startquest '\"mechunlock\"'",
+      "/completequest mechunlock"
     ]
   }
 ]

@@ -1698,3 +1698,7 @@
 + Reduced fall damage penalty from 10x to 1x for `st_humanInferiority`
 + Removed icon from effect `st_humanInferiority`
 + Reduced effect strength from 30% to 20% for `st_humanInferiority`
+
+## Patch 6.2
++ Renamed debug macro `unlocktech` to `enablealltech`
++ Added debug macro `enablemech` - Instantly completes mech quest
